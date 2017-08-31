@@ -1,0 +1,4975 @@
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010001.gt.txt
+xxviij
+##|||#
+rrviif
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010002.gt.txt
+Von etlichen namhafftigen
+#||||||||||||||||||||||||
+Don etlichen namhafftigen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010003.gt.txt
+Kreü~teren / vnd jren
+-|||+||||||||||||||||
+~reüiteren / vnd jren
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010004.gt.txt
+tugenden.
+|||||||||
+tugenden.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010005.gt.txt
+JEwol ich
+-||||||||
+~Ewol ich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010006.gt.txt
+weiß dz nicht
+|||||||||||||
+weiß dz nicht
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010007.gt.txt
+allein eben da
+||||||||||||||
+allein eben da
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010008.gt.txt
+ran gelegẽ vñ
+|||||||||||||
+ran gelegẽ vñ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010009.gt.txt
+gn~ůgſam iſt /
+||+#||||||||||
+gnu gſam iſt /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/01000a.gt.txt
+wann du dir
+|||||||||||
+wann du dir
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/01000b.gt.txt
+kreüter brin⸗
+|||||||||#|||
+kreüter btin⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/01000c.gt.txt
+gen laſſeſt / vnnd jre tu~gent in bu◌ͤ⸗
+|||||||||||||||||||||||||+||||||||||||
+gen laſſeſt / vnnd jre tu gent in bu◌ͤ⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/01000d.gt.txt
+cheren liſeſt / Sond~er das auch~/
+||||||||||||||||||||+|||||||||||+|
+cheren liſeſt / Sond er das auch /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/01000e.gt.txt
+hoch nottwendig zůwiſſen in wel
+#||||||||||||||||#|||||||||||||
+boch nottwendig zuwiſſen in wel
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/01000f.gt.txt
+cher zeyt vn~nd an was orte ſy ge⸗
+||||||||||||+|||||||||||-||||||||#
+cher zeyt vn nd an was o~te ſy geo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010010.gt.txt
+wachſen ſind / wann vnnd wie jre
+|||||||||||||||||||||||||||||-#|
+wachſen ſind / wann vnnd wie ~te
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010011.gt.txt
+einſamlũg beſchehẽ / in was maſſe
+|||||||#||||||||||||-||||||||||||
+einſamlůg beſchehẽ /~in was maſſe
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010012.gt.txt
+prop~ortion die ſelbigẽ z~ům brauch
+|#||+|#|||||||||||||||-||+#||||||||
+ptop ontion die ſelbig~ zu m brauch
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010013.gt.txt
+geben vnd darg~ereich~et mu◌ͤſſendt
+||||||||||||||+||||||+||||||||||||
+geben vnd darg ereich et mu◌ͤſſendt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010014.gt.txt
+werd~en / vnd welche in jrem leben /
+||||+|||||||||||||||-|||||||||||||||
+werd en / vnd welche~in jrem leben /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010015.gt.txt
+d~as iſt / wann ſy noch grien vnnd
+|+||||||||||||||||||||||||||||||||
+d as iſt / wann ſy noch grien vnnd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010016.gt.txt
+ſafftig ſind jre tugend bald erzei⸗
+|||||||||||||||||||||||||||||||||||
+ſafftig ſind jre tugend bald erzei⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010017.gt.txt
+gend / ja auch welche nach jrẽ ſter⸗
+||||||-|#|||||||||||||||||||||||||||
+gend /~js auch welche nach jrẽ ſter⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0001/010018.gt.txt
+ben
+|||
+ben
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010001.gt.txt
+Kreü~ter
+||||+|||
+Kreüiter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010002.gt.txt
+ben / wann ſy gedo◌ͤrret dennocht
+|||||||||||||||||#|#|||||||||||#
+ben / wann ſy ged ◌ͤtret dennoche
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010003.gt.txt
+von Gott gnad entpfahen kreff⸗
+||||#||||||||||||||||||||||||-
+von Sott gnad entpfahen kreff~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010004.gt.txt
+tigklich jre ei~genſchafft zů erzey⸗
+||||||#||||||||+||||||||||||||||||||
+tigklieh jre ei genſchafft zů erzey⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010005.gt.txt
+gen. So wils diſer zeyt mir nicht
+|||||||||||||||||||||||||||||||||
+gen. So wils diſer zeyt mir nicht
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010006.gt.txt
+geſchickt ſein yetz erzelter dingen
+|||||||||||||||||||||||||||||||||||
+geſchickt ſein yetz erzelter dingen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010007.gt.txt
+nur in etwan einem~ gentzliche de⸗
+||||||||||||||||||+|||||||||||||||
+nur in etwan einemz gentzliche de⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010008.gt.txt
+claration z~ůeth~ůn / derhalbẽ blei⸗
+|||||||||||+#|||+#|||||||||||--|||||
+claration zu◌ͤethuün / derhalb~~blei⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010009.gt.txt
+be es alſo ſtehen biß zů gelegener
+||-||||||||||||||||||||#||||||||||
+be~es alſo ſtehen biß zu gelegener
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/01000a.gt.txt
+zeyt. Vnd demnach ich on alle ge⸗
+||-||-|||||||||||||||||||||||||||
+ze~t.~Vnd demnach ich on alle ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/01000b.gt.txt
+ſchicht bey Apuleio Platonico ge
+||||||||||#|||||||||#|||||||||||
+ſchicht bep Apuleio Wlatonico ge
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/01000c.gt.txt
+ſehen / das er etlichen ſternẽ / kreü⸗
+|||||||-||||||||||||||||||||||||||||#|
+ſehen /~das er etlichen ſternẽ / krei⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/01000d.gt.txt
+ter z~~ůgezellet ~(vilicht als bald die
+|||||++#|||||||||+#||||||||||||||||||||
+ter zu◌ͤ gezellet e vilicht als bald die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/01000e.gt.txt
+weil der ſelbi~gen kreü~ter eygen⸗
+||||||||||||||+||||||||+||||||||||
+weil der ſelbi gen kreü◌ͤter eygen⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/01000f.gt.txt
+ſchafft vñ angehenckte w~ürckung
+|||||||||||||||#||||||||+#||||||
+ſchafft vñ angebenckte wiirckung
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010010.gt.txt
+jrer ſternen ſich vergleichend) vñ
+|||||||||||||||||||||||||||||||||#
+jrer ſternen ſich vergleichend) vf
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010011.gt.txt
+das der f~ürtreffenlich gelert ma~ñ
+|||||||||+#||||||||||||||||||||||+#
+das der fiirtreffenlich gelert maii
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010012.gt.txt
+Marſilius Ficinus ſolliche auß⸗
+#||#|||||||||||||||||||||||||||
+Darfilius Ficinus ſolliche auß⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010013.gt.txt
+teilung der kreüter nicht ring ge⸗
+||||||||||||||||||||||||||||||||||
+teilung der kreüter nicht ring ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010014.gt.txt
+achtet nebend anderen / ~Hab ich
+||||||||||||||||||||||||+#||||||
+achtet nebend anderen / DDab ich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010015.gt.txt
+mir yetz fürg~eſetzet jhnen nachze⸗
+||||||||||#||+|||||||||||||||||||||
+mir yetz firg eſetzet jhnen nachze⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010016.gt.txt
+herſchen / vnnd etwas zeſchreiben
+|||||||||||||||||||||||||||||||||
+herſchen / vnnd etwas zeſchreiben
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010017.gt.txt
+von zwo◌ͤlff zeichen kreüterẽ / Dar⸗
+|||||||-|||||||||||||||||||-|||||||
+von zwo~lff zeichen kreüter~ / Dar⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010018.gt.txt
+nebend niem~ants kein geſatz z~ů⸗
+||||||||#||+|||||-||||||||||||+#|
+nebend ntemzants ~ein geſatz zuä⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0002/010019.gt.txt
+geben
+|||||
+geben
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010001.gt.txt
+Beſchreibung. xxix
+-||||-||||||||--|#
+~eſch~eibung. ~~ir
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010002.gt.txt
+geben ſy ſternen kreü~ter / zeychen
+|||||||||||||||||||||+|||||||||||||
+geben ſy ſternen kreüiter / zeychen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010003.gt.txt
+kreüter / waſſer / lufft oder ertrich
+|||||||||||||||||||||||||||||||||||||
+kreüter / waſſer / lufft oder ertrich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010004.gt.txt
+kreü~ter z~ůnambſen / ſonder yetli⸗
+||||+|||||+#||||||||||-||||||||||||
+kreüiter zu◌ͤnambſen / ~onder yetli⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010005.gt.txt
+chẽ ſy laſſen habẽ war fü~r er will /
+|||||||||||||||||-||#||||+|||||||||||
+chẽ ſy laſſen hab~ wnr füir er will /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010006.gt.txt
+mitt bega◌ͤr welle mir meine weiß
+||||||||#|||||||||||||||||||||||
+mitt begů◌ͤr welle mir meine weiß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010007.gt.txt
+jm ohne ſchaden auch laſſen: Die
+||||#||||||||||||||||||||||-||||
+jm obne ſchaden auch laſſen~ Die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010008.gt.txt
+weil ich yetzt zůr zeyt nichts dar⸗
+|||||||||#||||||#||||||||||||||||||
+weil ich zetzt zur zeyt nichts dar⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010009.gt.txt
+nach fragẽ ſo ho◌ͤhlich wie ſy ſollẽd
+|||||||||#||||--#|||||||||-|||||||-|
+nach frage ſo ~~bhlich wie~ſy ſoll~d
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/01000a.gt.txt
+geneñ~et werdẽ / Sonder mich ver
+|||||+|||||||||||||||#||||||||||
+geneñiet werdẽ / Sondar mich ver
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/01000b.gt.txt
+nu◌ͤgen ab diſem das ich weiß / ſye
+||-|||||||||||||||||||||||||||||#|
+nu~gen ab diſem das ich weiß / ſpe
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/01000c.gt.txt
+alle beſchaffen z~ů g~ůtẽ dem men⸗
+|||||||||||||||||+#||+#|||||||||||
+alle beſchaffen zñä gu◌ͤtẽ dem men⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/01000d.gt.txt
+ſchen nach bekandtnuß Dauids /
+||||||||||||||||||||||||||||||
+ſchen nach bekandtnuß Dauids /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/01000e.gt.txt
+Herr du macheſt die kreüter zů
+#||#|||||||||||||||||||||||||#
+ſern du macheſt die kreüter zu
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/01000f.gt.txt
+dienſt dem menſchen.
+||||||||||||||||||||
+dienſt dem menſchen.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010010.gt.txt
+Eleliſphacos.
+|||||||#|||||
+Eleliſpbacos.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010011.gt.txt
+Das kraut ſo dem ſternẽ Arieti
+|||||||||-||||||||||||-|||#|||
+Das kraut~ſo dem ſtern~ Arleti
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010012.gt.txt
+z~~ůgerechnet worden / heiſſend mir
+|++#||||||||||||#||||||||||||||||||
+zſi gerechnet wonden / heiſſend mir
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010013.gt.txt
+Teütſchen Salbey / iſt hitziger vñ
+#|#||||||||||||-||||||||||||||||||
+Ceitſchen Salbe~ / iſt hitziger vñ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010014.gt.txt
+tr~uckner natur / ein ſtauden mitt
+||+|||||||||||||||||||||||||||||||
+tr uckner natur / ein ſtauden mitt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010015.gt.txt
+vil neſten / hatt bletter gleich den
+||||||||||||||||||||||||||||||||||||
+vil neſten / hatt bletter gleich den
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010016.gt.txt
+k~~~ütten / allein das ſy lenger ſind /
+|+++##||||||||||||||||||-||||||||||||||
+k iiieten / allein das ſ~ lenger ſind /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010017.gt.txt
+rauch als t~ůch / weißfarb / mit einẽ
+|||||||||||+#||||||||||||||||||||||||
+rauch als tu◌ͤch / weißfarb / mit einẽ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010018.gt.txt
+ſt~arcken geruch / hatt him◌̃elblawe
+||+|||||||||||||||||||||||-#|||||||
+ſt arcken geruch / hatt hi~Gelblawe
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0003/010019.gt.txt
+E blu◌ͤm⸗
+--||#|||
+~~bla◌ͤm⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010001.gt.txt
+Kreüter
+|||||||
+Kreüter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010002.gt.txt
+blu◌ͤm~~lin / vnd einẽ ſamen ſich ver⸗
+||#||++||||||||||||||||||||||||||||||
+bla◌ͤmn lin / vnd einẽ ſamen ſich ver⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010003.gt.txt
+gleichend d~em ſcharlach / wachſet
+|||||||||||+||||||||||||||||||||||
+gleichend d em ſcharlach / wachſet
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010004.gt.txt
+gern in rauch~en orten / ſein zeit zů
+|||||||||||||+||||#|||||||||||||||||#
+gern in rauch en onten / ſein zeit zu
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010005.gt.txt
+brechen iſt weil die Soñ im wider
+|#|||||||||||||||||||||||||||||||
+btechen iſt weil die Soñ im wider
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010006.gt.txt
+vnd Scorpion lauffet / So hatt
+|||||||#||||||||||||||||||||||
+vnd Scotpion lauffet / So hatt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010007.gt.txt
+daß kraut diſe tugend. Dioſcor.
+|||||||||||||||||||||||||||||#|
+daß kraut diſe tugend. Dioſcon.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010008.gt.txt
+Die bru◌ͤe darinn geſotten iſt der
+|||||-##|||||||||||||||||||||||||
+Die b~iůe darinn geſotten iſt der
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010009.gt.txt
+ſten~gel vnd bletter ſalbey getrun
+||||+|||||||||||||||||||||||||||||
+ſten gel vnd bletter ſalbey getrun
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/01000a.gt.txt
+cken / treibet den harn / der wey~ber
+|||||||||||||||||||||||||||||||||+|||
+cken / treibet den harn / der wey ber
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/01000b.gt.txt
+fluß vnnd tod~te geburt. Diſe bru◌ͤe
+|#|||||||||||+||||||||||-||||||-|#|
+fiuß vnnd tod te geburt.~Diſe b~uue
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/01000c.gt.txt
+reiniget vnd hey~let die geſch~wa◌ͤr /
+||||||||||||||||+|||||||||||||+||||||
+reiniget vnd hey let die geſch wa◌ͤr /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/01000d.gt.txt
+ſtillet d~as blůten / Das iuckẽ auch
+||||#||||+|||||#||||||||||#|||||||||
+ſtiliet d as bluten / Das tuckẽ auch
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/01000e.gt.txt
+Fi⸗
+-||
+~i⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/01000f.gt.txt
+geſch~wulſt der ſcham.
+|||||+|#||||||||||||||
+geſch wülſt der ſcham.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010010.gt.txt
+cinus. Saluey iſt eyn krefftig
+|||||||||||||||||||#||||||||||
+cinus. Saluey iſt evn krefftig
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010011.gt.txt
+kraut / dz haupt zeſterckẽ / die f~lüß
+|||||||-|||#|||||||||||||-||||||||+##|
+kraut /~dz baupt zeſterck~ / die ftiiß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010012.gt.txt
+~zůtro◌ͤchnen / Aber ſchwãger frau⸗
++##||-||||||||||||||||||#|||||||||
+gu◌ͤtr~◌ͤchnen / Aber ſchw◌ͤger frau⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010013.gt.txt
+wẽ ſollend ſein nicht zů vil n~ütz~en
+|||||||||||||||||||||||#||||||+#||+||
+wẽ ſollend ſein nicht zu vil niitz en
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010014.gt.txt
+ſeiner treibenden krafft halb~en~.
+|||||||||||||||||||||||||||||+||+|
+ſeiner treibenden krafft halb enr.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010015.gt.txt
+Wiewol Agrippa geſagt ſy ſter⸗
+|||||||||||||#||||||||||||||||
+Wiewol Agripps geſagt ſy ſter⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010016.gt.txt
+cke die la◌ͤbliche entp~fenckn~uß / der
+||||||||||||||||||||||+||||||+||||||||
+cke die la◌ͤbliche entp fenckn uß / der
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010017.gt.txt
+halben die tragende Lo◌ͤwin ſal⸗
+||||||||||||||||||||##|||||||||
+halben die tragende CC◌ͤwin ſal⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010018.gt.txt
+uey gern verſchlinden. Ae⸗
+|||||||||||||||||||||||-|#
+uey gern verſchlinden. ~es
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/010019.gt.txt
+tius. Wañ ein kindbetterin am
+|||#||#||||||||||||||||||||||
+tiu0. iañ ein kindbetterin am
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0004/01001a.gt.txt
+vier⸗
+#||#|
+wiet⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010001.gt.txt
+Beſchreibung. xxx
+|||||#||||||||-##
+Beſchneibung. ~rr
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010002.gt.txt
+vierten tag nach jhrer reinigung
+||||||||||||||||||||||||||||||||
+vierten tag nach jhrer reinigung
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010003.gt.txt
+ein quertlin diſes krauts ſafft / ſo
+||||##||||||||||||||||||||||||||||||
+ein anertlin diſes krauts ſafft / ſo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010004.gt.txt
+etwas geſaltzen were tru~n~cke / v~ñ
+||||||||||||||||||||||||+|+|||||||+#
+etwas geſaltzen were tru n cke / vii
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010005.gt.txt
+mitt dem mann ſich verm~en~get~/
+|||||||||||||||||||||||+||+|||+|
+mitt dem mann ſich vermzen get /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010006.gt.txt
+wurde ſy on fa◌ͤlen ſchwan~ger wer
+|||||-|#|||||||||||||||||+|||||||
+wurde~ſp on fa◌ͤlen ſchwan ger wer
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010007.gt.txt
+den. Man ſpricht als von grauſa
+|||||#|||||#||||||||||||||||||#
+den. Oan ſpticht als von grauſs
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010008.gt.txt
+mer peſtilentz in Copto Aegypti
+||||||||||||||||||||||||||||||#
+mer peſtilentz in Copto Aegyptt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010009.gt.txt
+das volck ſchier auß~geſtorben ge⸗
+||||||||||||||||||||+|||||#|||||||
+das volck ſchier auß geſtonben ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/01000a.gt.txt
+wa◌ͤſt / habẽd die überb~leibne mañ
+|||||||||||-|||||||||||+|||||||||#
+wa◌ͤſt / hab~d die überb leibne mai
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/01000b.gt.txt
+in ſelbiger landſchafft jre wey~ber
+|||||||||||||||||||||||||||||||+|||
+in ſelbiger landſchafft jre wey ber
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/01000c.gt.txt
+gezwungẽ den ſafft ſaluey krauts
+|||||||-||||||||||||||||-|||||#|
+gezwung~ den ſafft ſalue~ kraues
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/01000d.gt.txt
+zůdrincken / vnd d~urch ſein krafft
+|###||||||||||||||+||||||||||||||||
+zu◌ͤdincken / vnd d urch ſein krafft
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/01000e.gt.txt
+wider zů g~ůter an~zal kinder kom
+|||||||#||+#||||||+||||||||||||||
+wider zu gu◌ͤter an zal kinder kom
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/01000f.gt.txt
+men. Orpheus. Wid~er dz bl~ůt
+|||||-#|#||||||||+||||||||+#|
+men. ~Dpbeus. Wid er dz blu◌ͤt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010010.gt.txt
+außſpey~en trinck nu◌ͤch~ter zwen ba◌ͤ
+|||||||+|||||||||||||||+|||||||||||-
+außſpey en trinck nu◌ͤch ter zwen ba~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010011.gt.txt
+cherli ſafft mitt einer vntz honig.
+|||||||||||||||||||||||||||||||||||
+cherli ſafft mitt einer vntz honig.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010012.gt.txt
+Apul. vnd Orpheus lern~end vol⸗
+-|||||||||-#||||||||||+||||||||
+~pul. vnd ~ipheus lern end vol⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010013.gt.txt
+gen~de pillen zů~m~achen / derẽ man
+|||+||||||||||||+|+|||||||||||-||||
+gen de pillen zůüm achen / der~ man
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010014.gt.txt
+alle morgen vñ~ abends zwen ſcru
+||||||||||||||+||||||||||||||#||
+alle morgen vñi abends zwen ſeru
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010015.gt.txt
+pel dem ſchweinſüchtẽ ſoll geben /
+||||||||||||||||#|||||||||||||||||
+pel dem ſchweinſichtẽ ſoll geben /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010016.gt.txt
+v~nnd gleich darauf heiſſen drin⸗
+|+|||||||||||||||||||||||||||#|||
+v nnd gleich darauf heiſſen duin⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010017.gt.txt
+ckẽ law waſſer. Nim ſpicanarden
+|||||||||||||||||||||-|||||||||
+ckẽ law waſſer. Nim ſ~icanarden
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0005/010018.gt.txt
+ein quint / gedo◌ͤrten geſtoß~nen ſal
+||||-||||||||||--#||||||||||+|||||||
+ein ~uint / ged~~nten geſtoßinen ſal
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010001.gt.txt
+Kreüter
+|||||||
+Kreüter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010002.gt.txt
+uey ſam~ẽ zwen quint / lan~genpfef
+#||||||+#|||||||||||||-|||+|||||||
+ney ſamne zwen quint /~lan genpfef
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010003.gt.txt
+fer zween ſcrupel / ſaffts von ſal⸗
+|||||||||||#|||||||||||||||||||||||
+fer zween ſerupel / ſaffts von ſal⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010004.gt.txt
+uey ſo vil du notturfftig einẽ teig
+|||||||||||||||||||||||||||||-|||||
+uey ſo vil du notturfftig ein~ teig
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010005.gt.txt
+vnd pillulen auß an~zeigten mit⸗
+|||||||||||||||||||+||||||||||||
+vnd pillulen auß an zeigten mit⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010006.gt.txt
+tlen zemachẽ. Nim ſaluey / roſma⸗
+||||||||||||-|#|||||||||||||||||#
+tlen zemachẽ~ .im ſaluey / roſmai
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010007.gt.txt
+rin / maioran / mintz / ſo am lufft ge
+||||||||||#|||||||||||||||||||||||||||
+rin / maiotan / mintz / ſo am lufft ge
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010008.gt.txt
+do◌ͤrret vnd im zůnem◌̃en deß Mo⸗
+|||#||||||||||||#||-#|||||||#||
+do◌ͤtret vnd im zune~ien deß Do⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010009.gt.txt
+nes vnder dem wider eingeſam~let
+||||||||||||||||||||||||||||+|||
+nes vnder dem wider eingeſam let
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/01000a.gt.txt
+worden g~leich vil / darzů th~ůn gů
+||#|||||+||||#|||||||||||-#||+#|||#
+wonden g leicb vil / darz~uth un gi
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/01000b.gt.txt
+tẽ weiſſen wein / vermachs beha◌ͤb /
+|#||||||||||||||||||||||||||||##|||
+te weiſſen wein / vermachs beh ab /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/01000c.gt.txt
+laß viiij ſtund ſtehn / diſtillier im
+||||#|||-||||||||||#|||||||||||||||||
+laß ziii~ ſtund ſtebn / diſtillier im
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/01000d.gt.txt
+balneo marie den weyn her~~über /
+|||||||||||||||||||#|||||++#|||||
+balneo marie den wezn herii ber /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/01000e.gt.txt
+drinck allweg morgẽs d~aruon ein
+|#||||||||||||||#|#|||+|||||||#|
+duinck allweg motges d aruon etn
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/01000f.gt.txt
+tr~üncklein / würſt ein herrlich~en
+#|+#|||||||||||#|||||||||||-||||+||
+rriincklein / wirſt ein her~lich en
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010010.gt.txt
+tranck befinden / welcher ſtercket
+||||||||||||||||||||||||||||||||||
+tranck befinden / welcher ſtercket
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010011.gt.txt
+das h~o~upt / veriagt den ſch~win~del
+|||||+|+|||||||||||||||||||||+|||+|||
+das h o upt / veriagt den ſch win del
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010012.gt.txt
+vnd das krim◌̃en im leyb / ma~chet
+|||||||||||##|||||||||||||||+||||
+vnd das kriññen im leyb / ma chet
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010013.gt.txt
+wol de~üwen den m~agen / vñ~ behu◌ͤt
+||||||+#|||||||||+|||||||||+||||-#|
+wol deirwen den mnagen / vñi beh~ůt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010014.gt.txt
+vor der fallen~den ſucht.
+||-|||||||||||+||||||||||
+vo~ der fallen den ſucht.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010015.gt.txt
+Periſtereon Orthos.
+#||||||||||||#|#|||
+Weriſtereon Oitbos.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010016.gt.txt
+Verbena erecta ſo dem him~~m~~e
+|||||||||||||||||||||||#|++|++|
+Verbena erecta ſo dem htmn mrte
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010017.gt.txt
+liſchẽ Stier z~ůg~erech~net word~en /
+|||||-||||||||+#|+|||||+||||||||+||||
+liſch~ Stier zu◌ͤg erech net word en /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010018.gt.txt
+w~achſet in wyſen / ſpañ~en hoch vñ
+|+||||||-||||#|||||-||||+|||||||||#
+w achſet~in wzſen /~ſpañien hoch vü
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0006/010019.gt.txt
+etwa~~n
+||||++#
+etwaues
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010001.gt.txt
+Beſchreibung. xxxi
+|||||-|||||#||###|
+Beſch~eibuna. rrri
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010002.gt.txt
+etwan ho◌ͤher / iſt ein fe~iſts ſtenge⸗
+||||||||-||||||||||||||||+||#|||||||||
+etwan ho~her / iſt ein feeiſis ſtenge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010003.gt.txt
+lin / ſein kr~aut iſt dẽ balſam nicht
+|||||||||||||+|||-|||||-|||#|||||||||
+lin / ſein kr aut~iſt d~ baiſam nicht
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010004.gt.txt
+vna◌ͤnlich / hatt kleine ka◌ͤrflein / et⸗
+||||||||||||||#||||||||||||||||||||||||
+vna◌ͤnlich / haet kleine ka◌ͤrflein / et⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010005.gt.txt
+was rauch / die entſprieſſend auß
+|||||||||||||||||||||#|||||||||||
+was rauch / die entſpnieſſend auß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010006.gt.txt
+dem ſtengel / blu◌ͤet gewon~lich im
+||||||||||||||||#|||||||||+|||||||
+dem ſtengel / blů◌ͤet gewon lich im
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010007.gt.txt
+~Mertzen vnd Aprillen / iſt einzů⸗
++#|||||||||||||#||#|||||||||||||#|
+cDertzen vnd Aptilien / iſt einzs⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010008.gt.txt
+ſamlen weil die Sonn im Stier
+|||||||||||||||||||||||||||||
+ſamlen weil die Sonn im Stier
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010009.gt.txt
+jren gang hat / wirt Brunellen z~ů
+||||||||||||||||||||||#|||||||||+#
+jren gang hat / wirt Btunellen zu◌ͤ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/01000a.gt.txt
+te~üdtſch geh~eiſſen / wiewol vom
+||+#|||||||||+|||||||||||||||||||
+teiidtſch geh eiſſen / wiewol vom
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/01000b.gt.txt
+fro~m~men vnd hocherfarnen Jo⸗
+|||+|+||||||||||||||||||||||||
+fro m men vnd hocherfarnen Jo⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/01000c.gt.txt
+hann Cuba / nachm~alen Eucha⸗
+|||||||||||||||||+|||||||||||
+hann Cuba / nachm alen Eucha⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/01000d.gt.txt
+rion Ro◌ͤßli diß kraut Verbena ſu
+|||||-||||||||||||||||#|||||||||
+rion ~o◌ͤßli diß kraut Werbena ſu
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/01000e.gt.txt
+pina ern~am~ſet iſt / habe ich nicht
+||||||||+||+||||||||||||||||||||||||
+pina ern am ſet iſt / habe ich nicht
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/01000f.gt.txt
+deſtminder dieweil mir g~ůt wiſ⸗
+||||||||||||||||||||||||+#||||||
+deſtminder dieweil mir gu◌ͤt wiſ⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010010.gt.txt
+ſen tragent / das die beſchreibung
+|||||||||||||||||||||||||||#||||||
+ſen tragent / das die beſchteibung
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010011.gt.txt
+Dioſcoridis verbene ſupine / vnſe
+|#||||#||||||||||||||||||||||||||
+Dtoſconidis verbene ſupine / vnſe
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010012.gt.txt
+rem ey~ſenkraut (~wie bald ho◌ͤren
+||||||+||||||||||+||||||||||--#||
+rem ey ſenkraut ( wie bald h~~ten
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010013.gt.txt
+wirſt) ſo knües ho◌ͤhe wachſet z~ů⸗
+|||||||||||||||||--||||||||||||+#|
+wirſt) ſo knües h~~he wachſet zñ◌ͤ⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010014.gt.txt
+geho◌ͤret / yetzgemelte Brunellam
+||--##||||||||||||||||||#|||||||
+ge~~btet / yetzgemelte Btunellam
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010015.gt.txt
+das recht periſtereon orthos z~ů⸗
+|||||||||||||||||||||||-||||||+#|
+das recht periſtereon o~thos zu◌ͤ⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010016.gt.txt
+ſein vermeinet / yedoch niemants
+||||||||||||||||||||||||||||||||
+ſein vermeinet / yedoch niemants
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010017.gt.txt
+diſes alſo z~ůnamſen / bezwingen
+||||||||||||+#||||||||||||||||||
+diſes alſo zu◌ͤnamſen / bezwingen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010018.gt.txt
+noch vberdiſputiert bega◌ͤrẽ. Wi⸗
+||||||||||||||||||||||||||||-|--
+noch vberdiſputiert bega◌ͤrẽ.~W~~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0007/010019.gt.txt
+E iij der
+|||-#||||
+E i~t der
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010001.gt.txt
+Kreü~ter
+||||+|||
+Kreüiter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010002.gt.txt
+der die ſchrund~en vnd flechten ſo
+|||||||||||#|||+||||||||||||||||||
+der die ſchtund en vnd flechten ſo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010003.gt.txt
+vmb ſich freſſendt. Nim Brunel⸗
+||||#|||||||||||||-||||||#|||||
+vmb fich freſſendt~ Nim Biunel⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010004.gt.txt
+len / ſteinclee y~etliches gleich viel /
+|||||||||||||||||+||||||||||||||||||||||
+len / ſteinclee y etliches gleich viel /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010005.gt.txt
+ſtoß vñ th~ůn doran terpentin laß
+||||||||#|+#||||#||||||||||||||||
+ſtoß vñ ehu◌ͤn dotan terpentin laß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010006.gt.txt
+wol ſieden / bra◌ͤß die bru◌ͤ auß doran
+||||||||||||||-|||||||||##||||||||#||
+wol ſieden / b~a◌ͤß die btů◌ͤ auß donan
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010007.gt.txt
+th~ůn ein wenig gebran~ten alant
+||+#||||||||||||||||||+|||||||||
+thu◌ͤn ein wenig gebran ten alant
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010008.gt.txt
+mirrhẽ vñ wachs / pflaſters vber.
+|||#||||#||||||||||||||||||||||||
+mirnhẽ vi wachs / pflaſters vber.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010009.gt.txt
+Die hitz von der bre~üne auß d◌̉ zun
+||||||||||||||||||#|+#||||||||-||||
+Die hitz von der bteiine auß d~ zun
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/01000a.gt.txt
+gen vñ~ mund zeziehen / Nim~ Bru
+||||||+||||||||||||||||||||+||#|
+gen vñi mund zeziehen / Nimn Biu
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/01000b.gt.txt
+nellen / guldin guntzel / ſe~üds in
+||||||||||||||||||||||||||||+#|||||
+nellen / guldin guntzel / ſeiids in
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/01000c.gt.txt
+weiſſem wein / mitt dem ſelbigen
+||||||||||||||||||||||||||||||||
+weiſſem wein / mitt dem ſelbigen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/01000d.gt.txt
+ſchwencke d~en m~und ~yedickeſt.
+|||||||||||+||||+||||+#|||||||||
+ſchwencke d en m und v edickeſt.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/01000e.gt.txt
+Periſtereon ~Hyptios.
+#|||||||||||+#|||||||
+Weriſtereon 1Oyptios.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/01000f.gt.txt
+Eyſenkraut wach~ſet eines ellen~⸗
+|#|||||||||||||+|||||||||||||||+|
+E ſenkraut wach ſet eines ellen ⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010010.gt.txt
+bogen hoch / zůn zeiten auch ho◌ͤ⸗
+||||||||||||||#|||||||||||||||--#
+bogen hoch / zun zeiten auch h~~s
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010011.gt.txt
+her / mitt düñen ſten~gelin bey den
+|||-||||||||##|||||||+|||||||||||||
+her~/ mitt diſen ſten gelin bey den
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010012.gt.txt
+m~aurẽ / auch an vn~g~ebauwten or
+|+|||#|||||||||||||+|+|||||||||||
+m aure / auch an vn g ebauwten or
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010013.gt.txt
+ten / hatt zerſpaltne bletter etwas
+|||||||||||||||||||||||||||||-|||||
+ten / hatt zerſpaltne bletter~etwas
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010014.gt.txt
+grawferbig / tregt k~leine leibfar⸗
+||||||||||||||||||||+||||||||||||||
+grawferbig / tregt k leine leibfar⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010015.gt.txt
+be blu◌ͤmlin an den gypffeln / vn~d
+||||||||||||||||||||||||||||||||+|
+be blu◌ͤmlin an den gypffeln / vnnd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010016.gt.txt
+derẽ zů m~al nicht vil / hat ein d~ün~⸗
+||||||#||+||||||||||||||||||||||||+#|+|
+derẽ zñ mnal nicht vil / hat ein diin ⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010017.gt.txt
+ne lange wurtzel doran ſind nebẽt
+|||||||||||||||||||#|||||||||||#|
+ne lange wurtzel dotan ſind neb◌ͤt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010018.gt.txt
+a◌ͤderlin. Dioſc. Eiſenkraut ge⸗
+|-|||||||||||||||||||||||||||||
+a~derlin. Dioſc. Eiſenkraut ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0008/010019.gt.txt
+ſotte~n
+|||||+#
+ſotters
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010001.gt.txt
+Beſchreibung.
+|||||-|||||||
+Beſch~eibung.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010002.gt.txt
+ſotten vnd truncken benimpt das~
+|||||||||||||||||||||||||||||||+
+ſotten vnd truncken benimpt das.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010003.gt.txt
+gifft im leyb. Aetius. Die bru◌ͤ
+|||||||||||#||||||||||||||||--#
+gifft im lepb. Aetius. Die b~~i
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010004.gt.txt
+darinn diß kraut geſotten iſt / im
+||||||||||||||||||||||||||||||||||
+darinn diß kraut geſotten iſt / im
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010005.gt.txt
+m~und gehaltẽ ſtillet deß zanwee /
+|+||||||||||-|||||||||||||||||||||
+m und gehalt~ ſtillet deß zanwee /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010006.gt.txt
+vnnd m~achet feſt der za◌ͤn bilder.
+||||||+|||||||||||||||||||||||||||
+vnnd m achet feſt der za◌ͤn bilder.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010007.gt.txt
+Apul. Wilt geſchwulſt / ſchmer⸗
+|||||||||||||||#||||||||||#||||
+Apul. Wilt geſcbwulſt / ſcbmer⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010008.gt.txt
+tzen vñ~ das rin~nen der augen ſtil⸗
+|||||||+||||||||+||||||||||||||||||#
+tzen vñi das rin nen der augen ſtilo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010009.gt.txt
+len / Nim ſaffrã anderhalb quĩt~/
+|||||||||||||||-|||||||||||||#|+|
+len / Nim ſaffr~ anderhalb quit /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/01000a.gt.txt
+am~melma◌ͤl xv gran / tragacant
+||+#|||||||-#|||||||||||||||||
+aminelma◌ͤl ~w gran / tragacant
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/01000b.gt.txt
+halb quĩt / eyerclar ſo wol geklopf
+|||||||#|||||#|||||||||||||||||||||
+halb quit / e erclar ſo wol geklopf
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/01000c.gt.txt
+fet ein wenig / Eiſenkraut ſafft ſo
+|||||||||||||||-|||||||||||||||||||
+fet ein wenig /~Eiſenkraut ſafft ſo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/01000d.gt.txt
+viel du deß gehaben můſt z~ů ma⸗
+||||||||||||||#||||||#||||+#||||
+viel du deß gebaben muſt zu◌ͤ ma⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/01000e.gt.txt
+chen ein dü~nn ſelblin~ / das ſchlach
+|||||||||||+||||||||||+||||||||||||||
+chen ein düinn ſelblinn / das ſchlach
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/01000f.gt.txt
+mitt hanff ~über. Ein ſalb zů⸗
+|||||||||||+#|||||||||||||||#|
+mitt hanff iiber. Ein ſalb zñ⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010010.gt.txt
+machen ſo in kurtzer zeit alte fau⸗
+|||||||||||||||||||||||||||||||||||
+machen ſo in kurtzer zeit alte fau⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010011.gt.txt
+le vnd newe ſchaden hey~let / nach
+|||||#|-#||||||||||||||+||||||||||
+le vnz ~gwe ſchaden hey let / nach
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010012.gt.txt
+dem der ſelbigen runß innerlich
+|||||||||||||||||||||||||||||||
+dem der ſelbigen runß innerlich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010013.gt.txt
+durch medicin abgewendet wor⸗
+|||||||||||||||||||||||||||||
+durch medicin abgewendet wor⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010014.gt.txt
+dẽ / Nim~ eiſenkraut / ſanickel / gar
+-#|--|||+||||||||||||||||||||||||||||
+~E ~~Nimn eiſenkraut / ſanickel / gar
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010015.gt.txt
+bẽ yetlich~es vier handuol / tormen
+|###||||||+|||||||||||||||||-||##||
+b p etlich es vier handuol /~tonnen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010016.gt.txt
+til / zwo handuol / ſtoß in einẽ mo◌ͤr
+||||||||||||||||||||||||||||||||||||#
+til / zwo handuol / ſtoß in einẽ mo◌ͤt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010017.gt.txt
+ſelſtein gar wol / bra◌ͤß die ſafft wol
+||||||||||||||||||||||||||||||||||||||
+ſelſtein gar wol / bra◌ͤß die ſafft wol
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010018.gt.txt
+auß / nim~ andere gem~elte kreüter
+|||||||||+|||||||||||+||||||||||||
+auß / nimz andere gem elte kreüter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0009/010019.gt.txt
+E iiij vnd
+|||||-||||
+E iii~ vnd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010001.gt.txt
+Kreü~ter
+||||+|||
+Kreüiter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010002.gt.txt
+vnd ſtoſſe ſy auch / th~ůn die fordri
+||||||||||||#||||||||||+#||||||||#|#|
+vnd ſtoſſe ſr auch / thu◌ͤn die fondii
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010003.gt.txt
+ge außgebra◌ͤſte ſafft darüber / dar
+|||||||||#|||||||||||||||#|||||||||
+ge außgebta◌ͤſte ſafft dariber / dar
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010004.gt.txt
+zů zwelff lott meyenancken / drei
+-#||||||||||||||||||||||||||||#||
+~u zwelff lott meyenancken / dnei
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010005.gt.txt
+lott gereinig~ten terp~en~tin / laß al
+|||||||||||||+||||||||+||+||||||||||||
+lott gereinig ten terp en tin / laß al
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010006.gt.txt
+les mitein~an~der ſittlichen ſieden~/
+||||||||||+||+|||||||||||||||||||||+|
+les mitein an der ſittlichen ſieden /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010007.gt.txt
+trucks durch ein th~ůch / zů diſer
+|||||||||||||||||||+#||||||#||||||
+trucks durch ein thu◌ͤch / zñ diſer
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010008.gt.txt
+durchgetruckten bru◌ͤye th~ůn bley
+|||||||||||||||||#|-#||||+#||||||
+durchgetruckten btu~ze thu◌ͤn bley
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010009.gt.txt
+weis auff deß aller reineſt geb~ülf⸗
+|||||||||||||||||||||||||||||||+#|||
+weis auff deß aller reineſt gebiilf⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/01000a.gt.txt
+feret ein lott / wachs ſo viel du ge⸗
+|||||||||||||||||||||||||||||||||||||
+feret ein lott / wachs ſo viel du ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/01000b.gt.txt
+habẽ m~ůſt ein ſalbe daraus zema
+||||||+#||||||||||||||||||||||||
+habẽ mu◌ͤſt ein ſalbe daraus zema
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/01000c.gt.txt
+chen. Wartzen z~ůuertreibẽ / ſchni
+|||||||||||||||+#||||||||||||||#||
+chen. Wartzen zu◌ͤuertreibẽ / ſcbni
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/01000d.gt.txt
+de ſy auff weſchs mitt ſafft diſes
+||||||||||||||||||||#|||||||||||||
+de ſy auff weſchs miet ſafft diſes
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/01000e.gt.txt
+krauts / als dañ ſtrewe p~ulffer võ
+|||||||||||||||||||||||||+||||||||#
+krauts / als dañ ſtrewe p ulffer vo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/01000f.gt.txt
+Baſilien ſamen darein / ſo zeü~ch~ſt
+||||||||||||||||||||||||||||||+||+||
+Baſilien ſamen darein / ſo zeüich ſt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010010.gt.txt
+die wartzen m~it jrer wurtzel rauß.
+|||||||||||||+|||#|||||||||||||||||
+die wartzen mzit ſrer wurtzel rauß.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010011.gt.txt
+Sy~mphy~tos.
+||+||||+||||
+Sy mphy tos.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010012.gt.txt
+Das viert~k~raut dem~ kra◌ͤbs ge⸗
+|||||||||+|+||||||||+|||||||||||
+Das viert k raut demn kra◌ͤbs ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010013.gt.txt
+ho◌ͤrig / iſt ein fü~rnem◌̃ kraut bey dẽ
+||-#||||-||||||||||+|||##|||||||||#||-
+ho~tig /~iſt ein füirneññ kraut bez d~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010014.gt.txt
+wun~dartz~ten / wachſet in ſond~ers
+|||+|||||+|||||||||||||||||||||+|||
+wun dartz ten / wachſet in ſond ers
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010015.gt.txt
+bey vns rum m~itt der viele / m~ehr
+|||||||||||||+|||||||||||||||||+||#
+bey vns rum mzitt der viele / m eht
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010016.gt.txt
+dañ ich niend~ert geſehen auff der
+|||||||||||||+||||||||||||||||||||
+dañ ich niend ert geſehen auff der
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010017.gt.txt
+ein hohen ſtengel wie genßdiſtel /
+||||||||||||||||||||||||||||||||||
+ein hohen ſtengel wie genßdiſtel /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010018.gt.txt
+wyſen gra◌ͤben bey ~~Mutterz / hatt
+|-||||||||||||||||++#||||#||||||||
+w~ſen gra◌ͤben bey e Duttetz / hatt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0010/010019.gt.txt
+wel⸗
+||||
+wel⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010001.gt.txt
+Beſchreibung. xxxiij
+|||||-||||||||###|--
+Beſch~eibung. rrri~~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010002.gt.txt
+welcher etwan zweyer ellen hoch
+|||||||||||||||||||||||||||||||
+welcher etwan zweyer ellen hoch
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010003.gt.txt
+vnd mehr wachſet / iſt faſt h~oricht
+|||||||#|||||||||||||||||||||+|#||||
+vnd meht wachſet / iſt faſt h ouicht
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010004.gt.txt
+vnd rauch mit vilen zweiglin / an
+||||||||||||||||||||-||||||||||||
+vnd rauch mit vilen ~weiglin / an
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010005.gt.txt
+vnnd vmb jn hat er lan~ge rauche
+||||||||||||||||||||||+|||||||||
+vnnd vmb jn hat er lannge rauche
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010006.gt.txt
+bletter / ſchier wie alant wurtzel
+||||||||||||||||||||||||||||||||||
+bletter / ſchier wie alant wurtzel
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010007.gt.txt
+kraut / tr~egt et~wan braune etwan
+||||||||||+||||||+||||||||||||||||
+kraut / tr egt et wan braune etwan
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010008.gt.txt
+bleiche weiß~gelbe / etwan ſchnee⸗
+||||||||||||+|||||||||||||||||||||
+bleiche weiß gelbe / etwan ſchnee⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010009.gt.txt
+weiſſe bl~ůmen / a◌ͤnlich den ſchliſſel
+|||||||||+#|||||||||||||||||||||||||||
+weiſſe blu◌ͤmen / a◌ͤnlich den ſchliſſel
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/01000a.gt.txt
+bl~ům~en / ſein wurtzel iſt auſſert⸗
+||+#|+||||||||||||||||||#|||||||||||
+blu◌ͤmnen / ſein wurtzel jſt auſſert⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/01000b.gt.txt
+h~alb ſchwartz braun / in~nwendig
+|+|||||||||||||||||||||||+|||||||
+h alb ſchwartz braun / in nwendig
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/01000c.gt.txt
+ſcho◌ͤn weis weich vnd kla◌ͤberecht.
+|||-||||||||||||||||||||||||||||||
+ſch~◌ͤn weis weich vnd kla◌ͤberecht.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/01000d.gt.txt
+Apu~l. Zů wenden das bl~ůt auß⸗
+|||+|||-#||||||||||||||+#||||||
+Apuil. ~u wenden das blu◌ͤt auß⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/01000e.gt.txt
+ſpeien / vñ auch der weiber fluß / ſo
+||||||||||||||||||||||||||||||||||-||
+ſpeien / vñ auch der weiber fluß /~ſo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/01000f.gt.txt
+gib ein zů nem◌̃en alle morgẽ eins
+|||||||||||||##|||||||||##|#|||||
+gib ein zů nefñen alle meige eins
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010010.gt.txt
+quints ſchwer volgẽder ku◌ͤchlein.
+||||||||||||||||||#|||||#||||||||
+quints ſchwer volg◌ͤder ka◌ͤchlein.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010011.gt.txt
+Als Eppichſamẽ and◌̉halb quĩt /
+-||||||||#|||-||||-|||||||#|||
+~ls Eppicbſam~ and~halb quit /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010012.gt.txt
+a◌ͤnis ein quint / zim◌̃et ſaffran drit
+|-||||||||-|||||||||-#||||||||||||-|#
+a~nis ein ~uint / zi~ĩet ſaffran d~ie
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010013.gt.txt
+halb ſcrupel / ſchwertelwurtz halb
+||||||||||||||||||||||||||||||||||
+halb ſcrupel / ſchwertelwurtz halb
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010014.gt.txt
+quint / ſtoß vn~nd vermiſchs / nim
+|||||||||||||||+||||||||||||||||||
+quint / ſtoß vn nd vermiſchs / nim
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010015.gt.txt
+walwurtzen ſaffts ſo vil du es ha⸗
+|||||||||||||||#||||||||||||||||||
+walwurtzen ſaffrs ſo vil du es ha⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010016.gt.txt
+ben mů~ſt zeordnen / auß yetz erzel⸗
+||||||+||||||#|||||||||||||||-||||||
+ben mů◌ͤſt zeondnen / auß yetz~erzel⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010017.gt.txt
+ten mitteln einen teig vñ~ ku◌ͤchlin.
+|||||||||||||||||||||||||+||#|||||||
+ten mitteln einen teig vñi ka◌ͤchlin.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010018.gt.txt
+Dioſc. wirdt diſer wurtzel bey
+|#|||||||||||||||||||||||||||#
+Dtoſc. wirdt diſer wurtzel bez
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0011/010019.gt.txt
+E v fleiſch
+|||||||||||
+E v fleiſch
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010001.gt.txt
+Kreüter
+|||||||
+Kreüter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010002.gt.txt
+fleiſch geſotten ſo wallets zeſam⸗
+||||||||||||||||||||||||||||||||||
+fleiſch geſotten ſo wallets zeſam⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010003.gt.txt
+men. Siede zwelff pfund kra◌ͤbs⸗
+|||||||||||||||||||||||||||||||
+men. Siede zwelff pfund kra◌ͤbs⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010004.gt.txt
+kraut wallwurtz g~eheiſſen in ei⸗
+|||||||||||||||||+|||||||||||||||
+kraut wallwurtz g eheiſſen in ei⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010005.gt.txt
+nẽ omen waſſer biß auff das halb
+||||||||||||||||||||||||||||#|||
+nẽ omen waſſer biß auff das balb
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010006.gt.txt
+ein / mitt diſer bru◌ͤe ſchmir leder ſo
+|||||||||#||||||||##||||||||||||||||||
+ein / mite diſer btů◌ͤe ſchmir leder ſo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010007.gt.txt
+wirts nicht hart. Das waſſer dor⸗
+||||||||||||||||-||||||||||||||#|
+wirts nicht hart~ Das waſſer don⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010008.gt.txt
+inn diſer wurtzel geſottẽ iſt / ſthet
+||||||||||||||||||||||||--|||||||||||
+inn diſer wurtzel geſott~~iſt / ſthet
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010009.gt.txt
+wie ein galrey. Von diſer wurtzel
+|||||||||||||||-|||||||||||||||||
+wie ein galrey.~Von diſer wurtzel
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/01000a.gt.txt
+getruncken raumet die bruſt / hey⸗
+|||||||||||||||||||||||-#||||-||||
+getruncken raumet die b~nſt /~hey⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/01000b.gt.txt
+let die verſerte lung / treibet auß
+#||||||||||||||||||||||||||||||||||
+tet die verſerte lung / treibet auß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/01000c.gt.txt
+den koder / iſt g~ůt denen ſo b~lůt
+|||||||||||||||||+#||||||||||||+|#|
+den koder / iſt gu◌ͤt denen ſo b lut
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/01000d.gt.txt
+ſpe~üwen. Ob einem kin~dt der na⸗
+|||+#||||-||||||||||||+||||||||||
+ſpeiiwen.~Ob einem kin dt der na⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/01000e.gt.txt
+bel zů weit rauſſer bortzet / ni~m◌̃ ey⸗
+|||||#||||||||||||||||||||||||||+##||#|
+bel zu weit rauſſer bortzet / nifñi ez⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/01000f.gt.txt
+lẽts ſchnitz võ friſcher wallwurtz /
+|-||||||||||||#|||||||||||||||||||||
+l~ts ſchnitz vo friſcher wallwurtz /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010010.gt.txt
+binds jhm auff den nabel / thůns
+||||||-||||||||||||||||||||||-||
+binds ~hm auff den nabel / th~ns
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010011.gt.txt
+offt ſo wirſt jh~m zehilff komm~en.
+||||||||||||||||+||||||||||||||+|||
+offt ſo wirſt jh m zehilff komm en.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010012.gt.txt
+Mit diſem kraut vñ w~urtzen kan
+#|||||||||||||||||||+||||||||||
+Dit diſem kraut vñ w urtzen kan
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010013.gt.txt
+m~ann die kr~a◌ͤbs reitzen / das ~ſy vß
+|+||||||||||+|||||||||||||||||||+#||||
+mmann die kr a◌ͤbs reitzen / das fJy vß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010014.gt.txt
+den lecheren kriechen vn~nd k~o~~m⸗
+||||||||||||||||||||||||+||||+|++#|
+den lecheren kriechen vn nd k o rn⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010015.gt.txt
+ment auff ein ſetzba◌ͤren / aber wie
+|||||||||||||||||||||||||||||||||||
+ment auff ein ſetzba◌ͤren / aber wie
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010016.gt.txt
+das ſelbig zůghet laß ich yetz rů⸗
+||||||||||||||||||||||||||||||||-|
+das ſelbig zůghet laß ich yetz r~⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010017.gt.txt
+wen / ſagen dir auß erfarung / wel⸗
+|||||-|||||||||||||||||||||||||||||
+wen /~ſagen dir auß erfarung / wel⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010018.gt.txt
+cher ſeltzame ſcho◌ͤne vnd doch na⸗
+|||||||||||||-|||-||||||||||||||||
+cher ſeltzame~ſch~◌ͤne vnd doch na⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0012/010019.gt.txt
+t~ü~r⸗
+|+|+||
+t üir⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010001.gt.txt
+tü~rliche ding durch kreü~ter zewe⸗
+||+||||||||||||||||||||||+|||||||||
+tüirliche ding durch kreü ter zewe⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010002.gt.txt
+gen bringẽ wil / můß ſy bey hellem
+|||||#|||#||||||||||||#|||||||||||
+gen bninge wil / můß ſp bey hellem
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010003.gt.txt
+clarem him~m~el einſamlen / vñ~ wa◌ͤ
+||||||||||+|+|||||||||||||||||+||-|
+clarem him m el einſamlen / vñi w~◌ͤ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010004.gt.txt
+re g~ůt das die Soñ oder joch zům
+||||+#|||||||||||||||||||||||||#|
+re gu◌ͤt das die Soñ oder joch zum
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010005.gt.txt
+weni~geſten der ~Mone in jren ſter
+||||+|||||||||||+#|||-||||||||||||
+weni geſten der eDone~in jren ſter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010006.gt.txt
+nen lü~ffe / dann als denn werdent
+||||||+|||||-|||||||||||||||||||||
+nen lüiffe /~dann als denn werdent
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010007.gt.txt
+jre wirckung z~ům ſterckiſten. Wo
+||||||||||||||+#||||||||||||||-||
+jre wirckung zu◌ͤm ſterckiſten.~Wo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010008.gt.txt
+aber jhre vermiſchung mit ande⸗
+|||||||||||||||||||||||||||||||
+aber jhre vermiſchung mit ande⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010009.gt.txt
+ren kreü~tteren / wurtzen / bl~ůmen /
+||||||||+||||||||||||||||||-||+#|||||
+ren kreüitteren / wurtzen /~blu◌ͤmen /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/01000a.gt.txt
+gummi / thierer feiſte oder bl~ůt be
+||||#||-||||||||||||||||||||||+#||||
+gummt /~thierer feiſte oder blu◌ͤt be
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/01000b.gt.txt
+ſchehen ſoll / iſts auch nicht ſo vbel
+||||||||||||||-|||||||||||||||||||||||
+ſchehen ſoll /~iſts auch nicht ſo vbel
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/01000c.gt.txt
+gefaren w~añ~ du conſtellation er⸗
+|||||||||+||+|||||||||||||||||||||
+gefaren w añi du conſtellation er⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/01000d.gt.txt
+korẽ die darz~ů dienſtlich / Es wur
+|-##|||||||||+#||||||||||||||||||||
+k~ o die darzñ◌ͤ dienſtlich / Es wur
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/01000e.gt.txt
+de ye dein vermiſchũg durch him⸗
+||-||||||||||||||||#||||||||||||
+de~ye dein vermiſchig durch him⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/01000f.gt.txt
+meliſcher ſternẽ gleiches einflieſ⸗
+||||||||||||||||||||||#|||||||#||||
+meliſcher ſternẽ gleicbes einfiieſ⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010010.gt.txt
+ſen deſt krefftiger / ſo vil Gott der
+|||||||||||||||||||||||||||||||||||||
+ſen deſt krefftiger / ſo vil Gott der
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010011.gt.txt
+natur zůgelaſſen. Gewiß iſts das
+|||||||#||||||||||||||||||||||||
+natur zugelaſſen. Gewiß iſts das
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010012.gt.txt
+ein zeit viel bequemer zu~ einer ar⸗
+|||||||||||||||||||||||||+||||||||||
+ein zeit viel bequemer zur einer ar⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010013.gt.txt
+beyt weder die andere. Welches
+||||||||||||||||||||||||||||||
+beyt weder die andere. Welches
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010014.gt.txt
+die Goldſchmid offtermalen wol
+||||||||||||||||||||||||||||||
+die Goldſchmid offtermalen wol
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010015.gt.txt
+erkundi~gen / ſo ſy bey finſterem o⸗
+|||||||+|||||-||||||||#|||||||||||||
+erkundi gen /~ſo ſy bep finſterem o⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010016.gt.txt
+der gewilcktem himmel g~ůtt fein
+|||||||||||||||#|||||||+#|||||||
+der gewilcktem bimmel gu◌ͤtt fein
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010017.gt.txt
+goldt gieſſen / das nach dem guß
+||||||||||||||||||||||||||||||||
+goldt gieſſen / das nach dem guß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0013/010018.gt.txt
+~nur
++##|
+mtnr
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010001.gt.txt
+Kreüter
+|||||||
+Kreüter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010002.gt.txt
+nur von wegẽ betru◌ͤbtes wetters
+|#|||||||||-|||||||||||||||||||
+nnr von weg~ betru◌ͤbtes wetters
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010003.gt.txt
+vngeſchmeidig hert vnd brüchig
+||||||||||||||#|||||||||##||||
+vngeſchmeidig bert vnd biichig
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010004.gt.txt
+wirdt.
+||||||
+wirdt.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010005.gt.txt
+Cyclaminos.
+|#|||||||||
+Cpclaminos.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010006.gt.txt
+Deß Lo◌ͤwen kraut ſo jren etlich
+||||#||||||||||||||||||||||||||
+Deß Co◌ͤwen kraut ſo jren etlich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010007.gt.txt
+die groſſe cyclamen heiſſend / hat
+||||||||||||||||||||||||||||||||||
+die groſſe cyclamen heiſſend / hat
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010008.gt.txt
+bletter gleich der ~haſelwurtz / we⸗
+|||||||||||||||||||+#|||||||||||||||
+bletter gleich der b aſelwurtz / we⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010009.gt.txt
+der das ſy linder ſind am griff / vñ
+||||||||||||||||||||||||||||||||||||
+der das ſy linder ſind am griff / vñ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/01000a.gt.txt
+deß teil gegen der erden wie roter
+||||||||||||||||||||||||||||||||||
+deß teil gegen der erden wie roter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/01000b.gt.txt
+mang~olt leib~farb braun iſt / ſeine
+||||+||||||||+||||||#|||-|||||||||||
+mang olt leib farb btaun~iſt / ſeine
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/01000c.gt.txt
+ſtengel hab ich nie vber ſpannen
+||||||||||||||||||||||||||||||||
+ſtengel hab ich nie vber ſpannen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/01000d.gt.txt
+hoch geſa◌ͤhen / gewindt gleiſech~te
+||||||||#|||||||||||||||||||||||+||
+hoch geſů◌ͤhen / gewindt gleiſech te
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/01000e.gt.txt
+ſcho◌ͤne purpurfarbe blů~m~en oben
+||||-||-|||||||#|||||||+|+|||||||
+ſcho~ne~purpurfnrbe blů◌ͤmnen oben
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/01000f.gt.txt
+am ſtengel / ſo ſich fein wend~endt
+||||||||||||||||||||||||||||||+||||
+am ſtengel / ſo ſich fein wend endt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010010.gt.txt
+nach dem geſtirn ~Hundt gen~añ~t /
+|||||||||||||||||+#||||||||+||+|||
+nach dem geſtirn Ddundt gen añit /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010011.gt.txt
+faſt wie die Sonnen kre~üter nach
+|||||||||||||-|||||||||+#||||||||
+faſt wie die ~onnen kreiiter nach
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010012.gt.txt
+der Sonnen / hat ein zůſam◌̃en ge⸗
+||||||||||||||||||||||#||##||||||
+der Sonnen / hat ein zuſaiñen ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010013.gt.txt
+truckte wurtzel keſtenbraun~farb /
+|||||||||||||||||||||||||||+||||||
+truckte wurtzel keſtenbraun farb /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010014.gt.txt
+m~it nebent wü~rtzlen vn~d zaß~len /
+|+||||||||#|||+|||||||||+|||||+|||||
+mnit nebene wüirtzlen vnnd zaßilen /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010015.gt.txt
+welche / wo ſy nicht ſtein hart / off~t
+|||||||||||||||||||||||||||||#|||-|||+#
+welche / wo ſy nicht ſtein hatt /~off◌̃e
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010016.gt.txt
+ellen lang vn~der der a◌ͤrde funde~n
+|||||||||||||+|||||||||||||||||||+#
+ellen lang vn der der a◌ͤrde funderr
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010017.gt.txt
+wirdt vnnd mehr / wachſet gewon
+||||||||||||||#||||||||||||||||
+wirdt vnnd meht / wachſet gewon
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010018.gt.txt
+lich an ſchattechten orthen / do die
+||||||||||||||||||||||#|||||||||||||
+lich an ſchattechten otthen / do die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0014/010019.gt.txt
+brunn⸗
+|#||||
+btunn⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010001.gt.txt
+Beſchreib~ung. xxxv
+|||||-|||+#||||###|
+Beſch~eibttng. rrrv
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010002.gt.txt
+brunnaderen nicht weitt daruon
+|##|||||||||#|||||||||||||||||
+bttnnaderen micht weitt daruon
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010003.gt.txt
+flieſſen~d / vnnd gar gern nebendt
+||||||||+|||||||||||||||||||||||||
+flieſſennd / vnnd gar gern nebendt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010004.gt.txt
+dem edelen la◌ͤberkraut. Diſes wie
+|||||||||||||||||||||||-|||||||||
+dem edelen la◌ͤberkraut.~Diſes wie
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010005.gt.txt
+wols an vielen bergen vnd orten
+|||||||||||||||||||||||||||-|||
+wols an vielen bergen vnd o~ten
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010006.gt.txt
+wachſet / weiß ich dennocht ſoliche
+|||||||||||||||||||||||||||||||||||
+wachſet / weiß ich dennocht ſoliche
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010007.gt.txt
+menge nien~dart bey einanderen
+||||||||||+|||||||||||||||||||
+menge nienndart bey einanderen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010008.gt.txt
+als auſſerthalbẽ Walenſtatt am~
+|||||||||||||||-||||||||||||||+
+als auſſerthalb~ Walenſtatt amn
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010009.gt.txt
+Weſer ſee gelegen / wirdt ſonſt et⸗
+||||||||||||||||||||||||-#|||||||||
+Weſer ſee gelegen / wird~eſonſt et⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/01000a.gt.txt
+wan in ga◌ͤrten zy~let. Dioſc. Die
+|||||||||||||||||+|||||||||||||||
+wan in ga◌ͤrten zy let. Dioſc. Die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/01000b.gt.txt
+w~urtzel reini~get vnd thůt auf die
+|+||||||||||||+||||||||||#|||||||||
+w urtzel reini get vnd thut auf die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/01000c.gt.txt
+verſtopffung / mit waſſer getrun⸗
+||||||||||||||-||||||||||||||||||
+verſtopffung /~mit waſſer getrun⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/01000d.gt.txt
+cken vertreibet die geſch~wulſt deß
+|||||||||||||||||||||||||+|||||||||
+cken vertreibet die geſch wulſt deß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/01000e.gt.txt
+bauchs / vnd nimpt die bo◌ͤſe fleg⸗
+||||||||||||||||||||||||-|||||#|||
+bauchs / vnd nimpt die b~◌ͤſe fieg⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/01000f.gt.txt
+mata / dauon ſich die waſſerſucht
+|||||||||||||||||||||||||||#|||||
+mata / dauon ſich die waſſetſucht
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010010.gt.txt
+erhebt / Alſo getruncken bringet
+|||||||||||||||||||||||||||-||||
+erhebt / Alſo getruncken br~nget
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010011.gt.txt
+den frauwen jhr zeit mechtiglich.
+||||||||||||-||||||||||||||||||||
+den frauwen ~hr zeit mechtiglich.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010012.gt.txt
+Mitt wein getrunckẽ~ machet ſeer
+#|#||||||||||||||||+||||||||||||
+Diet wein getrunckẽ◌ͤ machet ſeer
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010013.gt.txt
+voll. Diſe wurtzel reiniget die mů
+||||#||||||||||||||||||||||||||||#
+voll, Diſe wurtzel reiniget die ms
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010014.gt.txt
+ter ſo faſt als immer ein wurtzel
+|||||||||||||||||||||||||||||||||
+ter ſo faſt als immer ein wurtzel
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010015.gt.txt
+th~ůn k~an. Die wurtzel wirfflet ge
+||+#|||+|||-|||||||||||||||||||||||
+thu◌ͤn k an.~Die wurtzel wirfflet ge
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010016.gt.txt
+ſchnitten in ein tu◌ͤch~lein gethon /
+||||||||||||||||||||||+||||||||#||||
+ſchnitten in ein tu◌ͤch lein getbon /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010017.gt.txt
+das in deß weibs gema◌ͤcht gehal⸗
+||||||||||||||||||||||||||||||||
+das in deß weibs gema◌ͤcht gehal⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010018.gt.txt
+ten / ze~ücht viel vnflats / reiniget
+||||||||+#|||||||||||||||||||||||||||
+ten / zeiicht viel vnflats / reiniget
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0015/010019.gt.txt
+wol /
+||-||
+wo~ /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010001.gt.txt
+Kreü~ter
+||||+|||
+Kreüiter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010002.gt.txt
+wol / bringt in jhr zeit. Erdto◌ͤpffel
+|||-|-|#||||-||||-#||||||-||||-||||||
+wol~/~bningt~in j~b zeit.~Erdt~◌ͤpffel
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010003.gt.txt
+gepülffert / in die wunden der f~i⸗
+||||||||||||||||||||||||||||||||+||
+gepülffert / in die wunden der fñi⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010004.gt.txt
+ſteln mitt ſchleißlin gelegt / reini⸗
+|||||||||||||||||||||||||||#|||||||||
+ſteln mitt ſchleißlin gelegr / reini⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010005.gt.txt
+get darauß deß faul fleyſch. Diß
+|||||||||||||||||||||||#||||-|||
+get darauß deß faul flerſch.~Diß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010006.gt.txt
+pulffer gethon in die naſen / beißt
+|||||||||||#|||||||||||||||||||||||
+pulffer getbon in die naſen / beißt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010007.gt.txt
+das faul fleiſch darauß~ genam◌̃ſet
+|||||||||||||||||||||||+|||||-#|||
+das faul fleiſch daraußi gena~fſet
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010008.gt.txt
+der kra◌ͤbs. Aet. Den nabel mit
+|||-||||||||||||||||||||||||||
+der~kra◌ͤbs. Aet. Den nabel mit
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010009.gt.txt
+Erdo◌ͤpffel ſafft geſch~mieret ma⸗
+|||-||||||||||||||||||+||||||||||
+Erd~◌ͤpffel ſafft geſch mieret ma⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/01000a.gt.txt
+chet ſtůlgeng. Diſe wurtzel treibet
+|||||||#||||||-||||||||||||||||||||
+chet ſtulgeng.~Diſe wurtzel treibet
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/01000b.gt.txt
+auß die gall durch ſchwitzen / ver⸗
+|||||||||||||||||||||||||||||||||||
+auß die gall durch ſchwitzen / ver⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/01000c.gt.txt
+iaget die gelſucht / der halben / wel
+|||||||||||||||||||||||||||||||||||||
+iaget die gelſucht / der halben / wel
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/01000d.gt.txt
+cher jrẽ trincket / thu◌ͤe fürſa◌ͤhung /
+||||||||||||||||||||||||||||||||||||||
+cher jrẽ trincket / thu◌ͤe fürſa◌ͤhung /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/01000e.gt.txt
+das er warm gehalten wol bede⸗
+|||||||||||||||||||||||||||||#
+das er warm gehalten wol bedeo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/01000f.gt.txt
+cket werde / damitt der wurtzen ei⸗
+||||||||||||||||||||||||||||||||||#
+cket werde / damitt der wurtzen eio
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010010.gt.txt
+genſchafft deſt ehr vnd beſſer ſich~
+||||||||||||||||||-||||||||||||||||+
+genſchafft deſt eh~ vnd beſſer ſichh
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010011.gt.txt
+erzeige. Alte haupt ſch~mertzen ſo
+||||||||-||||||||||||||+||||||||||
+erzeige.~Alte haupt ſch mertzen ſo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010012.gt.txt
+von dickem~ zehen rotz oder ſch~nu⸗
+||||||||||+||||||||||||||||||||+|||
+von dickemz zehen rotz oder ſch nu⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010013.gt.txt
+der iſt hin~z~ůne~m◌̃en / ja ent~gegen~
+|||||||||||+|+#||+##||||||#||||+|||||+
+der iſt hin zu◌ͤnefGien / js ent gegenn
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010014.gt.txt
+zeſt~an dem hin~fallenden ſiech~ta⸗
+||||+||||||||||+|||||||||||||||+|||
+zeſt an dem hin fallenden ſiech ta⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010015.gt.txt
+ge / Nim cyclaminis wurtzel ge⸗
+|||||#|||||||||||||||||||||||||
+ge / Mim cyclaminis wurtzel ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010016.gt.txt
+do◌ͤrret vnnd auff das aller reineſt
+|-|#|||||||||||||||||||||||||||||||
+d~◌ͤtret vnnd auff das aller reineſt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010017.gt.txt
+gepilfferet halb lott / gůte ſchmak
+||||||||||||#||||||||||||#||||||||#
+gepilfferet balb lott / gute ſchmat
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010018.gt.txt
+haffte na◌ͤgelin f~ünff graan / wol
+|||||||||||||||||+#|||||||||||||||
+haffte na◌ͤgelin fiinff graan / wol
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0016/010019.gt.txt
+ver⸗
+||||
+ver⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010001.gt.txt
+Beſchreibung. xxxvi
+|||||#||||||||###|#
+Beſchneibung. zrrvt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010002.gt.txt
+vermenget vnd an ſtatt eins nieß
+||||||||||||||||||||||||||||||||
+vermenget vnd an ſtatt eins nieß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010003.gt.txt
+bulffers in die naſen gezogen / Jn
+|||||||||||||||||||||||||||||||-||
+bulffers in die naſen gezogen /~Jn
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010004.gt.txt
+ſum◌̃a diſer wurtzen eygen~ſchafft
+||##|||||||||||||||||||||+|||||||
+ſuñGa diſer wurtzen eygen ſchafft
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010005.gt.txt
+iſt die feüch~te bilem v~ñ pituitam
+||||||||||#||+||||||||||+#|||||||||
+iſt die feich te bilem vii pituitam
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010006.gt.txt
+krefftiglich auß~zefu◌ͤrẽ durch den
+||||||||#|||||||+||||||-||||||||||
+krefftigiich auß zefu◌ͤr~ durch den
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010007.gt.txt
+ſchweiß / wañ ſy mit mett getrun⸗
+|||||||||||||||||||||||||||||||||
+ſchweiß / wañ ſy mit mett getrun⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010008.gt.txt
+cken wirt / doch ſoll niemants jren
+|||||||||||||||||||||||||||||||||||
+cken wirt / doch ſoll niemants jren
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010009.gt.txt
+zemal vber anderth~alb oder zwẽ
+||||||||||||||||||+||||||||||||
+zemal vber anderth alb oder zwẽ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/01000a.gt.txt
+~quint ſch~wa◌ͤr ein~n~em~m~en / vñ ſol⸗
++#||||||||+||||||||+|+||+|+||||||#|||||
+afuint ſch wa◌ͤr ein n em m en / vi ſol⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/01000b.gt.txt
+lendt ſich die ſch~wangeren frau⸗
+||||||||||||||||||+||||||||||||||
+lendt ſich die ſch wangeren frau⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/01000c.gt.txt
+wen f~ür jren hu◌ͤten. Nim ~Erdo◌ͤpf
+|||||+#||||||||#|||||-||||+|||||||
+wen fiir jren ha◌ͤten.~Nim 4Erdo◌ͤpf
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/01000d.gt.txt
+fel wurtzen ſafft / vñ ſafft von der
+||||||||||||||||||||||||||||||||||||
+fel wurtzen ſafft / vñ ſafft von der
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/01000e.gt.txt
+zeittloſen wurtzel y~etliches gleich
+||||||||||||||||||||+|||||||||||||||
+zeittloſen wurtzel y etliches gleich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/01000f.gt.txt
+viel / th~ůns auf die feigwartzen /
+|||||||||+#||||||||||||||||||||||||
+viel / thu◌ͤns auf die feigwartzen /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010010.gt.txt
+vnnd gib dem ſo darmitt behafft
+||||||||||||||||||||||||||||||#
+vnnd gib dem ſo darmitt behaffi
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010011.gt.txt
+geyßmilch zůtrincken / dorinn ge⸗
+|||||||||||#|||||||||||||-|||||||
+geyßmilch zutrincken / do~inn ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010012.gt.txt
+ſotten ſey f~ünffinger kraut vnnd
+||||||||||||+#|||||||||||||||||||
+ſotten ſey fiinffinger kraut vnnd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010013.gt.txt
+taubenkropff / du hilffeſt / vñ ver⸗
+||||||||||#|#|||||||||||||||||||||||
+taubenkrop ff/ du hilffeſt / vñ ver⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010014.gt.txt
+treibeſt die feigwurtzel võ grund
+||||||||||||||||||||||||||#||||||
+treibeſt die feigwurtzel vo grund
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010015.gt.txt
+auß. Zitterma◌ͤler der haut zů ia⸗
+|||||#|||||||||||||||||||||||||||
+auß. Jitterma◌ͤler der haut zů ia⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010016.gt.txt
+gen~/ vermenge diſer wurtzenſafft
+|||+|||||||||||||||||||||||||||||
+gen / vermenge diſer wurtzenſafft
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010017.gt.txt
+m~it eßich / erhitzg~e mit reiben das
+|+||||||||||||||||||+||||||||||||||||
+mnit eßich / erhitzgte mit reiben das
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010018.gt.txt
+zitterm~al vnnd ſtreich dorein diſe
+-||||||+||||||||||||||||||#||||||||
+~ittermzal vnnd ſtreich donein diſe
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0017/010019.gt.txt
+ver⸗
+||##
+veio
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010001.gt.txt
+Kreüter
+|||||||
+Kreüter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010002.gt.txt
+vermengung. Von zanck Leoni⸗
+|||||||||||-||||||||||#|||||
+vermengung.~Von zanck Ceoni⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010003.gt.txt
+ceni vnnd Brunsfelſij / vber diſes
+|||||||||||#||||||||-|||||||||||||
+ceni vnnd Btunsfelſi~ / vber diſes
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010004.gt.txt
+cyclamẽ were wol etwas zeſagen /
+|-#|||||||||||||||||||||||||||||
+c~elamẽ were wol etwas zeſagen /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010005.gt.txt
+aber es bra◌ͤch~te nicht viel / derhal⸗
+|||||||||#||||+|||||||||||||||||||||||
+aber es bta◌ͤch te nicht viel / derhal⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010006.gt.txt
+ben laß ichs auch ſthen / wiewol
+||||||||||||||||||||||||||||||||
+ben laß ichs auch ſthen / wiewol
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010007.gt.txt
+ichs gůten luſt hett / Dieweil ich
+||||||#|||||||||||||||||||||||||||
+ichs guten luſt hett / Dieweil ich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010008.gt.txt
+wol weiß das diſe wurtzen vorauß
+||||||||||||||||||||||||||||#|||
+wol weiß das diſe wurtzen votauß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010009.gt.txt
+wañ kalch hin~zugeth~on wirt der
+|||||||||||||+||||||+|||||||||||
+wañ kalch hin zugeth on wirt der
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/01000a.gt.txt
+fiſchen m~ercklicher feindt iſt / vnd
+|||||||||+|||||||||||||||||-|||||||||
+fiſchen m ercklicher feindt~iſt / vnd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/01000b.gt.txt
+ſy gar nicht reitzet zu jren zekom⸗
+|||||||||||||||||||||||||||||||||||
+ſy gar nicht reitzet zu jren zekom⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/01000c.gt.txt
+men / ſonder ehr veriaget. Vnnd
+|||||||||||||||||||||||||||||||
+men / ſonder ehr veriaget. Vnnd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/01000d.gt.txt
+aber Plinius ſagt / das die fiſch
+|||||||||||||||||||||||||||||||||
+aber Plinius ſagt / das die fiſch
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/01000e.gt.txt
+mit viele d~arzů kommen oder ge⸗
+|||||||||||+|||#|||||||||||||||-
+mit viele d arzu kommen oder ge~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/01000f.gt.txt
+ſchwu~m◌̃en ſindt / doch gleich f~~ür
+|||||+##||||||||||||||||||||||||++#|
+ſchwu iñen ſindt / doch gleich ffiir
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010010.gt.txt
+todt gelegen / welche rede ich wol
+||||||||||||||||||||||||||||||||||
+todt gelegen / welche rede ich wol
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010011.gt.txt
+kent verſthan / wañ~ er von diſem~
+|||||||||||||||||||+|||||||||||||+
+kent verſthan / wañi er von diſemn
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010012.gt.txt
+kraut malo~terre n~icht geredt / ſon
+||||||||||+|||||||+|||||||||||||||||
+kraut malo terre n icht geredt / ſon
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010013.gt.txt
+der ſimpliciter von Ariſtolochia
+||||||||||||||||||||||||||||||||
+der ſimpliciter von Ariſtolochia
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010014.gt.txt
+vnd deß kalchs geſchweigen / Dañ
+|||||||||||||||||||||||||||||||-
+vnd deß kalchs geſchweigen / Da~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010015.gt.txt
+wie Ariſtolochia den fiſchen ange
+|||||||||||||||||||||||||||||||||
+wie Ariſtolochia den fiſchen ange
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010016.gt.txt
+na◌ͤm~ iſt / vñ hin~zůgeth~an and~ere
+||||+|||||||||||||+|#||||+||||||+|||
+na◌ͤmn iſt / vñ hin zſgeth an and ere
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010017.gt.txt
+nat~ürliche mittel / ſy reitzet an dz
+|||+#|||||||||||||||||||||||||||||||#
+nattirliche mittel / ſy reitzet an dg
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010018.gt.txt
+ende zekommen do ſy hingeb~un⸗
+|||||||#||||||||||||||||||+|||
+ende zeßommen do ſy hingeb un⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0018/010019.gt.txt
+den
+|||
+den
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010001.gt.txt
+Beſchreib~ung. xxxvij
+|||||-|||+#||||###||-
+Beſch~eibttng. rrrvi~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010002.gt.txt
+den wirdt / Alſo iſt den fiſchen zů
+||||||||||||||||||||||||||||||||||-
+den wirdt / Alſo iſt den fiſchen z~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010003.gt.txt
+wider veriagts vnd m~achets toll
+||||||||||||||||||||+|||||||||||
+wider veriagts vnd m achets toll
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010004.gt.txt
+diſes cyclamen vnnd kalch. Dem
+||||||#|||||||||||||||||||||||
+diſes eyclamen vnnd kalch. Dem
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010005.gt.txt
+wie es welle / ſo iſts offen~b~ar das
+||||||||||||||||||||||||||||+|+||||||
+wie es welle / ſo iſts offen b ar das
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010006.gt.txt
+offt vielerley krü~ter einerley wür
+||||||||||||||||||+||||||||||||||||
+offt vielerley krüiter einerley wür
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010007.gt.txt
+ckung haben~dt / ſonſt h~ette Gale⸗
+||||||#||||+||||||||||||+||||||||||
+ckung baben dt / ſonſt h ette Gale⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010008.gt.txt
+nus inn Ale~xandria grob gefa◌ͤlt /
+|||||||||||+#||##|||||||||||||||||
+nus inn Ale pan dia grob gefa◌ͤlt /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010009.gt.txt
+vnd werend he~ütigs tags die An⸗
+|||||||||||||+#|||||||||||||||||
+vnd werend heiitigs tags die An⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/01000a.gt.txt
+tem~ballomena vberfliſſig / Jtem
+|||+||||||||||||||||||||||||||||
+tem ballomena vberfliſſig / Jtem
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/01000b.gt.txt
+ſo volget nicht das diß~ kraut cy⸗
+|||||||||||||||||||||||+|||||||#||
+ſo volget nicht das dißi kraut ey⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/01000c.gt.txt
+clamen deß viert geſch~lecht Ari⸗
+|#||||||||||||||||||||+||||||||||
+ciamen deß viert geſch lecht Ari⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/01000d.gt.txt
+ſtolochie ſey / dieweil mir ebẽ nach
+||||||||||||#|||||||||||||||||-|||||
+ſtolochie ſer / dieweil mir eb~ nach
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/01000e.gt.txt
+beſchreibung Plinij ſonſt fierer⸗
+|||||-|||||||#||||-||||||||||||||
+beſch~eibung Wlini~ ſonſt fierer⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/01000f.gt.txt
+ley Ariſtolochie hab~end. Dio~ſcori
+||||||||||||||||||||+||||-|||+|||#|
+ley Ariſtolochie hab end.~Dio ſcoii
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010010.gt.txt
+des bez~üget / das diß~ cyclam~en die
+|||||||+#|||||||||||||+||#||||+||||||
+des beziiget / das dißi czclam en die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010011.gt.txt
+fiſch to◌ͤdte / ſagt derhalbẽ habẽds
+||||||--#|||||||||||||||||||||||#||
+fiſch ~~rdte / ſagt derhalbẽ hab◌ͤds
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010012.gt.txt
+etliche Jſchth~yoteron gena~m◌̃ſet.
+|||||||-|-||||+#|||||||||||+##||||
+etliche~J~chthz oteron genafñ ſet.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010013.gt.txt
+Calaminthis.
+||||||||||||
+Calaminthis.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010014.gt.txt
+Balſamm~üntz hat kr~auſe blet
+|||||||+#||||||||||+|||||||||
+Balſammiintz hat kr auſe blet
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010015.gt.txt
+ter / b~lu◌ͤet braun / ein wurtz iſt weiß
+|||||||+||||||||||||||||||||||||||||||||
+ter / b lu◌ͤet braun / ein wurtz iſt weiß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010016.gt.txt
+flech~tet ſich hin vnd ha◌ͤr in der er⸗
+|||||+||||||||||||||||||||||||||||||||
+flech tet ſich hin vnd ha◌ͤr in der er⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010017.gt.txt
+den. Dioſcor. Safft von Bal⸗
+|||||||||||-||||||||||||||||
+den. Dioſco~. Safft von Bal⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010018.gt.txt
+ſamkraut mitt eſſig ver~miſcht vñ
+|||||||||||||||||||||||+|||||||||
+ſamkraut mitt eſſig ver miſcht vñ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0019/010019.gt.txt
+F getrun⸗
+-##||||||
+~sJetrun⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010001.gt.txt
+Kreüter
+|||||||
+Kreüter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010002.gt.txt
+getruncken ſtillet das bl~ůtkotzen
+|||||||||||||||||||||||||+#|||||||
+getruncken ſtillet das bla◌ͤtkotzen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010003.gt.txt
+vnnd anderen vn~willen deß m~a⸗
+|||||||||||||||+|||||#||||||+||
+vnnd anderen vn willet deß mua⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010004.gt.txt
+gens / to◌ͤdt die rundẽ bauchwir~m
+|||||||||-|||||||||||-|||||||||+#
+gens / to~dt die rund~ bauchwirni
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010005.gt.txt
+lum~bricos. Diß kraut ſtercket die
+|||+|#|||||-||||||||||||||||||||||
+lum bticos.~Diß kraut ſtercket die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010006.gt.txt
+do◌ͤwung / Bewegt die werck Vene
+||-||||||||||||||||||||||||||||
+do~wung / Bewegt die werck Vene
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010007.gt.txt
+ris / Stillet das gluxen vñ vnwil
+|||||||||||||||||||||#||||#||||||
+ris / Stillet das glu en vl vnwil
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010008.gt.txt
+len von der cholera krefftiglich
+||||||||||||||||||||||||||||||||
+len von der cholera krefftiglich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010009.gt.txt
+wañ~ du ein zwig~lin oder zwei mit
+|||+||||||||||||+|||||||||||||||||
+wañi du ein zwig lin oder zwei mit
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/01000a.gt.txt
+ſafft von ſauren granato◌ͤpffelen
+|||||||||||||||||||||||-||||||||
+ſafft von ſauren granat~◌ͤpffelen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/01000b.gt.txt
+iſſeſt. Balſamkraut ſafft mit tu◌ͤch
+|||||||-||||||||||#||||||||||||||||
+iſſeſt.~Balſamkraue ſafft mit tu◌ͤch
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/01000c.gt.txt
+lein auff die harten brüſt geleget /
+||||||||||||||||||||||-|||||||||||||
+lein auff die harten b~üſt geleget /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/01000d.gt.txt
+welche ſich als dañ erzeigen / ſo die
+|||||||#|||||||||||||||||||||||||||||
+welche fich als dañ erzeigen / ſo die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/01000e.gt.txt
+weiber die iunge kindlein entwen
+|||||||||||#||||||||||||||||||||
+weiber die tunge kindlein entwen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/01000f.gt.txt
+nen / vertreibet die knollen der
+||||||||||||||||||||||||||||||||
+nen / vertreibet die knollen der
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010010.gt.txt
+milch. Werdend Balſam bletter
+|||||||||||||||||||||||||||||
+milch. Werdend Balſam bletter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010011.gt.txt
+inn ſu◌ͤſſe milch gelegt / ſo wirdt ſy
+|||||#||||||||||||||||||||||||||||||#
+inn ſů◌ͤſſe milch gelegt / ſo wirdt ſp
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010012.gt.txt
+nicht geri~ñen oder zammenlauf⸗
+||||||||||+#|||||||||||||||||||
+nicht gerifien oder zammenlauf⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010013.gt.txt
+fen. Das kraut iſt dem magẽ gar
+||||-|||||||||-|||||||||||#||||
+fen.~Das kraut~iſt dem mage gar
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010014.gt.txt
+nutzlich / beſon~ders wa~ñ die ſalſa⸗
+||||||||||||||||+|||||||+#|||||||||||
+nutzlich / beſon ders waii die ſalſa⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010015.gt.txt
+men~ta ſooß~ alſo mit ang~emachet.
+|||+|||||||+|||||||||||||+||||||||
+men ta ſooßi alſo mit ang emachet.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010016.gt.txt
+Ficinus. Balſam angerochẽ ſter
+||||||||||||||||||||||||||||||
+Ficinus. Balſam angerochẽ ſter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010017.gt.txt
+cket vñ macht fro◌ͤlich das gemu◌ͤt.
+|||||||||||||||||-|||||||||||||-||
+cket vñ macht fro~lich das gemu~t.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010018.gt.txt
+Aet. Vber das hufftwee pflaſter
+-||||||||||||||||||||||||||||||
+~et. Vber das hufftwee pflaſter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0020/010019.gt.txt
+cala⸗
+|||||
+cala⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010001.gt.txt
+Beſchreibung. xxxviij
+|||||-|||#||||###|||#
+Beſch~eibtng. r rviif
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010002.gt.txt
+calaminten ſo haſt g~ůte hilff: dañ
+#|||||||||||||||||||+#||||||||###||
+ealaminten ſo haſt gu◌ͤte hilffEd añ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010003.gt.txt
+ſy ze~ücht auß tieffem an ſich zů~m
+|||||+##|||||||||||||||||||||||||+|
+ſy zefieht auß tieffem an ſich zůäm
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010004.gt.txt
+auſſerntheil / erwermet das gleich
+||||||||||||||||||||||-#||||||||||
+auſſerntheil / erwerme~edas gleich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010005.gt.txt
+krefftiglich. Orpheus vnd Apu⸗
+|||||#||||||||||||||||||||||||
+kreffeiglich. Orpheus vnd Apu⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010006.gt.txt
+leius ſprechend / wann diß krauts
+||#|||||#||||||||||||||||||||||||
+letus ſptechend / wann diß krauts
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010007.gt.txt
+ſafft vermenget werde mit roſen
+|||||||||||||||||||||||||||||||
+ſafft vermenget werde mit roſen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010008.gt.txt
+o◌ͤli vnnd bleiweiß~ biß honig dicke
+--|#|||||||#||||||+|||||||#||||||||
+~~lt vnnd bieiweiß. biß homig dicke
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010009.gt.txt
+bekomm / vñ~ darm~it geſalbet ein
+|||||||||#|+|||||+|||||||||||||||
+bekomm / mñi darmnit geſalbet ein
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/01000a.gt.txt
+gleich ſo brand erlitten / hey~le diſe
+|||||||||||#||||||||||||||-|||+|||||||
+gleich ſo bzand erlitten /~hey le diſe
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/01000b.gt.txt
+brandtſalb die ſt~att als ſüberlich
+|-|||||||||||||||+||||||||#||||||||
+b~andtſalb die ſt att als füberlich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/01000c.gt.txt
+das kein brandtmaſſen ſich erzei⸗
+||||||||||#||||||||||||||||||||||
+das kein btandtmaſſen ſich erzei⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/01000d.gt.txt
+ge. Nim~ Balſamm~üntz / ~hertzpo⸗
+|||-#||+|||#||||+#||||||+#|||||||
+ge.~Mimn Baiſammiintz / b ertzpo⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/01000e.gt.txt
+ley gleich viel / ſetz zů putrificiern
+||||||||||||||||||||||||#|||||||||||||
+ley gleich viel / ſetz zs putrificiern
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/01000f.gt.txt
+mitt gůtẽ wein / als dañ ze~üch jne
+||||||#|#||||||||||||||#|||+#||||||
+mitt gute wein / als dai zeůich jne
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010010.gt.txt
+im balneo marie he~rüber / ſo haſt
+||||||||||||||||||+##||-||||||||||
+im balneo marie heuirbe~ / ſo haſt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010011.gt.txt
+ein koſtlichen trãck wider den ta◌ͤg
+|||||||||||||||#|#||||||||||||||#||
+ein koſtlichen rr◌ͤck wider den tů◌ͤg
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010012.gt.txt
+lichen ritten / wider deß magens
+||||||||||||||||||||||||||||||||
+lichen ritten / wider deß magens
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010013.gt.txt
+auffſto~ſſen / wider das gifft wann
+|||||||+|||||||||||||||||||||||||||
+auffſto ſſen / wider das gifft wann
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010014.gt.txt
+milch in dir coag~u~liert oder ge⸗
+|||||||||||||||||+|+||||||||||||||
+milch in dir coag u liert oder ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010015.gt.txt
+ru~n~n~en wer / wann du nimbſt dar
+||+|+|+|||||||||||||||||||||||||||
+ru nrnren wer / wann du nimbſt dar
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010016.gt.txt
+u~on zům~al drey vn~tzen.
+|+||||#|+||||||||||+|||||
+unon zum al drey vn tzen.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010017.gt.txt
+S~corpiuros.
+|+||#|#|||||
+S coipturos.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010018.gt.txt
+Das ſibendt kraut der Wag zů~
+|||||||||||-||||||||||||||||+
+Das ſibendt~kraut der Wag zů◌ͤ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0021/010019.gt.txt
+F ij geho◌ͤ⸗
+#|---||--#|
+h ~~~ge~~b⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010001.gt.txt
+Kreü~ter
+||||+|||
+Kreüiter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010002.gt.txt
+geho◌ͤrig / iſt etwan ellen hoch / ſei⸗
+|||--#||||||||||||||||||||||||||||||||
+geh~~tig / iſt etwan ellen hoch / ſei⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010003.gt.txt
+ne bletter ſind gſtaltet wie groſſe
+||||#||||||||||||||||||||||||||||||
+ne btetter ſind gſtaltet wie groſſe
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010004.gt.txt
+Baſilien / dañ das ſy gro◌ͤſſer / weiß
+|||||||||||||||||||#||||--|||||||||||
+Baſilien / dañ das fy gr~~ſſer / weiß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010005.gt.txt
+fa◌ͤrbiger vñ rauch ſind / gleich ob
+|||||||||||||||||||||||||||||||||||
+fa◌ͤrbiger vñ rauch ſind / gleich ob
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010006.gt.txt
+der wurtzel theilet ſich der ſtengel
+||||||||||||||||||||||||||||||||||||
+der wurtzel theilet ſich der ſtengel
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010007.gt.txt
+in vier fünff oder ſechs nebẽt a◌ͤſt /
+||||||||||||||||||||||||||||-||||||||
+in vier fünff oder ſechs neb~t a◌ͤſt /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010008.gt.txt
+gewonlich zwiſchẽd den ſtengeln
+||||||||||||||||#||||||||||||||
+gewonlich zwiſched den ſtengeln
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010009.gt.txt
+vnd blettlin ſtoſſens herf~ür hey⸗
+|||||#||||||||||||||||||||+#||||||
+vnd btettlin ſtoſſens herfiir hey⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/01000a.gt.txt
+ter p~urp~urfarbe oder ſchier leib⸗
+|||||+|||+|||||||||||||||||||||||||
+ter p urp urfarbe oder ſchier leib⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/01000b.gt.txt
+farbe / ettwan auch noch weiſſere
+|||#|||||||||||||||||||||||||||||
+farve / ettwan auch noch weiſſere
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/01000c.gt.txt
+blu◌ͤmlin / fornẽ ha◌ͤr wol gekrimbt
+|||||||||||||#|-||||||||||||||||||
+blu◌ͤmlin / foin~ ha◌ͤr wol gekrimbt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/01000d.gt.txt
+gleichſam einẽ ſcorpion ſch~wãtz /
+|#|||#|||||||#||||-#|||||||+|#||||
+gteicbſam einc ſco~wion ſch w◌ͤtz /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/01000e.gt.txt
+hat ein ho~ltza◌ͤchte d~ünne wurtzel /
+||||||||||+||#||||||||+#|||||||||||||
+hat ein ho ltta◌ͤchte di◌ͤnne wurtzel /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/01000f.gt.txt
+wach~ſet ein michel teil vff dẽ acke⸗
+||||+|||-||||||||||||#||||||||-||||||
+wach ſet~ein michel tail vff d~ acke⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010010.gt.txt
+ren zwiſchend Baſel vnnd ~~Mün⸗
+||||||||||||||||||#||||||++##||
+ren zwiſchend Baſet vnnd cDiin⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010011.gt.txt
+chenſtein / vnd vmb den ſtein~gra⸗
+|||||||||||||||||||||||||||||+||||
+chenſtein / vnd vmb den ſtein gra⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010012.gt.txt
+ben / den m~ehrerteil bletter wen~⸗
+|||||||||||+||-||||||||||||||||||+|
+ben / den m eh~erteil bletter went⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010013.gt.txt
+dend ſich nach der Sonnen wañ
+||||||||||||||||||||||||||||#
+dend ſich nach der Sonnen wai
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010014.gt.txt
+ſy nichts hinderet / doha◌ͤr diß ge⸗
+|||||||||||||||||||||||||||||||||||
+ſy nichts hinderet / doha◌ͤr diß ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010015.gt.txt
+wa◌ͤchs das groß Soñenkraut ~He
+||||||||||||||||||-||||||||+#|
+wa◌ͤchs das groß So~enkraut Ode
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010016.gt.txt
+liotropion gen~en~net iſt. Dioſc.
+||||||||||||||+||+|||-|||||||||||
+liotropion gen en net~iſt. Dioſc.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010017.gt.txt
+Ein hãduol diſes krauts im w~aſ⸗
+|||||##|||||||||||||||||||||+|||
+Ein hd uol diſes krauts im w aſ⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010018.gt.txt
+ſer kochet / die bru◌ͤ getrunckẽ z~ücht
+||||||||||||||||||#|-|||||||||-||+#|||
+ſer kochet / die btu~ getrunck~ ziicht
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0022/010019.gt.txt
+an
+|#
+ad
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010001.gt.txt
+Beſchreibung xxxix
+|||||-|||#|||###|#
+Beſch~eibtng rrrir
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010002.gt.txt
+an ſich bilem vnd pituitam / fu◌ͤret
+||||||||||||||||||||||||||||||#|||#
+an ſich bilem vnd pituitam / fů◌ͤrer
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010003.gt.txt
+ſy auß durch den ſtůlgang. Das
+|-|||||||||||||||||#||||||||||
+ſ~ auß durch den ſtulgang. Das
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010004.gt.txt
+gifft ſo ſich von ſcorpions ſtich er
+|||||||||||||||||||||-#|||||||||||||
+gifft ſo ſich von ſco~iions ſtich er
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010005.gt.txt
+hept zů jagẽ / Trinck waſſer doriñ
+#|||||#||||-|||||||||||||||||||-#|
+bept zñ jag~ / Trinck waſſer do~nñ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010006.gt.txt
+ſcorpiuros kochet / vnd pflaſtere
+|||-#||||||||||||||||||||||||||||
+ſco~wiuros kochet / vnd pflaſtere
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010007.gt.txt
+deß kochtẽ krauts vber den ſtich.
+|||||||||-|||||||||||||||||||||||
+deß kocht~ krauts vber den ſtich.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010008.gt.txt
+~Man ſagt wann ein beſchwa◌ͤrter
++#|||||||||||||||||||||||||||||
+eDan ſagt wann ein beſchwa◌ͤrter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010009.gt.txt
+mit dem vierta◌ͤgigẽ ritten etwas
+|||||||||||||##|||#|||||||||||||
+mit dem viertůagige ritten etwas
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/01000a.gt.txt
+vor dem jhn der kalt ankommen
+||#||||||||||||||||||||||||||
+vot dem jhn der kalt ankommen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/01000b.gt.txt
+pflegt / vier ſa◌ͤmlein diſes krauts
+|||||||||||||||||||||||||||||||||||
+pflegt / vier ſa◌ͤmlein diſes krauts
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/01000c.gt.txt
+in~ wein trincket / veriage er dz f~ie⸗
+||+||||||||||||||||||||||||||||||||+|||
+inn wein trincket / veriage er dz f◌̃ie⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/01000d.gt.txt
+ber. Diſer ſamen zerquetſt vnnd
+|||||||||||||||||||||||||||||||
+ber. Diſer ſamen zerquetſt vnnd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/01000e.gt.txt
+vber die wartzen gepflaſteret ver⸗
+||||||||||||||||||||||||||||||||||
+vber die wartzen gepflaſteret ver⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/01000f.gt.txt
+treibet ſy. Plin. Wirt auff die
+|||||||||||||#|||||||||||||||||
+treibet ſy. Piin. Wirt auff die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010010.gt.txt
+erd vmb ein ſcorpion mitt diſem
+|||||||||||||||#|#|||||||||||||
+erd vmb ein ſcoipton mitt diſem
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010011.gt.txt
+kraut ein kreiß geriſſen / ſo kr~ücht
+||||||||||||||||||||||||||-|||||+#|#|
+kraut ein kreiß geriſſen /~ſo kriicbt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010012.gt.txt
+der ſcorpius nicht darauß / wirfft
+|||||||-#|||||||||||||||||||||||||
+der ſco~nius nicht darauß / wirfft
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010013.gt.txt
+man dann zů jm etliche z~weiglin /
+||||||||||#|||||||||||||+|||||||||
+man dann zu jm etliche zzweiglin /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010014.gt.txt
+ſo ſtirbt er darinn. Scorpiuros
+|||||||||||||||||||||||||||||||
+ſo ſtirbt er darinn. Scorpiuros
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010015.gt.txt
+mehret m~en~ſchlichen ſam~en / vnd
+|||#||||+||+|||||||||||||+||||||||
+mehtet m ennſchlichen ſamzen / vnd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010016.gt.txt
+reitzet daß werck Veneris.
+||||||||||||||||||||||||||
+reitzet daß werck Veneris.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010017.gt.txt
+Artemiſia.
+||||||||||
+Artemiſia.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010018.gt.txt
+Beif~ůs iſt anz~ůſehen gar n~ach
+||||+#|||||||||+#||#||||||||+||#
+Beifu◌ͤs iſt anzu◌ͤſeben gar n acb
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0023/010019.gt.txt
+F iij wie
+||||#||||
+F iiſ wie
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010001.gt.txt
+Kreüter
+|||||||
+Kreüter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010002.gt.txt
+wie werm~ůt kraut / allein das Ar⸗
+||||||||+#||||||||||||||||||||||||
+wie wermu◌ͤt kraut / allein das Ar⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010003.gt.txt
+temiſia breiter bletter hat vñ den
+|||||||||#|||||||||||||||||||#||||
+temiſia bteiter bletter hat vi den
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010004.gt.txt
+mererteil ein ho◌ͤherẽ ſten~gel / Bei⸗
+|||||||||||||||--|||-|||||+||||||||||
+mererteil ein h~~her~ ſten gel / Bei⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010005.gt.txt
+f~ůs bletter ſind ge~gen der erden
+|+#|||||||||||||||||+|||||||||||||
+fu◌ͤs bletter ſind ge gen der erden
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010006.gt.txt
+weißfa◌ͤrbig / inwen~dig ſatt gru◌ͤn /
+|||||||||||||||||||+||||||||||||||||
+weißfa◌ͤrbig / inwen dig ſatt gru◌ͤn /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010007.gt.txt
+von jrer holtza◌ͤchten zaſichtẽ wur
+||||||||||||||||||||||||||||||||||
+von jrer holtza◌ͤchten zaſichtẽ wur
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010008.gt.txt
+tzelen wach~ſent etwan f~ünff oder
+|||||||||||+||||||||||||+#||||||||
+tzelen wach ſent etwan fůinff oder
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010009.gt.txt
+ſechs lange ſten~gel / wie hanffſten
+||||||||||||||||+||||||||||#||||||||
+ſechs lange ſten gel / wie banffſten
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/01000a.gt.txt
+gel / mit vilen nebẽ zincklin die ge⸗
+|||||||||||||||||||||||||||||||||||||
+gel / mit vilen nebẽ zincklin die ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/01000b.gt.txt
+winn~ẽ vil kleiner weiſſer kno◌ͤpff⸗
+||||+||||||||||||||||||||||||-|||||
+winn ẽ vil kleiner weiſſer kn~◌ͤpff⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/01000c.gt.txt
+lein / Gegẽ dem Augſten ſo ſy auf⸗
+|||||||-||--||||||||||||||||||||||
+lein / ~eg~~dem Augſten ſo ſy auf⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/01000d.gt.txt
+gehn / werdend ſy braunfarb ga◌ͤl
+||#|||||||||||||#||#||||||||||||
+gebn / werdend ſß btaunfarb ga◌ͤl
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/01000e.gt.txt
+eines lieblichen geruchs vnd gů⸗
+||||||||||||||||||||||||||||||#|
+eines lieblichen geruchs vnd gu⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/01000f.gt.txt
+ten geſchmacks. Apul. Beifůs
+||||||||#|||||||||||||||||#|
+ten geſcbmacks. Apul. Beifus
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010010.gt.txt
+ze~rquetſt mit o◌ͤli geſotten / warm
+||+##||||||||||--||||||||||||||||||
+ze tauetſt mit ~~li geſotten / warm
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010011.gt.txt
+vber die ſennaderẽ gelegt / nimpt
+|||||||||||||||||#|||||||||||||||
+vber die ſennadere gelegt / nimpt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010012.gt.txt
+hin jr geſch~wulſt vñ ſchm~ertzen.
+||||||||||||+|||||||||||||+|||||||
+hin jr geſch wulſt vñ ſchm ertzen.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010013.gt.txt
+erquicken / Nim~ Beif~ůs blůmen /
+|||||||||||||||+|||||+#||||#|||||
+erquicken / Nimn Beifa◌ͤs blamen /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010014.gt.txt
+S. Johannes blůmen / Camillen
+||-||||||||||||||||||||||||||
+S.~Johannes blůmen / Camillen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010015.gt.txt
+blůmen / ſide es in gůtem weiſſem
+|||||||||||||||||||||#|||||||||||
+blůmen / ſide es in gutem weiſſem
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010016.gt.txt
+wein / betempff darob die g~lider
+|||||||||||||||||||||||||||+|||||
+wein / betempff darob die g lider
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010017.gt.txt
+vnd reibe ſy mit. Das kraut wirt
+||||||||||||||||||||||||||||||||
+vnd reibe ſy mit. Das kraut wirt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010018.gt.txt
+Die lame erfr~orne glider wid~er z~ů
+|||||||||||||+|#|||||||||||||+||||+#
+Die lame erfr oine glider wid er zu◌ͤ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0024/010019.gt.txt
+ge⸗
+|||
+ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010001.gt.txt
+Beſchreibung.
+|||||-|||||||
+Beſch~eibung.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010002.gt.txt
+gebrauchet / ſo es geſotten in rotẽ
+|||#|||||||||||||||||||||||||||||||
+gebtauchet / ſo es geſotten in rotẽ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010003.gt.txt
+wein zům außgetruckten affter /
+||||||#||||||||||||||||||||||||
+wein zum außgetruckten affter /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010004.gt.txt
+den ſolt zůuor bere~üchen mit wie⸗
+||||||||||#||-|||||+#|||||||||||||
+den ſolt zuuo~ bereůichen mit wie⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010005.gt.txt
+rauch / vnnd ba◌ͤch colop~honia ge⸗
+||||||||||||||||||||||||+||||||||-
+rauch / vnnd ba◌ͤch colop honia ge~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010006.gt.txt
+nant / darnach vff den heiſſen bei
+||||||||||||||||||||||||||||||||||
+nant / darnach vff den heiſſen bei
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010007.gt.txt
+fůs geſeſſen. Diß krauts bl~ůmen
+|#|||||||||||||||||||||||||+#|||
+f◌ͤs geſeſſen. Diß krauts blu◌ͤmen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010008.gt.txt
+am lufft gedo◌ͤrret / ga◌ͤnß / junge ha
+||||||||||||-#|-||||||||||||-||||||#|
+am lufft ged~tr~et / ga◌ͤnß /~junge ba
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010009.gt.txt
+nen / vnd endten mit gefiltt vn~nd
+|||||||||||||||||||||||||||||||+||
+nen / vnd endten mit gefiltt vn nd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/01000a.gt.txt
+abbereitet iſt ein g~ůte ſpeiß.
+||||||||||||||||||||+#|||||||||
+abbereitet iſt ein gu◌ͤte ſpeiß.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/01000b.gt.txt
+Anagallis.
+||||||||||
+Anagallis.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/01000c.gt.txt
+Gaucheil wachſet in ſtupfflen
+||||||||||||#||||||||||||||||
+Gaucheil wacbſet in ſtupfflen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/01000d.gt.txt
+auff~ den ackeren / ſonders aber ga◌ͤ
+||||+|||||||||||||||||||||||||||||#|
+aufff den ackeren / ſonders aber gů◌ͤ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/01000e.gt.txt
+ren in den hanff landen / wachſet
+|||||||||||||||||||||||||||||||||
+ren in den hanff landen / wachſet
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/01000f.gt.txt
+nicht vber ſpa~ñen ho◌ͤhe / hat blet⸗
+||||||||||||||+#|||||-||||||||||||||
+nicht vber ſpafien ho~he / hat blet⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010010.gt.txt
+lin wie ~Maiaron / doch ſind ſy et⸗
+||||||||+#||||||||||||||||||||#||||
+lin wie eDaiaron / doch ſind ſp et⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010011.gt.txt
+was rauchs als ochſen zungen /
+||||||||||||||||||||||||||||||
+was rauchs als ochſen zungen /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010012.gt.txt
+ſeine zarte ſtengelin la◌ͤgeren ſich
+|||||||||||||||||||||||||||||||||||
+ſeine zarte ſtengelin la◌ͤgeren ſich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010013.gt.txt
+auff die erdẽ / hat ſcho◌ͤne rote zyn⸗
+||||||||||||-||||||||||||||||||||||||
+auff die erd~ / hat ſcho◌ͤne rote zyn⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010014.gt.txt
+ober farbe blu◌ͤmlin m~it fünff blet
+||||-||||||||||||||||+|||||||||||||
+ober~farbe blu◌ͤmlin mnit fünff blet
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010015.gt.txt
+linen / vnnd ein~em kleinen ga◌ͤlen
+||||||||||||||||+|||#|||||||||||||
+linen / vnnd ein em Eleinen ga◌ͤlen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010016.gt.txt
+b~~~ützlein / wañ~ die ſelbi~ge verg~ehn
+|+++#||||||||||||+||||||||||+|||||||+|||
+b ii tzlein / wañi die ſelbi ge verg ehn
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010017.gt.txt
+oder gleichwol zůn zeitten n~och
+||||||||||||||||#|||||||||||+|||
+oder gleichwol zun zeitten n och
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010018.gt.txt
+vorhanden ſind / bekompts runde
+||||||||||||||||-||||||||||||||
+vorhanden ſind /~bekompts runde
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0025/010019.gt.txt
+F iiij kno◌ͤpf⸗
+||||-#|||-||||
+F ii~t kn~◌ͤpf⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010001.gt.txt
+Kreü~ter
+||||+|||
+Kreü◌ͤter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010002.gt.txt
+kn~o◌ͤpfflein als coriander ſamen /
+#|+||||||||||||||||#||||||||||||||
+Enno◌ͤpfflein als cotiander ſamen /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010003.gt.txt
+im ſelbigen iſt dreieckter ſamen /
+|||||||||||||||||-||||||||||||||||
+im ſelbigen iſt d~eieckter ſamen /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010004.gt.txt
+ſein würtzeli iſt zaſicht vnnd ho⸗
+||||||||||||||||||||#|||||||||||||
+ſein würtzeli iſt zaficht vnnd ho⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010005.gt.txt
+richt / iſt gar ein ſcho◌ͤns vnd auch
+|||||||||||||||||||||||--|||||||||||
+richt / iſt gar ein ſch~~ns vnd auch
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010006.gt.txt
+herrlich gew~echs / f~ür alle gifftige
+#||#|||#||||+||#|||||+#||||||||||||||#
+bernlicb gew ecbs / fiir alle gifftiga
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010007.gt.txt
+ſücht vnd ſchaden. Dioſcorid.
+|||||||||||||||||||||||||#|||
+ſücht vnd ſchaden. Dioſcotid.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010008.gt.txt
+Den mund mit ſafft anag~allidis
+|||||||||||||||||||||||+|||||||
+Den mund mit ſafft anag allidis
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010009.gt.txt
+gurgelt gargariſiert / ze~ücht auß
+|||||||||||||||||||||||||+#|||||||
+gurgelt gargariſiert / zeiicht auß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/01000a.gt.txt
+dem haupt die fe~üchte pituitam /
+||||||||||||||||+#|||||||||||||||
+dem haupt die feiichte pituitam /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/01000b.gt.txt
+vnnd treibet ſy durch den mundt
+||||||||||||||#||||||||||||||||
+vnnd treibet ſp durch den mundt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/01000c.gt.txt
+auß. Jn die naſen diſes ſaffts ge⸗
+||||-|||||||||||||||||||||||||||||
+auß.~Jn die naſen diſes ſaffts ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/01000d.gt.txt
+zogẽ reini~get das hirni / z~ücht die
+|||#||||||+|||||||||||||||||+#|||||||
+zoge reini get das hirni / zticht die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/01000e.gt.txt
+fliß auß von denen das zan~wehe
+||||||||||||||||||||||||||+||||
+fliß auß von denen das zan wehe
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/01000f.gt.txt
+kommet. Plinius. Anagallis
+||||||||-|||||||||||||||||
+kommet. ~linius. Anagallis
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010010.gt.txt
+in wein geſotten / wid~erſthet allen
+||||||||||||||||||||||+|||||||||||||
+in wein geſotten / wid erſthet allen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010011.gt.txt
+gifftigen wunden vnd ſtichen / ſo
+|||||||||||||||||||||||||||||||||
+gifftigen wunden vnd ſtichen / ſo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010012.gt.txt
+beſcha◌ͤhen võ natern oder ſchlan⸗
+||||||||||||#||||||||||||||||||||
+beſcha◌ͤhen vo natern oder ſchlan⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010013.gt.txt
+g~en / daruon getruncken / die wun~
+|+||||||||||||||||||||||||||||||||+
+ggen / daruon getruncken / die wunn
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010014.gt.txt
+den damitt geweſchen vnnd deß
+||||||||||||||||||||||||||||#
+den damitt geweſchen vnnd deſ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010015.gt.txt
+kraut vbergelegt. Der ſafft mitt
+|||||||||||||||||-||||||||||||||
+kraut vbergelegt.~Der ſafft mitt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010016.gt.txt
+ſcho◌ͤnem honig verm~enget vnnd
+|||-|||||||||||||||+||||||||||
+ſch~◌ͤnem honig verm enget vnnd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010017.gt.txt
+in die tru◌ͤben augen gelaſſen / zer⸗
+||||||||||||||||||||||||||||||||||||
+in die tru◌ͤben augen gelaſſen / zer⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010018.gt.txt
+theilet die weiſſe fa◌ͤl vnd tü~nckle /
+||||||||||||||||||||||||||||||+|||||||
+theilet die weiſſe fa◌ͤl vnd tüinckle /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0026/010019.gt.txt
+macht
+|||||
+macht
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010001.gt.txt
+Beſchreibung.
+|||||#|||||||
+Beſchneibung.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010002.gt.txt
+macht ſy heiter vnd klar. Apul.
+|||||||||||||||||||||||||||||||
+macht ſy heiter vnd klar. Apul.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010003.gt.txt
+Safft anagallidis mit honig ver
+#||||||||||||||||||||||||||||||
+Gafft anagallidis mit honig ver
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010004.gt.txt
+miſchet / vnd dem menſchen ſo am
+||||||||||||||||||||||||||||||||
+miſchet / vnd dem menſchen ſo am
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010005.gt.txt
+hinfallenden ſiechtage ligt in die
+|||||||||||||#||||||||||||||||||||
+hinfallenden fiechtage ligt in die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010006.gt.txt
+naſen gethon / reitzet jn z~ů ſich ſel⸗
+|||||||||||||||||||||||||||+#||||||||||
+naſen gethon / reitzet jn zu◌ͤ ſich ſel⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010007.gt.txt
+ber zekommen. Wurde yemants
+||||||||||||||||||||#||||||
+ber zekommen. Wurde zemants
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010008.gt.txt
+gebiſſen von einẽ raſenden hund /
+||||||||||||||||-||||||||||||||||
+gebiſſen von ein~ raſenden hund /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010009.gt.txt
+gib jhm deß ſaffts oder kr~auts ze
+|||||#||||||||||||||||||||+||#||||
+gib jbm deß ſaffts oder kr aues ze
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/01000a.gt.txt
+trincken vnnd ſchlach deß krauts
+||||||||||||||||||||||||||||||||
+trincken vnnd ſchlach deß krauts
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/01000b.gt.txt
+auch vber den biß / wirdt jhm mit
+|||||||||||||||||||||||||||||||||
+auch vber den biß / wirdt jhm mit
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/01000c.gt.txt
+Gottes hilff geholffen werden.
+-|||||||||||||||||||||||||||||
+~ottes hilff geholffen werden.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/01000d.gt.txt
+Den ſafft diſes krauts getrunckẽ
+|||||||||||||||||||||||||||||||-
+Den ſafft diſes krauts getrunck~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/01000e.gt.txt
+treibet auß die waſſerſucht / ero◌ͤf⸗
+||||||||||||||||||||||||||||||||||||
+treibet auß die waſſerſucht / ero◌ͤf⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/01000f.gt.txt
+net die la◌ͤbern / reiniget die nieren
+|||||||||||||||||||||||||||||||||||||
+net die la◌ͤbern / reiniget die nieren
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010010.gt.txt
+vnd treibet den ſtein. Jn zeit der
+|||||||#||||||||||||||##||||||||||
+vnd tre◌ͤbet den ſtein.Jln zeit der
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010011.gt.txt
+peſtilẽtz trinck deß ſaffts / leck dich
+||||||#|-||||||||||||||||||||||||||||||
+peſtil◌ͤt~ trinck deß ſaffts / leck dich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010012.gt.txt
+nider warm zůbedeckt / dann der
+||||||||||||#||||||||||||||||||
+nider warm zubedeckt / dann der
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010013.gt.txt
+trunck ze~ücht auß vnnd vertreibt
+|||||||||+#||||||||||||||||||||||
+trunck zeiicht auß vnnd vertreibt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010014.gt.txt
+allerhand gifft durch dẽ ſchweis.
+|||||||||||||||||||||||-|||||||||
+allerhand gifft durch d~ ſchweis.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010015.gt.txt
+Eingeſamlet zů geſchickter zeyt /
+|||||||||||||#|||||||||||||||||||
+Eingeſamlet zu geſchickter zeyt /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010016.gt.txt
+am lufft gedo◌ͤrret / darnach dẽ hu◌ͤ⸗
+||||||||||||#|#|||||||||||||||-|||||
+am lufft ged ◌ͤiret / darnach d~ hu◌ͤ⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010017.gt.txt
+n~eren in ſpeiß vnd tr~anck geben /
+|+||||||||||||||||||||+||||||||||||
+nreren in ſpeiß vnd tr anck geben /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010018.gt.txt
+behalt ſy f~ür der kranckheit pitui
+||||||-||||+#||||||||||||||||||||||
+behalt~ſy fiir der kranckheit pitui
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0027/010019.gt.txt
+F v ta
+||||||
+F v ta
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010001.gt.txt
+Kreüter
+|||||||
+Kreüter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010002.gt.txt
+ta rotz oder p~fipffi / ſtercket die brů
+||||||||||||||+||||||||-||||||||||||||-#
+ta rotz oder p fipffi /~ſtercket die b~i
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010003.gt.txt
+tenden hennen krefftiglich einzů~
+||||||||||||||||||||||||||||||||+
+tenden hennen krefftiglich einzů◌ͤ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010004.gt.txt
+bildẽ deß fü~rſch~webend oder fü~r⸗
+||||#|||||||+||||+||||||||||||||+||
+bildä deß füirſch webend oder füir⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010005.gt.txt
+geſetzet gema◌ͤldt / alſo das offt vß
+||||||||||||||||||||||||||||||||||||
+geſetzet gema◌ͤldt / alſo das offt vß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010006.gt.txt
+den eyern ſeltzame f~ürgeſpiegelte
+|||||-||||||||||||||+#|||||||||#||
+den e~ern ſeltzame fiirgeſpiegeite
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010007.gt.txt
+farben die außſchlieffen~den hu◌ͤn⸗
+||||||||||||||||||||||||+|||||||||
+farben die außſchlieffen den hu◌ͤn⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010008.gt.txt
+lein beko~~m◌̃en habend / Vnd ghed
+|||||||||++##|||||||||||||||||#||
+lein beko iGien habend / Vnd gbed
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010009.gt.txt
+garnach in ſollicher weiß zů / Als
+||||||||||||||||||-||||||||#||||||
+garnach in ſollich~r weiß zñ / Als
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/01000a.gt.txt
+etwan mit den p~fawen fü~rzeb~rin
+|||||||||||||||+||||||||+||||+|||
+etwan mit den p fawen füirzebnrin
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/01000b.gt.txt
+gen weyſſe pfauwen gehandelet
+|||||||||||||||||||||||||||||
+gen weyſſe pfauwen gehandelet
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/01000c.gt.txt
+wirt / yedoch ſo m~ůß der hu◌ͤner ge⸗
+|||||||#||||||||||+#|||||||||||||||#
+wirt / pedoch ſo mu◌ͤß der hu◌ͤner ge/
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/01000d.gt.txt
+ſicht geſtercket vnd in deß gema◌ͤld
+|||||||||||||||||||||||||||||||||||
+ſicht geſtercket vnd in deß gema◌ͤld
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/01000e.gt.txt
+zeſehen bezwungẽ durch natü~rli⸗
+||||||||||||||##|||||||||||+||||
+zeſehen bezwun g durch natüirli⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/01000f.gt.txt
+che mittel werden / vnnd z~ů beſon
+||||||||||||||||||||||||||+#||||||
+che mittel werden / vnnd zu◌ͤ beſon
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010010.gt.txt
+derer zeit / welches ein y~eder wey⸗
+||||||||||||||||||||||||||+|||||||-#
+derer zeit / welches ein y eder we~o
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010011.gt.txt
+ſer erach~ten kan / wañ er g~ed~enckt
+|||||||||+||||||||||||||||||+||+|||||
+ſer erach ten kan / wañ er g ed enckt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010012.gt.txt
+dz die hu◌ͤner nicht allweg durchs
+|||||||||||||||||||||||||||||||||
+dz die hu◌ͤner nicht allweg durchs
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010013.gt.txt
+jar vñ alle monat iunge vßklopf⸗
+||||||||||||||||||||||||||||||||
+jar vñ alle monat iunge vßklopf⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010014.gt.txt
+fend / auch welches temperamets
+|||||||||||||||||||||||||||||||
+fend / auch welches temperamets
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010015.gt.txt
+jr fleyſch ſey. Derffte ſchier ſagen
+|||||||||#|||#||||||||||||||||||||||
+jr fleyſcb ſep. Derffte ſchier ſagen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010016.gt.txt
+dz die hu◌ͤn~lein ein Metam~orpho⸗
+|||||||||||+|||||||||#||||+|##||#
+dz die hu◌ͤn lein ein Oetam ow hos
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010017.gt.txt
+ſis anderer thierer geſtalt beka◌ͤ⸗
+#|||||||||||||||||||||||||||||||#|
+fis anderer thierer geſtalt bekaL⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010018.gt.txt
+mend / welches bey dem vnerfar⸗
+|||||||||||||||||-|||||||||||||
+mend / welches be~ dem vnerfar⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0028/010019.gt.txt
+nen~
+|||+
+nenr
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010001.gt.txt
+Beſchreibung. xlij
+|||||#||||||||#||#
+Beſchieibung. rliſ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010002.gt.txt
+nen fü~r dem vnd ehe er es ſicht vn
+||||||+||||||||||||||||||||||||||||
+nen füir dem vnd ehe er es ſicht vn
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010003.gt.txt
+gle~üblich iſt / ich hab dir zwar inn
+|||+#||||||||||||||||||||||||||||||||
+gleiiblich iſt / ich hab dir zwar inn
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010004.gt.txt
+vorrede diſes bu◌ͤch~leins geſagt / dz
+||#||||||||||||||||+||||||||||||||-||
+voirede diſes bu◌ͤch leins geſagt /~dz
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010005.gt.txt
+auß kreü~tteren thierer werdendt
+||||||||+|||||||||||||||||||||||
+auß kreüitteren thierer werdendt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010006.gt.txt
+durch mitthilff vñ ſchein der ſter
+||||||||||||||||||||||||||||||||||
+durch mitthilff vñ ſchein der ſter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010007.gt.txt
+nẽ / derhalbẽ bedunckts mich m~in
+|-||||||||||||||||||||||||||||+||
+n~ / derhalbẽ bedunckts mich mnin
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010008.gt.txt
+der ein wunder zeſein das tierer /
+|||||||||||||||||||||||-|||#||||||
+der ein wunder zeſein d~s tterer /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010009.gt.txt
+tierer bleibend / doch anderer tie⸗
+|||||||||||||||||||||||||||||||||||
+tierer bleibend / doch anderer tie⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/01000a.gt.txt
+rer geſtalt bekommend. Dann ob
+||||||||||||||||||||||-|||||||
+rer geſtalt bekommend.~Dann ob
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/01000b.gt.txt
+es gleichwol war iſt / das die hitze
+||||#|||||||||||||||||||||||||||||||
+es gieichwol war iſt / das die hitze
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/01000c.gt.txt
+vnnd feüchte aller putrefaction
+|||||||||||||||||||||||||||||||
+vnnd feüchte aller putrefaction
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/01000d.gt.txt
+ein můter die kre~üter faul macht /
+|||||#|||||||||||+#||||||||||||||||
+ein muter die kreiiter faul macht /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/01000e.gt.txt
+vnnd ein vrſach iſt / das auß jnen
+||||||||||||||||||||||||||||||||||
+vnnd ein vrſach iſt / das auß jnen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/01000f.gt.txt
+etwas la◌ͤbendts oder kriechendts
+|||||||||||||||||||||#||||||||||
+etwas la◌ͤbendts oder Eriechendts
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010010.gt.txt
+wirdt / So iſt aber auch war / das
+||||||||||||||||||||||||||||||||||
+wirdt / So iſt aber auch war / das
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010011.gt.txt
+die eyer vnder der hennen temp~f⸗
+||||||||||||||||||||||||||||||+|#
+die eyer vnder der hennen temp fs
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010012.gt.txt
+f~ig gnůg werdend / hitz vnd feüch
+|+|||||#||||||||||||#||||||||||#|-
+f◌̃ig gnug werdend / bitz vnd fefc~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010013.gt.txt
+te in jrer art hauffechtig habend.
+||||||||||||||||||||||||||||||||||
+te in jrer art hauffechtig habend.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010014.gt.txt
+~Nun die nat~ürliche mittel welche
++#||||||||||+#||||||||||||||||||||
+MAun die natiirliche mittel welche
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010015.gt.txt
+d~er heñen das fürſchwebend ein⸗
+|+|||||#||||||||||||||||||||||||
+d er heien das fürſchwebend ein⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010016.gt.txt
+tringend / weiß ich / Aber wie es zů
+#|||||||||-|||||||||||||||||||||||||
+eringend /~weiß ich / Aber wie es zů
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010017.gt.txt
+ghet / das auß jrem ſa◌ͤhen die jun⸗
+||||||||||||||||||||||||||||||-||||
+ghet / das auß jrem ſa◌ͤhen die~jun⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010018.gt.txt
+ge in eyern verwandelt werdent /
+#|||||||||||||||||||||||||||||||
+Je in eyern verwandelt werdent /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0029/010019.gt.txt
+die
+|||
+die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010001.gt.txt
+Kre~üter
+|||+#|||
+Kreiiter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010002.gt.txt
+dieweils ein heimlichs ding iſt dẽ
+|||||||||||||||||||||||||||||||-|-
+dieweils ein heimlichs ding iſt~d~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010003.gt.txt
+m~enſchen nicht zů ergrindẽ eben
+|+|||||||||||||||#||||||||||||||
+m enſchen nicht zu ergrindẽ eben
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010004.gt.txt
+als wo l/ als ſo ein~er ein ſattẽ warẽ
+||||||##||||||||||||+|||||||||||#|||||
+als wol / als ſo ein er ein ſatte warẽ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010005.gt.txt
+grundt ſolt g~eben wie es beſchehe
+|||||||||||||+||||||||||||||||||||
+grundt ſolt g eben wie es beſchehe
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010006.gt.txt
+wann von der ſchwan~geren frau
+|||||||||||||||||||+||||||||||
+wann von der ſchwan geren frau
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010007.gt.txt
+wen eintziges eüſſerlichs angreif
+|||||||||||||||#|||||||||||||||||
+wen eintziges eiſſerlichs angreif
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010008.gt.txt
+fen oder nur anſehen / das inner⸗
+|||||||||||||||||||||||||||||||||
+fen oder nur anſehen / das inner⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010009.gt.txt
+lich kind ſich~tp~arliche anmal ent⸗
+||||||||||||||+||+||||||||||||||||||
+lich kind ſich tp arliche anmal ent⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/01000a.gt.txt
+pfahet weiß ichs gar nicht / Das
+||||||||||||||||||||||||||||||||
+pfahet weiß ichs gar nicht / Das
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/01000b.gt.txt
+aber der ſternen ſchein ſeltzame la◌ͤ
+||||||||||||||||||||||||||||||||||--
+aber der ſternen ſchein ſeltzame l~~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/01000c.gt.txt
+bende ding vorauß ſo ſy beſchehẽt
+|||||||||||||#|||||||||||||||||#|
+bende ding vonauß ſo ſy beſchehkt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/01000d.gt.txt
+in der m~ateri / welche geſchicktlich
+||||||||+||||#|||||||||||||||||||||||
+in der m atert / welche geſchicktlich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/01000e.gt.txt
+jhre influents zů entpfahen ſind
+#|||||||||||||||#|||||||||||||||
+ſhre influents zu entpfahen ſind
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/01000f.gt.txt
+fü~rbringendt / iſt offenbar / darff
+||+||#||||||||||||||||||||||||||||||
+füirbtingendt / iſt offenbar / darff
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010010.gt.txt
+keins probierẽs / dieweils ta◌ͤg~lich
+|||||||#|||||#|||||||||||||||||+||||
+keins pnobierEs / dieweils ta◌ͤg lich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010011.gt.txt
+der baurßmann erfarẽt / was deß
+|||||||||||||||||||-|||||||||||
+der baurßmann erfar~t / was deß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010012.gt.txt
+~Mones ſchein in den ſpeckſeitten
++#|||||||||||||||||||||||||||||||
+eOones ſchein in den ſpeckſeitten
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010013.gt.txt
+ſchaffe vñ herf~ür bring / die gleich
+||#||||||||||||+#|||#||||||||||||||||
+ſcbaffe vñ herfiir biing / die gleich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010014.gt.txt
+wol vor geſaltzen vñ aber deß ſaltz
+||||||#|||||||||||||||||||||||||||#
+wol vot geſaltzen vñ aber deß ſaltg
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010015.gt.txt
+ſonſt f~ür fewle bew~aret. Als nun
+|||||||+||||||||||||+|||||-|||||||
+ſonſt ffür fewle bew aret.~Als nun
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010016.gt.txt
+die alten erſehen / das durch kun~ſt
+|||||||||||||||||||||||||||||||||+||
+die alten erſehen / das durch kun ſt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010017.gt.txt
+natürliche ding / wie kreü~ter vnd
+||||||||||||||||||||||||||+|||||||
+natürliche ding / wie kreüiter vnd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010018.gt.txt
+thierer ſind transformiert wur⸗
+||||||||||||||||||||#||||||||||
+thierer ſind transfoumiert wur⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0030/010019.gt.txt
+dent /
+||||||
+dent /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010001.gt.txt
+Beſchreibung.
+|||||#|||#|||
+Beſchneibtng.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010002.gt.txt
+dent / gedachtents mit den metal⸗
+|||||||||||||||||||||||||||||||||
+dent / gedachtents mit den metal⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010003.gt.txt
+len in~ſonders mitt dem queckſil⸗
+||||||+||||||||||||||||||#|||||||
+len in ſonders mitt dem qneckſil⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010004.gt.txt
+ber gleichermas zehandlen / das
+|||||||||||||||||||||||||||||||
+ber gleichermas zehandlen / das
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010005.gt.txt
+ſelbig in deß reiniſt wa◌ͤſen zebrin⸗
+||||||||||||||||||||||||||||||||#|||
+ſelbig in deß reiniſt wa◌ͤſen zebtin⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010006.gt.txt
+gen / wie deren noch heü~tigs tags
+||||||||||||||||||||||||+|||||||||
+gen / wie deren noch heüitigs tags
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010007.gt.txt
+ſind Alchimiſten / die ſich hierinn
+|||||||||||||||||||||||||||||||||||
+ſind Alchimiſten / die ſich hierinn
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010008.gt.txt
+ernſtlich bearbeitendt / obs nun
+||||||||||||||||||||||||||||||||
+ernſtlich bearbeitendt / obs nun
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010009.gt.txt
+jhnen m~üglich kenne ſein ſo hoch
+|||||||+#||||||||||||||||||||||||
+jhnen miiglich kenne ſein ſo hoch
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/01000a.gt.txt
+zeſteigen / iſt mir nicht gleüblich /
+|||||||||||||||||||||||||||||#|||||||
+zeſteigen / iſt mir nicht gleiblich /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/01000b.gt.txt
+ſprich aber nicht das ſy es nicht
+||#||||||||||||||||||||||||||||||
+ſptich aber nicht das ſy es nicht
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/01000c.gt.txt
+t~hůn werden~dt / dieweil ich mich
+|+||||||||||+|||||||||||||||||||||
+t hůn werdenndt / dieweil ich mich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/01000d.gt.txt
+jrer geſchicklickeit vñ ſpitzẽ gedan
+#||||||||||||||##|||||||||||||||||||
+irer geſchicklik eit vñ ſpitzẽ gedan
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/01000e.gt.txt
+ckẽ als ein kleinfu◌ͤgi~ger gar nich⸗
+|||||#||||||||||||#|||+|||||||||||||
+ckẽ ais ein kleinfů◌ͤgi ger gar nich⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/01000f.gt.txt
+tzet verſthe. Wo aber einer zů ſol⸗
+|||||||||||||||||||||||||||||#|||||
+tzet verſthe. Wo aber einer zñ ſol⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010010.gt.txt
+licher vnſinnigkeit gelanget / das
+|||||||||#||||||||||||||||||||||||
+licher vnfinnigkeit gelanget / das
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010011.gt.txt
+er ſich mitt den weichen co◌ͤrpern /
+||||||||||||||||||||||||||-|#||||||
+er ſich mitt den weichen c~◌ͤwpern /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010012.gt.txt
+wurtzẽ kre~ütern / ſamen oder blů⸗
+||||||||||+#||||||||||||||||||||-|
+wurtzẽ kreiitern / ſamen oder bl~⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010013.gt.txt
+men bearb~eitet / auß jren bley / wil
+|||||||||+|||||||||||||||||||||||||||
+men bearb eitet / auß jren bley / wil
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010014.gt.txt
+geſch~weigen reiners m~etall zema
+|||||+||||||||||||||||+||||||||||
+geſch weigen reiners m etall zema
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010015.gt.txt
+chen vnd~ernim~met / iſts m~ir f~ü~r
+||||||||+|||||+||||||||||||+||||+|+|
+chen vnd ernim met / iſts mnir ffüir
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010016.gt.txt
+jhn leidt / iſt gentzlich vnmü~glich
+||||||||||||||||||||||||||||||+|||||
+jhn leidt / iſt gentzlich vnmüiglich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010017.gt.txt
+hat keinẽ grund / ja ein ſolliche tor
+||||||||||||||||||||||||||||||||||||#
+hat keinẽ grund / ja ein ſolliche tot
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010018.gt.txt
+heit vnnd bo◌ͤſer trug daß ich alle
+|||||||||||--|||||||||||||||||||||
+heit vnnd b~~ſer trug daß ich alle
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0031/010019.gt.txt
+m~ein~e
+|+|||+|
+mneinze
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010001.gt.txt
+Kreüter
+|||#|||
+Kreuter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010002.gt.txt
+meine tag kein gro◌ͤſſeren beſchiß
+|||||||||||||||||-|||||||||||||||
+meine tag kein gr~◌ͤſſeren beſchiß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010003.gt.txt
+erho◌ͤret. Nun ich ſchreit zů~ weit võ
+||||-#||###||||||||||#||||||+|||||||-
+erho~net .Mun ich ſchteit zů◌ͤ weit v~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010004.gt.txt
+meinem ſcho◌ͤnen Anag~allide / wel
+||||||||||--||||||||+||||||||||||
+meinem ſch~~nen Anag allide / wel
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010005.gt.txt
+ches / ſo es in waſſer geſottẽ wirt /
+|||||||||||||||||||||||||||||#|||||||
+ches / ſo es in waſſer geſotte wirt /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010006.gt.txt
+ein herrlich bad iſts / z~ücht auß die
+|||||||#|||||||||||||||||+#|||||||||||
+ein hernlich bad iſts / ziicht auß die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010007.gt.txt
+fe~üchte deß freſſendẽ raudes / hei⸗
+||+#||||||||||||||||||||||||||||||||
+feiichte deß freſſendẽ raudes / hei⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010008.gt.txt
+let alle bo◌ͤſe rauden. Ein pflaſter
+||||||||||--||-||||||||||||||||||||
+let alle b~~ſe~rauden. Ein pflaſter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010009.gt.txt
+von ſeinem ſafft / dip~tan vnd zeit⸗
+||||||||||||||||||-|||+|||||||||||||
+von ſeinem ſafft /~dip tan vnd zeit⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/01000a.gt.txt
+loſen gemachet / ze~ücht auß ſpreiſ⸗
+|||||||||||||||||||+#||||||||||-||||
+loſen gemachet / zeiicht auß ſp~eiſ⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/01000b.gt.txt
+ſel vnd do◌ͤrn.
+|||||||||||#||
+ſel vnd do◌ͤin.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/01000c.gt.txt
+Lapathon.
+-||||#|||
+~apatbon.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/01000d.gt.txt
+Münich Rheb~arbara iſt ein
+##|||||#|||+||||||||||||||
+Dinich Kheb arbara iſt ein
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/01000e.gt.txt
+wolbekãts gůts gewechs dem ſpi
+||||||-|||||||||||||#|||||||||
+wolbek~ts gůts gewecbs dem ſpi
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/01000f.gt.txt
+tzen Menwelwurtzel nicht vna◌ͤn⸗
+|-|||#|||||||||||||||||||||||||
+t~en Oenwelwurtzel nicht vna◌ͤn⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010010.gt.txt
+lich / gew~ĩt ein groſſe w~urtzel wañ
+||||||||||+#||||||||||||||+|||||||||#
+lich / gew it ein groſſe w urtzel war
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010011.gt.txt
+es eraltet / inwendig rott ga◌ͤl / ein
+|||||||||||||||||||||||||||||||||||||
+es eraltet / inwendig rott ga◌ͤl / ein
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010012.gt.txt
+wenig bitter am geſch~mack / hatt
+|||||||||||||||||||||+|||||||||||
+wenig bitter am geſch mack / hatt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010013.gt.txt
+bletter welche z~ům anfang etwas
+||||||||||||||||+#||||||||||||||
+bletter welche zu◌ͤm anfang etwas
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010014.gt.txt
+braunr~ott ſind / ſpitz vnnd lang /
+||||||+||||#|||||||||||||||||||||||
+braunr ott find / ſpitz vnnd lang /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010015.gt.txt
+darnach thůt ſy ſich auf / werdend
+||||||||||#|||#|||||||||||||||||||
+darnach thut ſp ſich auf / werdend
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010016.gt.txt
+ſcho◌ͤn grien / ſeer breit / vñ~ ſo groß
+|||-|||||||||||||||||#||||||||+||||||||
+ſch~◌ͤn grien / ſeer bieit / vñi ſo groß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010017.gt.txt
+als alentwurtzel bletter / auff jrer
+||||||||||||||||||||||||||||||||||||
+als alentwurtzel bletter / auff jrer
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010018.gt.txt
+wurtzel erhebend ſich runde doch
+||||||||||||||||||||||||||||||||
+wurtzel erhebend ſich runde doch
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0032/010019.gt.txt
+rip⸗
+||||
+rip⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010001.gt.txt
+Beſchreibung.
+#||||#|||||||
+Veſchieibung.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010002.gt.txt
+rippichte / kno◌ͤpfichte / hole brau⸗
+||||||||||||||||||||||||||||||||#|||
+rippichte / kno◌ͤpfichte / hole btau⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010003.gt.txt
+ne ſtengel in dau~m~ẽs dicke / mans
+|||||||||||||||||+|+#||||||||||||||
+ne ſtengel in dau m Es dicke / mans
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010004.gt.txt
+ho◌ͤhe vnd auch ho◌ͤher. Dioſcor.
+||-||||||||||||||||||||||||||#|
+ho~he vnd auch ho◌ͤher. Dioſcot.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010005.gt.txt
+Aller rumicum kre~üter gekocht
+#|-||||||||||||||+#|||||||||||
+il~er rumicum kreiiter gekocht
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010006.gt.txt
+vñ ga◌ͤſſen erw~eichend den bauch /
+||||||||||||||+|||||||||||||||||||
+vñ ga◌ͤſſen erw eichend den bauch /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010007.gt.txt
+jre wurtzen geſtoſſen mitt laugen
+|#|||||||||||||||||||||||||||||||
+jte wurtzen geſtoſſen mitt laugen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010008.gt.txt
+vermenget / im bad die reüdig~keit
+|||||||||||||||||||||||||#|||+||||
+vermenget / im bad die reidig keit
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010009.gt.txt
+mit geriben vertreibet ſy. Es ſind
+||||||||||||||||||||||||#|-|||#|||
+mit geriben vertreibet ſp.~Es find
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/01000a.gt.txt
+die diſe wurtzel an hals henckend /
+|||||||||||||||||||||||||||||||||||
+die diſe wurtzel an hals henckend /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/01000b.gt.txt
+meinend jr an~h~encken zerteile vñ
+||||||||#||||+|+|#||#||-|||||||||#
+meinend ſr an h etckan ~erteile vß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/01000c.gt.txt
+vertribe die kro◌ͤpff. ~Lapathus ge
+|||||||||||||||--|||||+#||||#|||||
+vertribe die kr~~pff. KCapatbus ge
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/01000d.gt.txt
+p~ülfferet vñ~ ein~genommen / oder
+|+#||||||||||+||||+|||||||||||||||
+piilfferet vñi ein genommen / oder
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/01000e.gt.txt
+ſeine bletter in wein geſotten vñ
+||||||-|||||||||||||||||||||||||#
+ſeine ~letter in wein geſotten vr
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/01000f.gt.txt
+getruncken reiniget die la◌ͤber vnd
+|||#||||||||||||||||||||||||||||||
+gettuncken reiniget die la◌ͤber vnd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010010.gt.txt
+gallen / iſt faſt n~ützlich dẽ ga◌ͤlſ~üch⸗
+||||||||-||||||||||+#||||||||-||||||+#|||
+gallen /~iſt faſt niitzlich d~ ga◌ͤlſiich⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010011.gt.txt
+tigen vnnd hitzigen choleriſchen
+||||||||||||||||||||||||||||||||
+tigen vnnd hitzigen choleriſchen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010012.gt.txt
+m~enſchen. Mann ſagt wann ein
+|+|||||||||#|||||||||||||||||
+msenſchen. Oann ſagt wann ein
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010013.gt.txt
+qu~int diſer gedo◌ͤrtẽ gep~ülfferten
+#|+|||||||||||||-##|#||||+#|||||||-
+aunint diſer ged~ ite gepiilfferte~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010014.gt.txt
+w~urtzẽ mitt h~alb~em quint ingber
+|+||||#|||||||+|||+|||||||||||||||
+w urtze mitt h alb em quint ingber
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010015.gt.txt
+n~u◌ͤch~ter in ein~er warmen bru◌ͤe ein~
+|+##||+||||||||||+|||||||||||-|||||||+
+nn uch ter in ein er warmen b~u◌ͤe einu
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010016.gt.txt
+gen~ommen werde / ſo f~iere ſy auß
+|||+||||||||||||||||||+|||||||||||
+gen ommen werde / ſo f◌̃iere ſy auß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010017.gt.txt
+gallen vñ rotz. Lapathus kochet
+||||||||||||||||-|||||||||||||-
+gallen vñ rotz. ~apathus koche~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010018.gt.txt
+in ſchmaltz / gelegt auff harte ge⸗
+|||||||||||||||||||||||||||||||||||
+in ſchmaltz / gelegt auff harte ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0033/010019.gt.txt
+ſchwa◌ͤr
+|||||||
+ſchwa◌ͤr
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010001.gt.txt
+Kreüter
+|||||||
+Kreüter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010002.gt.txt
+ſchwa◌ͤr weichet ſy bald / zeücht die
+||||||||||||||||||||||||||||#|||||||
+ſchwa◌ͤr weichet ſy bald / zeicht die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010003.gt.txt
+bo◌ͤſe materi zůſammen vnnd den~
+|#|||||||||#||||||||||||||||||+
+bB◌ͤſe matert zůſammen vnnd dent
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010004.gt.txt
+eyter / hey~let bald zů. Diſes kraut
+||||||||#||+||||||||||###|||||||||||
+eyter / bey let bald zñ◌ͤ.Diſes kraut
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010005.gt.txt
+in waſſer geſotten vnd darinn ge
+||||||||||||||||||||||||||||||||
+in waſſer geſotten vnd darinn ge
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010006.gt.txt
+badt / bricht den la◌ͤndẽ ſtein / vber
+||||||||#||||||||||||||-|||||||||||||
+badt / buicht den la◌ͤnd~ ſtein / vber
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010007.gt.txt
+geſchwulſt gelegt vertreibt die ſel
+|||||||||||||||||||||||||||||||||||
+geſchwulſt gelegt vertreibt die ſel
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010008.gt.txt
+bige. So die wurtzel wol zerſtoſ⸗
+|||||-|||||||||||||||||||||||||||
+bige.~So die wurtzel wol zerſtoſ⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010009.gt.txt
+ſen vnd mit ſchmaltz koch~et wirt /
+|||||||||||||||||||||||||+|||||||||
+ſen vnd mit ſchmaltz koch et wirt /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/01000a.gt.txt
+vnd auff die kro◌ͤpff pflaſtert zer⸗
+|||||||||||||||--||||||||||||||||||
+vnd auff die kr~~pff pflaſtert zer⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/01000b.gt.txt
+teilet vnd veriaget ſy.
+|||||||||||||||||||||||
+teilet vnd veriaget ſy.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/01000c.gt.txt
+Ophiogloſſon.
+-|#||||||||||
+~pbiogloſſon.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/01000d.gt.txt
+Naterz~ünglin wachſet gem~ein
+-|||||+#|||||||||||||||||+|||
+~aterztinglin wachſet gem ein
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/01000e.gt.txt
+lich vff den wyſen bey den waſſer
+||||||||||||||-||||||||||||||||||
+lich vff den w~ſen bey den waſſer
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/01000f.gt.txt
+r~ünſen / iſt ein feiſts wundtkre~üt⸗
+|+#||||||-|||||||||||||||||||||||+#||
+riinſen /~iſt ein feiſts wundtkreiit⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010010.gt.txt
+lin wirt fingers lang wie die blet
+||||||||||||||||||||||||||||||||||
+lin wirt fingers lang wie die blet
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010011.gt.txt
+lin von den granaten bo◌ͤwm~lin /
+||||||||||||||||||||||-|||+|||||
+lin von den granaten b~◌ͤwm lin /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010012.gt.txt
+inn mitten deß blettlins ſchleifft
+||||||||||||||||||||||||||||||||||
+inn mitten deß blettlins ſchleifft
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010013.gt.txt
+ein ſpitz z~ünglein wie ein Nater
+|||||||||||+#|||||||||||||||#||||
+ein ſpitz ziinglein wie ein Mater
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010014.gt.txt
+herauß / ſein wü~rtzeli bey~derſeits
+||||||||||||||||+||||||||||+||||||||
+herauß / ſein wüirtzeli bey derſeits
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010015.gt.txt
+zaſerig. Ein hey~lſam kraut zů al⸗
+||||||||--||||||+||||||||||||#||||
+zaſerig.~~in hey lſam kraut zñ al⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010016.gt.txt
+len hitzi~gẽ ſcha◌ͤden / geſchwulſt vñ
+||||#||||+|||||||||||||||||||||||||||
+len bitzi gẽ ſcha◌ͤden / geſchwulſt vñ
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010017.gt.txt
+hitzigen wun~den~ / wann es geſtoſ⸗
+||||||||||||+|||+||||||||||||||||#|
+hitzigen wun denn / wann es geſtof⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010018.gt.txt
+ſen mitt terpentin gekochet vn~nd
+||||||||||||||||||||||||||||||+||
+ſen mitt terpentin gekochet vn nd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0034/010019.gt.txt
+vber
+||||
+vber
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010001.gt.txt
+Beſchreibung. xlv
+-||||#||||||||#|#
+~eſchneibung. rln
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010002.gt.txt
+vbergſchlagẽ pflaſters weis wirt /
+||||||||||||-|||||||||||||||||||||
+vbergſchlagẽ~pflaſters weis wirt /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010003.gt.txt
+verhu◌ͤtet ſys f~ür dẽ kaltẽ brandt /
+|||||||||||||||+#|||-||||-#||-||||||
+verhu◌ͤtet ſys fiir d~ kal~r b~andt /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010004.gt.txt
+beylet darz~ů mercklich bald z~ůſa⸗
+||#||||||||+#|||||||||||||||||+#|||
+beplet darzu◌ͤ mercklich bald zu◌ͤſa⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010005.gt.txt
+men gleichſam der walw~urtzen /
+||||||||||||||||||||||+||||||||
+men gleichſam der walw urtzen /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010006.gt.txt
+laßt nicht bald die zůuellige hitz
+||||||||#|||||||||||||||||||||#|||
+laßt nicbt bald die zůuellige bitz
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010007.gt.txt
+vberhand nemmen~.
+|||||||||||||||+|
+vberhand nemmenn.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010008.gt.txt
+Ariſtolochia rotunda.
+-||||||||||||||||||||
+~riſtolochia rotunda.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010009.gt.txt
+Ariſtolochia wach~ſet auff hohen
+|||||||||||||||||+||||||||||||||
+Ariſtolochia wach ſet auff hohen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/01000a.gt.txt
+wyſen mit einer run~den wurtzen /
+|||||||||||||||||||+|||||||||||||
+wyſen mit einer run den wurtzen /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/01000b.gt.txt
+a◌ͤnlich cy~cla~mini wurtzel / auß~ge⸗
+||||||||#|+|||+||||||||||||||||||+|||
+a◌ͤnlich ey cla◌ͤmini wurtzel / auß ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/01000c.gt.txt
+nom◌̃en dz diſe iſt inwendig ga◌ͤlb /
+||##||||||||||-||||||||||||||||||||
+nofñen dz diſe~iſt inwendig ga◌ͤlb /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/01000d.gt.txt
+eines bitteren ſt~arcken geruchs /
+|||||||||||||||||+||||||||||||||||
+eines bitteren ſttarcken geruchs /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/01000e.gt.txt
+auß jhren wach~ſendt viel ſub~teile
+|||||-#|||||||+||||||||||||||+|||||
+auß j~ben wach ſendt viel ſub teile
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/01000f.gt.txt
+za◌ͤſerlin / welche ſich oben als riet⸗
+|-||||||||||||||||||||||||||||||||||||
+z~◌ͤſerlin / welche ſich oben als riet⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010010.gt.txt
+lin oder zinck ein herfür th~ůnd /
+||||||||||||||||||||||||||||+#||||
+lin oder zinck ein herfür tha◌ͤnd /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010011.gt.txt
+die habend kleine ſchier anzůſa◌ͤhẽ
+||||||||||||||||||||||||||||#|--|-
+die habend kleine ſchier anzuſ~~h~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010012.gt.txt
+als Ebheüw bletter / brin~gend im
+||||||||||||||||||||||#||+|||||||
+als Ebheüw bletter / bnin gend im
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010013.gt.txt
+ſommer gewonlich herfür bleich⸗
+|||||||||||||||||||||||||||||||
+ſommer gewonlich herfür bleich⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010014.gt.txt
+gelbe bl~ůmẽ / Diß ſcho◌ͤn gewa◌ͤchs
+||||||||+#||||||||||||-#|||||--|||
+gelbe blu◌ͤmẽ / Diß ſch~ n gew~~chs
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010015.gt.txt
+hab ich nie friſch / d~as iſt grien o⸗
+||||||||||||||||||||||+|||||||||||||||
+hab ich nie friſch / d as iſt grien o⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010016.gt.txt
+der lebend in teütdſchem land ge⸗
+||#||||||||||||||||||||||||||||||
+dez lebend in teütdſchem land ge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010017.gt.txt
+ſeh~en / Es vergleichet ſich weder
+|||+||||||||||||||||||||||||||||||
+ſeh en / Es vergleichet ſich weder
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010018.gt.txt
+am ſtengel / kraut / noch in zeit ſei⸗
+|||||||||-||||||||---#||#|||||||||||||
+am ſtenge~ / kraut~~~mocb in zeit ſei⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0035/010019.gt.txt
+G ner
+--|||
+~~ner
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010001.gt.txt
+Kreüter
+|||||||
+Kreüter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010002.gt.txt
+ner erſchein~ũg / vnſerer te~ütſcher
+||||||||||||+#||||||||||||||+#||||||
+ner erſcheinñ◌ͤg / vnſerer teůitſcher
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010003.gt.txt
+zaun oder hagwurtzel / gar nicht /
+-|||||||||||||||||||||||||||||||||
+~aun oder hagwurtzel / gar nicht /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010004.gt.txt
+welche der mehrertheil balbierer
+||||||||||||||#|||||||||||||||||
+welche der mehnertheil balbierer
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010005.gt.txt
+f~ü~r rechte Ariſtolochiam rotun⸗
+|+|+|||||||||||||||||||||||||||||
+ffüir rechte Ariſtolochiam rotun⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010006.gt.txt
+dam einſamlend. Dioſc. Diſer
+||||||||||||||||||||||||||||
+dam einſamlend. Dioſc. Diſer
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010007.gt.txt
+wurtzel etwas mit wein myrrhen
+||||||||||||||||||||||||||-|||
+wurtzel etwas mit wein myr~hen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010008.gt.txt
+vnd pfeffer getruncken / reiniget
+|||||||||||||||||||||||||||||||||
+vnd pfeffer getruncken / reiniget
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010009.gt.txt
+die weiber von vberflißigem vn⸗
+||||||||||||||||||||-||||||||||
+die weiber von vberf~ißigem vn⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/01000a.gt.txt
+rath der m~ůter / treibt auß die an
+||||||||||+#|||||||||||||||||||||||
+rath der mu◌ͤter / treibt auß die an
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/01000b.gt.txt
+d◌̉ geburt vñ weiber menſes. Ein
+|-|||||||||||||||||||||||||||||
+d~ geburt vñ weiber menſes. Ein
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/01000c.gt.txt
+ſalb gemacht vonn diſer wurtzen
+|||||||||||||||||||||||||||||||
+ſalb gemacht vonn diſer wurtzen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/01000d.gt.txt
+zeitloſen vñ anagallide ze~ücht vß
+||||||||||||||||||||||||||+#||||||
+zeitloſen vñ anagallide zeůicht vß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/01000e.gt.txt
+ſpreiſſel / do◌ͤrn vñ~ geſchiferte bein.
+||#||||||||||-|#||||+||||||||||||||||||
+ſpteiſſel / d~◌ͤin vñi geſchiferte bein.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/01000f.gt.txt
+~Hiemitt beſchlies ich mein
++#|||||||||||||||||||||||||
+Odiemitt beſchlies ich mein
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010010.gt.txt
+rede diſer zeit von den zwelff zei⸗
+|||||||||||||||||||||||||||||||||||
+rede diſer zeit von den zwelff zei⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010011.gt.txt
+chen kreü~tteren / bega◌ͤren menck⸗
+|||||||||+||||||||||||||||||||||||
+chen kreüitteren / bega◌ͤren menck⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010012.gt.txt
+lich welle mirs im beſten aufn~em
+||||||||||||||||||||||||||||||+||
+lich welle mirs im beſten aufn em
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010013.gt.txt
+men als dañ ichs gethan / hab ſye
+|||||||||||||||||||||||||||||||#|
+men als dañ ichs gethan / hab ſpe
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010014.gt.txt
+weitleü~ffiger beſchribẽ wellen / ſo
+|||||||+||||||||||||-|||||||||||||||
+weitleüiffiger beſch~ibẽ wellen / ſo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010015.gt.txt
+ſind yetzi~ger k~ürtze viel vrſach~en /
+|||||-||||+|||||+#|||||||||||#||||+||||
+ſind ~etzi ger kiirtze viel vtſach en /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010016.gt.txt
+vorauß dieweil ich gro~ſſen k~oſt~en
+||||||||||||||||||||||+||||||+|||+||
+vorauß dieweil ich gro ſſen k oſt en
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010017.gt.txt
+angewendet in ſůch~ung der ~kre~ü
+|||||||||||||||#||+||||||||+#||+#
+angewendet in ſuch ung der r reii
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010018.gt.txt
+ter auß eignem willen vñ be~üt~tel /
+|||||||||||||||||||||||#|||+#|+|||||
+ter auß eignem willen vi beiit tel /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0036/010019.gt.txt
+~~nam⸗
+++###|
+edrnt⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010001.gt.txt
+Beſchreibung xlvi
+|||||#|||||||#|||
+Beſchneibung rlvi
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010002.gt.txt
+namlichen deren / ſo nicht alle tag
+|||||||||||||||||||||||||||||||||||
+namlichen deren / ſo nicht alle tag
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010003.gt.txt
+gefunden mo◌ͤgendt werden oder
+||||||||||#||||||||||||||||||
+gefunden m ◌ͤgendt werden oder
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010004.gt.txt
+yedem ſch~weinhirten kund ſind.
+|||||||||+|||||||||||||||||||||
+yedem ſch weinhirten kund ſind.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010005.gt.txt
+Aber mittler zeitt ſich grobe leüt
+||||||||||||||||||||||||||||||||#|
+Aber mittler zeitt ſich grobe leit
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010006.gt.txt
+bey mir verfu◌ͤget / mehr als ich
+||||||||||||||||||||||||||||||||
+bey mir verfu◌ͤget / mehr als ich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010007.gt.txt
+winſthe / meiner geh~eimnuß der
+||||||||||||||||||||+||||||||||
+winſthe / meiner geh eimnuß der
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010008.gt.txt
+kreü~ter rau~ſſer klaubet / Ja nach
+||||+|||||||+||||||||||||||||||||||
+kreüiter rau ſſer klaubet / Ja nach
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010009.gt.txt
+jrer gewonten ſchmeichleriſchen
+|||||||||||||||||||||||||||||||
+jrer gewonten ſchmeichleriſchen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/01000a.gt.txt
+art mit langſamer gleißneriſcher
+||||||||||||||||||||||||||||||||
+art mit langſamer gleißneriſcher
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/01000b.gt.txt
+rede ein weil mich beſůcht / zu letſt
+||||||||||||||||||||||#||||||||||||||
+rede ein weil mich beſucht / zu letſt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/01000c.gt.txt
+mit dem vntre~üwẽ ſchenckel (~wie
+|||||||||||||+#||||||||||||||+|||
+mit dem vntreiiwẽ ſchenckel ( wie
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/01000d.gt.txt
+das ſprich~wort iſt) dra◌ͤttẽ wellen.
+||||||#|||+||#|-||||||#||||-||||||||
+das ſptich woit~iſt) dta◌ͤtt~ wellen.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/01000e.gt.txt
+Daha◌ͤr ich nur mehr im zweifel ge
+||||||||||||||||||--|||||||||||||
+Daha◌ͤr ich nur meh~~im zweifel ge
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/01000f.gt.txt
+wa◌ͤſt was zeth~ůn were / vñ wo die
+||||||||||||||+#||||||||||||||||||
+wa◌ͤſt was zethu◌ͤn were / vñ wo die
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010010.gt.txt
+arbeit nicht gereit angangẽ / deß
+||||||||||#||||||||||||||||||||||
+arbeit nicbt gereit angangẽ / deß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010011.gt.txt
+gleichen from~mer ehren leütẽ an
+|||||||||||||+|||||##|||||||#|||
+gleichen from mer ebten leüte an
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010012.gt.txt
+manen denen diß zeſchriben zůge
+|||||||||||||||||||||-||||||#||
+manen denen diß zeſch~iben zuge
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010013.gt.txt
+ſagt gewa◌ͤſt / hette ichs vn~derge⸗
+||||||||||||||||||||||||||||+||||||
+ſagt gewa◌ͤſt / hette ichs vn derge⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010014.gt.txt
+ſchlagen. Derhalben fr~üntlicher
+||||||||||||||||||||||+#||||||||
+ſchlagen. Derhalben friintlicher
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010015.gt.txt
+la◌ͤſer laß dich auff diß m~al vernu◌ͤ⸗
+||||||||||||||#|||||||||||+||||||||||
+la◌ͤſer laß dicb auff diß m al vernu◌ͤ⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010016.gt.txt
+gen / vñ~ was du guthertzig fr~ünt⸗
+||||||||+|||||||||||||||||||||+#|||
+gen / vñi was du guthertzig friint⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010017.gt.txt
+lich / welches vn~ns chriſt~en durch
+|||||||||||||||||+|||||-|||+||||||||
+lich / welches vn ns ch~iſtten durch
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010018.gt.txt
+einan~dern z~ůſthet beſſeren kanſt /
+|||||+||||||+#||||||||||||||||||||||
+einan dern zu◌ͤſthet beſſeren kanſt /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0037/010019.gt.txt
+E ij daß
+--|-||||
+~~i~ daß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010001.gt.txt
+Kreü~ter
+||||+|||
+Kreüiter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010002.gt.txt
+dz beſſere / deß vberig vrteile nicht
+|||||||||||||||||||||||||#|||||-||||#
+dz beſſere / deß vberig vnteile~niche
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010003.gt.txt
+auß neid / laß in ſeiner würde blei⸗
+||||||||||-|||||||||||||||#|||||||||
+auß neid /~laß in ſeiner wůrde blei⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010004.gt.txt
+ben / ſthet fr~üntlich mir v~mb dich
+||||||||||||||+#||||||||||||+|||||||
+ben / ſthet friintlich mir v mb dich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010005.gt.txt
+zebeſchulden / vnd ſchier kü~nfftig
+||||||||||||||||||||||||||||+||||||
+zebeſchulden / vnd ſchier küinfftig
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010006.gt.txt
+etwas weiters zeo◌ͤffnen.
+||||||||||||||||-|||||||
+etwas weiters ze~◌ͤffnen.
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010007.gt.txt
+Sich g~ünſtiger lieber la◌ͤſer / im
+||||||+#|||||||||||||||||||||||-||
+Sich giinſtiger lieber la◌ͤſer /~im
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010008.gt.txt
+punctẽ als diſes bu◌ͤch~lein vollen⸗
+||||||||||||||||||#|||+||||||||||||
+punctẽ als diſes bů◌ͤch lein vollen⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010009.gt.txt
+det / kompt ein fleiſſiger wurtzen⸗
+|||||||||||||||||#|||||||||||||||||
+det / kompt ein fteiſſiger wurtzen⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/01000a.gt.txt
+graber / bringt mir v~õ bergen ein
+||||||||||#||||||||||+#|||||||||||
+graber / btingt mir voo bergen ein
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/01000b.gt.txt
+ſcho◌ͤns hibſchs gewa◌ͤchs / ein feins
+|||--|||||||||||||||||||||||||||||||
+ſch~~ns hibſchs gewa◌ͤchs / ein feins
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/01000c.gt.txt
+ſchottechti~gs ſteüdlein mitt tun⸗
+|||||||||||+||||||#||||||||||||||#
+ſchottechti gs ſteidlein mitt tuno
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/01000d.gt.txt
+ckelgru◌ͤnen hip~ſchen ſpitzen blett⸗
+||||||||||||#||+||#|||||||||||||||||
+ckelgru◌ͤnen bip ſcben ſpitzen blett⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/01000e.gt.txt
+leinen gar nach an~zu~ſchaen~ als
+||||||||||||||||||+||+||||||+||||
+leinen gar nach an zunſchaenr als
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/01000f.gt.txt
+Hyſſop / ſein ſtẽgel iſt etwz braun /
+##||||||||||||||-|||-||||||||||#|||||
+dpſſop / ſein ſt~gel~iſt etwz btaun /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010010.gt.txt
+tregt zwiſchen den blettlin hi~m◌̃el
+||||||||||||||||||||||||||||||+##||
+tregt zwiſchen den blettlin hiññiel
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010011.gt.txt
+blae blu◌ͤm~lin / vñ in yetlichẽ ſtrich
+||||||||||+||||||||#|||#||||||-|||||||
+blae blu◌ͤm lin / vñiin zetlich~ ſtrich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010012.gt.txt
+lin wie ſternli / hats in mitte ſcho◌ͤn~
+||||||||||||||||--||||||||||||||||||||+
+lin wie ſternli ~~hats in mitte ſcho◌ͤnn
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010013.gt.txt
+goldtgelb w~ürtzelein. Wolt gar
+|||||||||||+#||||||||||||||||||
+goldtgelb wiirtzelein. Wolt gar
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010014.gt.txt
+gern wiſſen / wie es ein verſtendi⸗
+|||||||||||||||||||||||||||||||||||
+gern wiſſen / wie es ein verſtendi⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010015.gt.txt
+ger nam~b~ſen da◌ͤtt / d~ann darauß
+|||||||+|+|||||||||||||+||||||||||
+ger nam b ſen da◌ͤtt / d ann darauß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010016.gt.txt
+vielich~ter ſein frucht volgete. Es
+|||||||+|||||||||||||||||||||||||||
+vielich ter ſein frucht volgete. Es
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010017.gt.txt
+hats etwar d~och nicht vß der zaal
+||||||||||||+|||||||||||||||||||||
+hats etwar d och nicht vß der zaal
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010018.gt.txt
+der gar h~och~gelerten / wiewol er
+|||||||||+|||+||||||||||||||||||||
+der gar h och gelerten / wiewol er
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0038/010019.gt.txt
+ſich
+|||-
+ſic~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010001.gt.txt
+Beſchreibung. xlvij
+|||||#||||||||#|||-
+Beſchieibung. rlvi~
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010002.gt.txt
+ſich der ſelbigẽ einer berett zů ſein
+|||||||||||||||||||||||||||||||#|||||
+ſich der ſelbigẽ einer berett zi ſein
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010003.gt.txt
+vrſach / dz er Theologiſchẽ ſtands
+|#||||||-||||||#||||||||||-#|||||#
+viſach /~dz er Cheologiſch~◌ͤſtanda
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010004.gt.txt
+iſt / geſehen diſer gibt ſein vrtheil
+||||||||||#||||||||||||||||||||#|||||
+iſt / geſeben diſer gibt ſein vitheil
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010005.gt.txt
+vñ~es ſey das recht Aſterion / oder
+||+||||||||||||||||||||||||||||||||
+vñ es ſey das recht Aſterion / oder
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010006.gt.txt
+Solſequiũ / oder die Lunaria ſo
+||||||||#||||||||||||-|||||||||
+Solſequiß / oder die ~unaria ſo
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010007.gt.txt
+doctor Ad~am ſ~ůchen laſſen / wel⸗
+|||||#|||+||||+#||||||||||||||||||
+docton Ad am ſu◌ͤchen laſſen / wel⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010008.gt.txt
+le ſey auch wiſſen z~ůr Alchimey ze
+||||||||||||||||||||+#|||||||||||||
+le ſey auch wiſſen zu◌ͤr Alchimey ze
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010009.gt.txt
+brauchen / Aber als er nicht z~ů vil
+|#||||||||||||||||||||||||||||+#||||
+btauchen / Aber als er nicht zu◌ͤ vil
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/01000a.gt.txt
+hohe ding ergrindet hatt / darff
+||||||||||||||||||||||||||||||||
+hohe ding ergrindet hatt / darff
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/01000b.gt.txt
+ich jm hierinn nicht glauben ge⸗
+|||||||||||||||||||||||||||||||#
+ich jm hierinn nicht glauben gee
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/01000c.gt.txt
+ben. Was ſonſt m~ein perſon bela⸗
+||||||||||||||||+||||||||||||||||
+ben. Was ſonſt m ein perſon bela⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/01000d.gt.txt
+det / der Lunariæ halben / do th~ůt
+|||-#|||||#||||-#|||||||||-|||||+#|
+det~, der Cunar~t halben /~do thu◌ͤt
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/01000e.gt.txt
+er mir gwalt / dz ich ſye ye ein mal
+||||||||||||||-||||||||#||||||||||||
+er mir gwalt /~dz ich ſpe ye ein mal
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/01000f.gt.txt
+ſ~ůchen laſſen. Gebendt dann an⸗
+|+#||||||||||||-#|||||||||||||||
+ſu◌ͤchen laſſen.~Bebendt dann an⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010010.gt.txt
+der le~üt ohne meine beſtetigung
+||||||+#||||||||||||||||||||||||
+der leiit ohne meine beſtetigung
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010011.gt.txt
+von kre~~ütern nam~m~en oder wür
+|||||||++#||||||||+|+|||||||||||
+von kreii tern nam m en oder wür
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010012.gt.txt
+ckun~ge vß / das laſſe ich ſye verant
+||||+|||||||||||||||||||||||#||||||||
+ckun ge vß / das laſſe ich ſpe verant
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010013.gt.txt
+worten / diew~eil ich keinen befelch
+||#||||||||||+||||||||||||||||||||||
+wonten / diew eil ich keinen befelch
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010014.gt.txt
+hab yemãts rech~tzefertigẽ. Was
+||||-||#|||||||+|||||||||-|||||
+hab ~em◌ͤts rech tzefertig~. Was
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010015.gt.txt
+ich von kreütern halt in mach~ũg
+|||||||||||||||||||||||||||||+#|
+ich von kreütern halt in machfig
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010016.gt.txt
+der metallen / haſt geho◌ͤret do ich
+|||||||||||||||||||||||#|#|||||||||
+der metallen / haſt geh ◌ͤtet do ich
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010017.gt.txt
+von Anagallide geredt. Luna⸗
+#||||||||||||||||||||||#||||
+won Anagallide geredt. Cuna⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010018.gt.txt
+riae mitt einem eintzigen ſten~gel
+||-|||||||||||||||||||||||||||+|||
+ri~e mitt einem eintzigen ſten gel
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0039/010019.gt.txt
+G iij vnd
+--||-||||
+~~ii~ vnd
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010001.gt.txt
+Kreüter
+|||||||
+Kreüter
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010002.gt.txt
+vñ zerkerfften blatt / welches wur
+||||||||||||||||||||||||||||||||||
+vñ zerkerfften blatt / welches wur
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010003.gt.txt
+tzel zaſerecht vnnd oben am ſten⸗
+|||||||||||||||||||||||||||||||||
+tzel zaſerecht vnnd oben am ſten⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010004.gt.txt
+gel kleinen ſamen tregt / von der
+|||||||||||||||||||||||||||||||||
+gel kleinen ſamen tregt / von der
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010005.gt.txt
+geſagt wirdt / ſolle den Alchimi⸗
+|||||||||||||||||||||||||||||||||
+geſagt wirdt / ſolle den Alchimi⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010006.gt.txt
+ſten dienen / hab ich vor xvj jaren
+||||||||||||||||||||||||#|#|#||||||
+ſten dienen / hab ich vot zvſ jaren
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010007.gt.txt
+gewiſt gn~ůgſam auff der waſſer⸗
+|||||||||+#|||||||||||||||||||||
+gewiſt gnu◌ͤgſam auff der waſſer⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010008.gt.txt
+fallen zefinden. Das ander Lu⸗
+||||||||||||||||-||||||||||#||
+fallen zefinden.~Das ander Cu⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010009.gt.txt
+nariam~ ſo ettwan ach~t~vnd~zwen⸗
+|||#||+||||||||||||||+|+|||+|||||
+nartamn ſo ettwan ach t vnd zwen⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/01000a.gt.txt
+tzig bletter hat / wiſt ich im m~ooß
+||||||||||||||||||||||||||||||||+|||
+tzig bletter hat / wiſt ich im m ooß
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/01000b.gt.txt
+bey ~Michelfeld~en vmb Baſel ze⸗
+||#|+#|||||||||+||||||||||||||||
+bep eDichelfeld en vmb Baſel ze⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/01000c.gt.txt
+bekommen: Vn~d hab meine tag
+||||||||#|||+|||||||||||||||
+bekommen; Vnnd hab meine tag
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/01000d.gt.txt
+nie kein kraut will geſchweigen
+|||||||||||||||||||||||||||||||
+nie kein kraut will geſchweigen
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/01000e.gt.txt
+Lunariam geſůcht / das ich nur
+#|||||||||||#|||||||||||||||||
+Cunariam geſucht / das ich nur
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/01000f.gt.txt
+verwa◌ͤndt viel minder gehoffet /
+||||||||||||||||||||||||||||||||
+verwa◌ͤndt viel minder gehoffet /
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010010.gt.txt
+mann mo◌ͤchte einigerley metall
+||||||||||||||||||||||#|||||||
+mann mo◌ͤchte einigerlez metall
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010011.gt.txt
+dardurch machen / darumb ſtehe
+||||||||||||||||||||||||||||||
+dardurch machen / darumb ſtehe
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010012.gt.txt
+diſer ab von ſeiner hitz m~ir bo◌ͤſes
+||||||||||||||||||||#|||||+||||-||||
+diſer ab von ſeiner bitz m ir b~◌ͤſes
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010013.gt.txt
+vmb gůtes zethůn derhalben be⸗
+|||||#||||||||#|||||||||||||||
+vmb gutes zethun derhalben be⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010014.gt.txt
+weget / dz ich ſeiner gemeinſchafft
+|||||||-||||||||||||||||||||||||||#
+weget /~dz ich ſeiner gemeinſchaffr
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010015.gt.txt
+m~ich nimm~~er vnder nem~⸗
+|+||||||||++||||||||||||+|
+mzich nimmn er vnder nemz⸗
+
+data/adaptive/1557-WieSichMeniglich-Bodenstein/0040/010016.gt.txt
+men will.
+|||||||||
+men will.
+

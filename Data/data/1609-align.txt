@@ -1,0 +1,3385 @@
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/010001.gt.txt
+Von dem erſten grad deß
+||||||||-||||||||||||||
+Von dem ~rſten grad deß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/010002.gt.txt
+Zwillings.
+||||||||||
+Zwillings.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/010003.gt.txt
+Jſer grad geho◌ͤret vnder das An⸗
+||||||||||||||||||||||||||||||||
+Jſer grad geho◌ͤret vnder das An⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/010004.gt.txt
+tipatiſche Zeichen deß Zwillings /
+||||||||||||||||||||||||||||||||||
+tipatiſche Zeichen deß Zwillings /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/010005.gt.txt
+vnnd iſt hierinn z~umer~ken / das allemal
+||||||||||||||||||+||||+|||||||||||||||||
+vnnd iſt hierinn zzumercken / das allemal
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/010006.gt.txt
+das dritt vnd letzte Zeichen in einer jeden
+|||||||||||||||||-|||||||||||||||||||||||||
+das dritt vnd let~te Zeichen in einer jeden
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/010007.gt.txt
+Triplicitet einen außgang hat / der jeni⸗
+||||||#||||||||||||#|||||||||||||||||||||
+Triplieitet einen anßgang hat / der jeni⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/010008.gt.txt
+gen Kra◌ͤuter / ſo von dem geiſt Jovis kocht
+||||||||||||||||||||||||||||||||||||||||||#
+gen Kra◌ͤuter / ſo von dem geiſt Jovis koche
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/010009.gt.txt
+vnd gezeittiget werden. Dann die ding
+|||||||||||||||||||||||||||||||||||||
+vnd gezeittiget werden. Dann die ding
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/01000a.gt.txt
+die vnder der Wagen ſeind angeno~m◌̃en
+||||||||||||||||||||||||||||||||+##||
+die vnder der Wagen ſeind angenofſien
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/01000b.gt.txt
+worden / vnd vnder dem Waſſerman vol⸗
+|||||||||||||||||||||||||||||||||||||
+worden / vnd vnder dem Waſſerman vol⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/01000c.gt.txt
+kommen / die nemmen im außgang der
+||||||||||||||||||||||||#|||||||||
+kommen / die nemmen im adßgang der
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/01000d.gt.txt
+Zwilling abe / Dann dieſe ding ſeind alle
+||||||||||||-||||||||||||||||||||||||||||
+Zwilling abe~/ Dann dieſe ding ſeind alle
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/01000e.gt.txt
+feucht vnd warm mit der Subſtantz vnd
+|||||||||||||||||||||||||||||||||||||
+feucht vnd warm mit der Subſtantz vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/01000f.gt.txt
+qualitet / aber ſo bald ſie zu den drey Zei⸗
+||||||||||||||||||||||||||||||||||||||||||||
+qualitet / aber ſo bald ſie zu den drey Zei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/010010.gt.txt
+chen kommen / ſo retrogradiert ſich der
+|||||||||||||||||||||||||||||||||||||||
+chen kommen / ſo retrogradiert ſich der
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/010011.gt.txt
+Wag geiſt / vnd verla◌ͤßt ſeine Simplicia
+|||||||||||||||||||||||||||||||||||||||-
+Wag geiſt / vnd verla◌ͤßt ſeine Simplici~
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/010012.gt.txt
+gemechlich hin / hat ein ſubtiles aufflo◌ͤ⸗
+||||||||||||||||||||||||||||||||||||||##||
+gemechlich hin / hat ein ſubtiles auffis◌ͤ⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0001/010013.gt.txt
+ſendes durchtringendes Weinſteiniſch
+||||||||||||||||||||||||||||||||||||
+ſendes durchtringendes Weinſteiniſch
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010001.gt.txt
+Saltz in ſich / welches gemechlich auff⸗
+||||||||||||||||||||||||||||||||||||||||
+Saltz in ſich / welches gemechlich auff⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010002.gt.txt
+lo◌ͤßt / durchtringt / laxiert / zeitigt alle ſcha◌ͤ⸗
+||-|||||||||||||||||||||#||||||||||||||||||||||||||
+lo~ßt / durchtringt / lariert / zeitigt alle ſcha◌ͤ⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010003.gt.txt
+den ſo vnder dem Zwilling / Wag vnnd
+||||||||||||||||||||||||||||||||||||
+den ſo vnder dem Zwilling / Wag vnnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010004.gt.txt
+Waſſerm~ã ſein rc. Auch ſolche Simplicia
+|||||||+#||||||#||-||||||||||||-||||||||
+Waſſerma◌ͤ ſein nc.~Auch ſolche ~implicia
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010005.gt.txt
+purgieren dieſelbige ſcha◌ͤden / dann ſie ha⸗
+||||||||||||||||||||||||||||||||||||||||||||
+purgieren dieſelbige ſcha◌ͤden / dann ſie ha⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010006.gt.txt
+ben ein Weinſteiniſch ſchwebeliſch Saltz /
+|||||||||||||||||||||||||||||||||||||||-||
+ben ein Weinſteiniſch ſchwebeliſch Salt~ /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010007.gt.txt
+welches vnder ſich tringt / vmb ſeiner ma⸗
+||||||||||||||||||||||||||||||||||||||||||
+welches vnder ſich tringt / vmb ſeiner ma⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010008.gt.txt
+terien willen / Dann ein jede materia /
+|#|||||||||||||||||||||||||||||||||||||
+trrien willen / Dann ein jede materia /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010009.gt.txt
+welcher jhr Geiſt entgehet / ſie ſey ſo ſubtil
+|||||||-||||||||||||||||||||-|||||||||||||||||
+welcher~jhr Geiſt entgehet /~ſie ſey ſo ſubtil
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/01000a.gt.txt
+als ſie wo◌ͤlle / ſo tringet ſie vnderſich /
+|||||||||||||||||||||||||||||||||||||||||||
+als ſie wo◌ͤlle / ſo tringet ſie vnderſich /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/01000b.gt.txt
+Darumb muß man zuſatz geben auß ſei⸗
+||||||||||||||||||||||||||||||||||||
+Darumb muß man zuſatz geben auß ſei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/01000c.gt.txt
+nes eigenen Geiſts grad auß dem erſten /
+||||||||||||||||||||||||||||||||||||||||
+nes eigenen Geiſts grad auß dem erſten /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/01000d.gt.txt
+den andern auß dem andern / den dritten
+|||||||||||||||#|||||||||||||||||||||||
+den andern auß bem andern / den dritten
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/01000e.gt.txt
+a~uß dem dritten / den vierdten au~ß dem
+|+||||||||||||||||||||||||||||||||+|||||
+a◌ͤuß dem dritten / den vierdten auiß dem
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/01000f.gt.txt
+vierdten. Alſo wird ſein Geiſt wider voll⸗
+|||||||||-|||||||||-||||||||||||||||||||||
+vierdten.~Alſo wird~ſein Geiſt wider voll⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010010.gt.txt
+kommen / vnd lebt widerumb in ſeiner ei⸗
+||||||||||||||||||||||||||||||||||||||||
+kommen / vnd lebt widerumb in ſeiner ei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010011.gt.txt
+genſchafft. Vnd dieſe Kra◌ͤuter m~ag man
+||||||||||||||||||||||||||||||||+||-|||
+genſchafft. Vnd dieſe Kra◌ͤuter mzag~man
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010012.gt.txt
+brauchen euſſerlich zum ſchaden / vnd in⸗
+|||||||||||||||||||||||||||||||||||||||||
+brauchen euſſerlich zum ſchaden / vnd in⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010013.gt.txt
+nerlich zum tranck. Als wann ich z~u ei⸗
+||||||||||||||||||||||||||||||||||+#||||
+nerlich zum tranck. Als wann ich zit ei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010014.gt.txt
+nem ſchaden nehme Borr~ágen kraut vnd
+||||||||||||||||||||||+#|||||||||||||
+nem ſchaden nehme Borraagen kraut vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010015.gt.txt
+blumen / ſo nehme ich darzu gleich ſo viel
+||||||||||||||||||||||||||||||||||||||||||
+blumen / ſo nehme ich darzu gleich ſo viel
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010016.gt.txt
+Reinblumen kraut / auß dem erſten grad
+||||||||||||||||||||||||||||||||||||||
+Reinblumen kraut / auß dem erſten grad
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010017.gt.txt
+der Wage / beyderley anderthalb hand⸗
+|||||||||||||||||||||||||||||||||||||
+der Wage / beyderley anderthalb hand⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0002/010018.gt.txt
+voll / Mehrlinſen / vnd abgeſchmeckter
+|||||||||||||||||||||||||||||#||||||||
+voll / Mehrlinſen / vnd abgeſehmeckter
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010001.gt.txt
+Hu◌ͤnerfu◌ͤß / beyder ein handvol / Waſſer⸗
+|#|||||||||||||||||||||||||||||||||||||||
+Ha◌ͤnerfu◌ͤß / beyder ein handvol / Waſſer⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010002.gt.txt
+wegerich / Rettichkra~ut / oder gelb Eiſen⸗
+|||#|||||||||||||||||+#||||||||||||||||||||
+wegcrich / Rettichkraiit / oder gelb Eiſen⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010003.gt.txt
+kraut / beyderley ein gu~te halbe handvoll.
+||||||||||||||||||||||||+||||||||||||||||||
+kraut / beyderley ein gu◌ͤte halbe handvoll.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010004.gt.txt
+Also werden die Waſſer vnd Wein jedes
+||####|||||||||||||||#|||||||||||||||
+Alſsiverden die Waſſei vnd Wein jedes
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010005.gt.txt
+zugleich 3. kandeln / laß es gar wol ſieden /
+||||||||-|||||||||||||||||||||||||||-||||||||
+zugleich~3. kandeln / laß es gar wol~ſieden /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010006.gt.txt
+waſch den Schaden darauß / darnach die
+||||||||||||||||||||||||||||||||||||||
+waſch den Schaden darauß / darnach die
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010007.gt.txt
+Kra◌ͤuter lawlicht vnd ſafftig in den ſcha⸗
+||||||||||||||||||||||||||||||||||||||||||
+Kra◌ͤuter lawlicht vnd ſafftig in den ſcha⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010008.gt.txt
+den geſchlagen / vnd mit warmen tu◌ͤchern
+||-#||||||||||||||||||||||||||||||||||||
+de~rgeſchlagen / vnd mit warmen tu◌ͤchern
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010009.gt.txt
+darumb gebunden / das deß Tags zwey
+|||||||||||||||||||||||||||||||||||
+darumb gebunden / das deß Tags zwey
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/01000a.gt.txt
+oder drey mal. Diß ſeind wunderbarliche
+||||||||||||||||||||||||-||||||||||||||
+oder drey mal. Diß ſeind~wunderbarliche
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/01000b.gt.txt
+gewaltige groſſe weichunge / zeitigung /
+||||||||||||||||||||||||||||||||||||#|||
+gewaltige groſſe weichunge / zeitiguug /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/01000c.gt.txt
+reinigu~ng / purgierende / heilende ding.
+|||||||+#||||||||||||||||||||||||||||||||
+reiniguhig / purgierende / heilende ding.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/01000d.gt.txt
+Aber man muß dieſe ding alle colligieren
+|||||||||||||||||||||||||||||#|||||||#||
+Aber man muß dieſe ding alle eolligienen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/01000e.gt.txt
+im letzten viertel deß Monds im Mayen.
+|#||||||||||||||||||||||||||||||||||||
+in letzten viertel deß Monds im Mayen.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/01000f.gt.txt
+Auch geho◌ͤren hieher Ochſenzungen /
+|||||||||||||||||||||||||||||||||||
+Auch geho◌ͤren hieher Ochſenzungen /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010010.gt.txt
+Borragen / Eybiſch / junge Pappeln /
+##||||||||||||||||||||||||||||||||||
+Svrragen / Eybiſch / junge Pappeln /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010011.gt.txt
+Birkenſchwam / ſchwartz Schnecken /
+||#||||||||||||||||||||||||||||||||
+Bickenſchwam / ſchwartz Schnecken /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010012.gt.txt
+Stieffmu◌ͤtterleinkraut blumen / Sig⸗
+||||||||||||||||||||||||||||||||||||
+Stieffmu◌ͤtterleinkraut blumen / Sig⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010013.gt.txt
+marskraut vnd Wurtz / Peterſilgen / Ei⸗
+|||||||||||||||||||||||||||||||||||||||
+marskraut vnd Wurtz / Peterſilgen / Ei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010014.gt.txt
+biſchſamen / vnd der gar viel. Vnd werden
+|||||||||||||||||||||||||||||-|||||||||||
+biſchſamen / vnd der gar viel~ Vnd werden
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010015.gt.txt
+allein hieher geſetzet / das jhr Schweffel
+||||||||||||||||||||||||||||||||||||||||||
+allein hieher geſetzet / das jhr Schweffel
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010016.gt.txt
+vnd Saltz zum aller ſchwechſten iſt vnder
+|||||||||||||||||||||||||||||||||||||||||
+vnd Saltz zum aller ſchwechſten iſt vnder
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010017.gt.txt
+den Zwillings Kindern / Dann jhr Saltz
+||||||||||||||||||||||||||||||||||||||
+den Zwillings Kindern / Dann jhr Saltz
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0003/010018.gt.txt
+iſt gar ſchwach / vñ der Schweffel hat kei⸗
+|||-|||-|||||||||||#|||||||||||||||||||||||
+iſt~gar~ſchwach / vn der Schweffel hat kei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010001.gt.txt
+nen Geiſt / darumb jhnen der geſchmack
+||||||||||||||||||||||||||||||||||||||
+nen Geiſt / darumb jhnen der geſchmack
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010002.gt.txt
+genommen wird. Darumb zu den Tra◌ͤn⸗
+||||||||||||||-||||||||||||||||||||
+genommen wird.~Darumb zu den Tra◌ͤn⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010003.gt.txt
+cken muß man jhnen alſo helffen / das
+|||||||||||||||||||||||||||||||||||||
+cken muß man jhnen alſo helffen / das
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010004.gt.txt
+m~an jhnen zuſa◌ͤtz auß dem dritten vñ vier⸗
+|+|||||||||||||||-|||||||||||||||||||||||||
+mnan jhnen zuſa◌ͤt~ auß dem dritten vñ vier⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010005.gt.txt
+ten grad deß Krebs vnd Schu◌ͤtzens / ſonſt
+|||||||||||||||||||||||||||||||||||||||||
+ten grad deß Krebs vnd Schu◌ͤtzens / ſonſt
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010006.gt.txt
+haben ſie kleine krafft. Seind zum aller⸗
+||||||||||||||||-||||||||||||||||||||||||
+haben ſie kleine~krafft. Seind zum aller⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010007.gt.txt
+beſten euſſerlich auff die Scha◌ͤden / allein
+||||||||||||||||||||||||||||||||||||||||||||
+beſten euſſerlich auff die Scha◌ͤden / allein
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010008.gt.txt
+zur weichung / linderung / zeitigung / vnd
+||||||||||||||||||||||||||||||||||||||||||
+zur weichung / linderung / zeitigung / vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010009.gt.txt
+aufflo◌ͤſung / purgieren ſonſt wenig / vnd
+|||||||||||||||||||||||||||||||||||||||||
+aufflo◌ͤſung / purgieren ſonſt wenig / vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/01000a.gt.txt
+zuſolchen dingen mag man auß dem er⸗
+||||||||||||||||||||||||||#|||||||||
+zuſolchen dingen mag man anß dem er⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/01000b.gt.txt
+ſten grad deß Viſches vnd Lo◌ͤwens einen
+|||||||||||||||||||||||||||||||||||||||
+ſten grad deß Viſches vnd Lo◌ͤwens einen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/01000c.gt.txt
+zuſatz geben / wie das in der Figur gewe⸗
+|||||-|||||||||||||||||||||||||||||||||||
+zuſat~ geben / wie das in der Figur gewe⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/01000d.gt.txt
+ſen iſt / Vnd iſt nichts ho◌ͤhers zu den din⸗
+|||||||-||||||||||||||||||||||||||||||||||||
+ſen iſt~/ Vnd iſt nichts ho◌ͤhers zu den din⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/01000e.gt.txt
+gen / als wann man nimpt neun theil auß
+|||||||||||||||||||||||||||||||||||-|||
+gen / als wann man nimpt neun theil~auß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/01000f.gt.txt
+dem erſten grad deß Zwillings / ſechs theil
+|||||||||||||||||||||||||||||||||||||||||||
+dem erſten grad deß Zwillings / ſechs theil
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010010.gt.txt
+auß dem erſten grad deß Viſches / vnnd
+||||||||||||||||||||||||||||||||||||||
+auß dem erſten grad deß Viſches / vnnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010011.gt.txt
+drey theil auß dem erſten grad deß Schu◌ͤ⸗
+|||||||||||||||||||||||||||||||||||||||||
+drey theil auß dem erſten grad deß Schu◌ͤ⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010012.gt.txt
+tzens / fu◌ͤr den erſten deß Lo◌ͤwens.
+|||||||-||||||||||||||||||||||||||||
+tzens /~fu◌ͤr den erſten deß Lo◌ͤwens.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010013.gt.txt
+Dieſe Kra◌ͤuter taugen ſonſt wenig in
+||||||||||||||||||||||||||||||||||||
+Dieſe Kra◌ͤuter taugen ſonſt wenig in
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010014.gt.txt
+Leib / vnd werden fa◌ͤlſchlich betrogen / die
+-|||||||||||||||||||||||||||||||||||||||||||
+~eib / vnd werden fa◌ͤlſchlich betrogen / die
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010015.gt.txt
+ſolche Waſſer zur ſterckung geben in Leib /
+|||||||||||||||||-|||||||||||||||||||#|||||
+ſolche Waſſer zur~ſterckung geben in Ceib /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010016.gt.txt
+Vnd dieſe Kra◌ͤuter ſeind nicht hinein zu⸗
+|||||||||||||||||||||||||||||||||||||||||
+Vnd dieſe Kra◌ͤuter ſeind nicht hinein zu⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0004/010017.gt.txt
+gebrauchen / vnd geben den hohen zuſatz
+|||||||||||||||||||||||||||||||||||||||
+gebrauchen / vnd geben den hohen zuſatz
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010001.gt.txt
+auß dem Geiſt deß Krebs vnd Schu◌ͤtzen /
+|||||||||||||||||||||||||||||#||||-||||
+auß dem Geiſt deß Krebs vnd Sehu◌ͤt~en /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010002.gt.txt
+auß dem dritten vnd vierdten Grad zu /
+||||||||||||||||||||||||||||||||||||||
+auß dem dritten vnd vierdten Grad zu /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010003.gt.txt
+allein zur lo◌ͤſchung mo◌ͤgen ſie etwas thun /
+||||||||||||||||||||||||||||||||||||||||||||
+allein zur lo◌ͤſchung mo◌ͤgen ſie etwas thun /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010004.gt.txt
+dann ſie ziehen vnderſich.
+|||||||||||||||||||||#||||
+dann ſie ziehen vnderfich.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010005.gt.txt
+Von dem andern grad deß
+|||||||||||||||||||||||
+Von dem andern grad deß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010006.gt.txt
+Zwillings.
+||||||||||
+Zwillings.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010007.gt.txt
+Je Kra◌ͤuter ſo vnder dieſem grad
+||||||||||||||||||||||||||||||||
+Je Kra◌ͤuter ſo vnder dieſem grad
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010008.gt.txt
+ſein / haben die Materi mehr / dañ
+|||||||||||||||||||||||-|||||||||#
+ſein / haben die Materi~mehr / dai
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010009.gt.txt
+die im erſten grad / Aber ſie ſeind windig
+|||-|||||||||||||||||||||||||-||||||||||||
+die~im erſten grad / Aber ſie~ſeind windig
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/01000a.gt.txt
+vnd Bla◌ͤſtig in ſich ſelbs / darumb ſie die
+|||||||||||||||||||||||||||||||||||||||||||
+vnd Bla◌ͤſtig in ſich ſelbs / darumb ſie die
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/01000b.gt.txt
+N~atur lieber annimbt / vnnd geben auch
+|+|||||||||||||||||||||||||||||||||||||
+NNatur lieber annimbt / vnnd geben auch
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/01000c.gt.txt
+gro◌ͤſſer lo◌ͤſchung vberſich / vnd vberzwerch
+||||||||||||||||||||||||||||||||||||||||||||
+gro◌ͤſſer lo◌ͤſchung vberſich / vnd vberzwerch
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/01000d.gt.txt
+vmb ſich her / vnd in die glider / vnd dieſen
+|||||||||||||||||||||||||||||||||||||||||||||
+vmb ſich her / vnd in die glider / vnd dieſen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/01000e.gt.txt
+Geiſt verlaſſen ſie gar bald in den Men⸗
+||||||||||||||||||||||||||||||||||||||||
+Geiſt verlaſſen ſie gar bald in den Men⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/01000f.gt.txt
+ſchen / Dann ſein Tinctur Geiſt vnd Fi⸗
+|||||||||||||||||||||#|||||||||||||||||
+ſchen / Dann ſein Tinetur Geiſt vnd Fi⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010010.gt.txt
+xer oder beſta◌ͤndiger Geiſt iſt in jhm ent⸗
+#||||||||||||||||||||||||||||||||||||||||||
+rer oder beſta◌ͤndiger Geiſt iſt in jhm ent⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010011.gt.txt
+gangen / darumb es die Geiſter in einem
+|||||||||||||||||||||||||||||||||||||||
+gangen / darumb es die Geiſter in einem
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010012.gt.txt
+Menſchen / welche falſch ſein / vnd dem
+|||||||||||||||||||||||||||||||||||||||
+Menſchen / welche falſch ſein / vnd dem
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010013.gt.txt
+Menſchen ohnmacht geben vnd machen /
+||||||||||||||||||||||||||||||||||||
+Menſchen ohnmacht geben vnd machen /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010014.gt.txt
+ziehet dieſe Materia an ſich / welchen fal⸗
+|||||||||||||||||||||||||||||||||||||||||||
+ziehet dieſe Materia an ſich / welchen fal⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010015.gt.txt
+ſchen Geiſt oder Lufft diſe Materia endert
+|||||||||||||||||#||||||||||||||||||||||||
+ſchen Geiſt oder lufft diſe Materia endert
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0005/010016.gt.txt
+vñ hinweg nim◌̃t / mit ſich vnderſich zeucht
+||||||||||||##|||||||-|||||||||||||||||||||
+vñ hinweg nifft / mit~ſich vnderſich zeucht
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010001.gt.txt
+damit ſta◌ͤrcket er die Natur / darumb kan
+|||||||||||||||||||||||||||||||||||||||||
+damit ſta◌ͤrcket er die Natur / darumb kan
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010002.gt.txt
+man jhm treffentlich wol helffen / ſo man
+||||||||||||||||||||||||||||||||||-||||||
+man jhm treffentlich wol helffen /~ſo man
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010003.gt.txt
+jhm zuſatz gibt auß dem andern grad der
+|||||||||-|||||||||||||||||||||||||||||
+jhm zuſat~ gibt auß dem andern grad der
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010004.gt.txt
+Geiſtlichen Zeichen / Als auß dem Zwil⸗
+||||||||||||||||||||||||||||||||#||#|||
+Geiſtlichen Zeichen / Als auß den Ziil⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010005.gt.txt
+ling ein Kraut genom◌̃en in dieſem grad /
+||||||||||||||||||||#|||||||||||||||||||
+ling ein Kraut genomien in dieſem grad /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010006.gt.txt
+als da iſt / Engelfu◌ͤß 3. theil / auß dem an⸗
+|||||||||||||||||||||||#|-|||||||||||||||||||
+als da iſt / Engelfu◌ͤß z.~theil / auß dem an⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010007.gt.txt
+dern grad deß Krebs zwey theil / als Ha⸗
+||||||||||||||||||||||||||||||||||||||||
+dern grad deß Krebs zwey theil / als Ha⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010008.gt.txt
+gendornblu◌ͤet / Alpenblu◌ͤet / Apffelbaum⸗
+|||||||||||||||||#|||||||||||||||||||||||
+gendornblu◌ͤet / Aſpenblu◌ͤet / Apffelbaum⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010009.gt.txt
+blu◌ͤet / eins auß dieſem welches man will /
+||-#|#|||||||||||||||||||||||||||||||||||||
+bl~ůe( / eins auß dieſem welches man will /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/01000a.gt.txt
+Buchholder oder wilder Liebſto◌ͤckel / oder
+#||||||||||||||||||||||#||||||||||||||||||
+Suchholder oder wilder Aiebſto◌ͤckel / oder
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/01000b.gt.txt
+ſch~wartz Neſſel / oder dergleichen eins / ein
+|||+|||-#|||||||||-||||||||||||||||||||#||||||
+ſch war~n Neſſel /~oder dergleichen eino / ein
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/01000c.gt.txt
+theil. Mag man einem eingeben in einem
+|||||-||||||||||||||||||||||||||||||||
+theil~ Mag man einem eingeben in einem
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/01000d.gt.txt
+Tranck / fu◌ͤr einen Wundtranck in Waſ⸗
+||||||-|-|||||||||||||||||||||||||||||
+Tranck~/~fu◌ͤr einen Wundtranck in Waſ⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/01000e.gt.txt
+ſer vnd Wein geſotten / es durchtringet
+|||||||||||||||||||||||||||||||||||||||
+ſer vnd Wein geſotten / es durchtringet
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/01000f.gt.txt
+gar geſchwind / vnd iſt ein guter Wund⸗
+|||||||||||||||||||||||||||||||||||||||
+gar geſchwind / vnd iſt ein guter Wund⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010010.gt.txt
+tranck / Aber zu altẽ ſcha◌ͤden wer er nichts
+||||||||||||||||||||||||||||||||||||||||||||
+tranck / Aber zu altẽ ſcha◌ͤden wer er nichts
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010011.gt.txt
+werth / ſondern mu◌ͤſt der vorigen eines
+|||||||||||||||||||||||||||||||||||||||
+werth / ſondern mu◌ͤſt der vorigen eines
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010012.gt.txt
+nem◌̃en. Es were denn ſach / daß man die⸗
+||##||||||||||||||||||||||||||||||||||||
+nefien. Es were denn ſach / daß man die⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010013.gt.txt
+ſe ding alle colligiert hette an dem 8. 9. 10.
+|||||||||||||||||||||||||||||||||||||||-#|--#|
+ſe ding alle colligiert hette an dem 8.~z.~~o.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010014.gt.txt
+11. 12. tage deß newen Brachmonats / ſo
+|#||----|||||||||||||||||||||||||||||||
+1r. ~~~~tage deß newen Brachmonats / ſo
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010015.gt.txt
+die Sonne im Zwilling were / ſo were es
+|||||||||-|||||||||||||||||||||||||||||
+die Sonne~im Zwilling were / ſo were es
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010016.gt.txt
+trefflich gut / auch in reinen Blutſcha◌ͤ⸗
+|||||||||||||||||||||||||||||||||||||||||
+trefflich gut / auch in reinen Blutſcha◌ͤ⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010017.gt.txt
+den / Aber euſſerlich zur weichung / nimb
+|||||||||||||||||||||||||||||||||||||||||
+den / Aber euſſerlich zur weichung / nimb
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0006/010018.gt.txt
+allein dieſer Kra◌ͤuter eins im andern grad
+||||||||||||||||||||||||||||||||||||||||||
+allein dieſer Kra◌ͤuter eins im andern grad
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010001.gt.txt
+deß Viſchs ſechs theil / im andern grad deß
+|||||||||||||||||||||||--||||||||||||||||||
+deß Viſchs ſechs theil ~~im andern grad deß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010002.gt.txt
+Lo◌ͤwens drey theil / als im Lo◌ͤwen Flo◌ͤh⸗
+||||||||||||||||||||||||||||#||||||||||||
+Lo◌ͤwens drey theil / als im Co◌ͤwen Flo◌ͤh⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010003.gt.txt
+kraut / Ku◌ͤchenſchell / im Zwilling weiß
+||||||||||||||||||||||||||||||||||||||||
+kraut / Ku◌ͤchenſchell / im Zwilling weiß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010004.gt.txt
+Farrenkraut / im Zwilling / alte Ru◌ͤben /
+-||#|||||||||||||||||||||||||||||||||||||
+~arnenkraut / im Zwilling / alte Ru◌ͤben /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010005.gt.txt
+Bucheckern / vnd dergleichen.
+|||||||||||||||||||||||||||||
+Bucheckern / vnd dergleichen.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010006.gt.txt
+Hieher geho◌ͤren weiß Farren / Engel⸗
+|||||||||||||||||||||-||#|||||||||||
+Hieher geho◌ͤren weiß ~arnen / Engel⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010007.gt.txt
+ſu◌ͤß / Erdzwibeln / Carmaſein / Ochſen⸗
+|||||||||||||||#|||||||||||||||||||||||
+ſu◌ͤß / Erdzwibein / Carmaſein / Ochſen⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010008.gt.txt
+zungenkraut / Wurtzel vnd Blu◌ͤet / junge
+||||||||||||||||||||||||||||||||||||||||
+zungenkraut / Wurtzel vnd Blu◌ͤet / junge
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010009.gt.txt
+Hirſchkolben / vnd auch dieſe zwey nach⸗
+||||||||||||||||||||||||||||||||||||||||
+Hirſchkolben / vnd auch dieſe zwey nach⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/01000a.gt.txt
+folgende ſtuck / welche colligiert ſollẽ wer⸗
+||||||||||||||||||||||||#||||||||||||||-|||||
+folgende ſtuck / welche eolligiert ſoll~ wer⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/01000b.gt.txt
+den den 1. 2. vnd 3. tag deß Morgens vor
+|||||||||-##|-|||-#||||#||||||||||||||||
+den den 1~,z.~vnd~z. tas deß Morgens vor
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/01000c.gt.txt
+auffgang der Sonnen deß Mayens / Als
+||||||||||||||||||||||||||||||||||||
+auffgang der Sonnen deß Mayens / Als
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/01000d.gt.txt
+da iſt A~nchula, vnd groſſe Klettenwur⸗~
+||||||||+||||||#|||||||||||||||||||||||+
+da iſt A nchula. vnd groſſe Klettenwur⸗.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/01000e.gt.txt
+tzel / vnd dergleichen vil / ander ſeind allein
+|||-||||||||||||||||||||||-||||||||||||||||||||
+tze~ / vnd dergleichen vil~/ ander ſeind allein
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/01000f.gt.txt
+zu der weichung / vnd jhrer Subſtantz hal⸗
+||-|||-||||||||-|||||-||||||||||||||||||||
+zu~der~weichung~/ vnd~jhrer Subſtantz hal⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010010.gt.txt
+ben zu~m hertz ſtercken.
+||||||+|||||-#|||||||||#
+ben zuum her~s ſtercken,
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010011.gt.txt
+Junger ſaugender Hundsbruntz ge⸗
+|||||||||||||||||||||||||||-||||
+Junger ſaugender Hundsbrunt~ ge⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010012.gt.txt
+ho◌ͤret auch hieher / dann er laxiert / weichet
+|||||||||||||||||||||||||||||||#||||||||||||||
+ho◌ͤret auch hieher / dann er lariert / weichet
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010013.gt.txt
+ſo hefftig alle grobe / ſaltzige / vnd Melan⸗
+||||||||||||||||||||||--|||||||||--||||||||||
+ſo hefftig alle grobe ~~ſaltzige ~~vnd Melan⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010014.gt.txt
+choliſche feuchtigkeit / darauß dann War⸗
+|||||||||-||||||||||||||-|||||||||||||-||
+choliſche~feuchtigkeit /~darauß dann W~r⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010015.gt.txt
+tzen / Erbgrind ko~m◌̃en / ſo mans warm mit
+|||||--|||||||||||+##|||||||||||||||||||||
+tzen ~~Erbgrind koffien / ſo mans warm mit
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010016.gt.txt
+beſtreicht / lo◌ͤßt ſie vff / vnd vergehet.
+||||||||||||-|||||||||||||||||||||||||||||
+beſtreicht /~lo◌ͤßt ſie vff / vnd vergehet.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010017.gt.txt
+Weiß Lilien bla◌ͤtter geho◌ͤren auch hie⸗
+|||||#||||||||||||||||#|||||||||||-||||
+Weiß Ailien bla◌ͤtter gcho◌ͤren auch~hie⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0007/010018.gt.txt
+her.
+||||
+her.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010001.gt.txt
+Von dem dritten grad deß
+||||||||||||||||||||||||
+Von dem dritten grad deß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010002.gt.txt
+Zwillings.
+||||||||#|
+Zwillingo.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010003.gt.txt
+DJe Kra◌ͤuter die vnder dem dritten
+-||-||||||||||||||||||||||||||||||
+~Je~Kra◌ͤuter die vnder dem dritten
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010004.gt.txt
+grad ſtehen / lo◌ͤſen auff / vnd pur⸗
+||||||||||||||||||||||||||||||||||||
+grad ſtehen / lo◌ͤſen auff / vnd pur⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010005.gt.txt
+gieren vnderſich hinweg ohne al⸗
+||||||||||||||||||||||||||||-|||
+gieren vnderſich hinweg ohne~al⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010006.gt.txt
+len ſchaden vnd nachtheil / alles was vber⸗
+|||||||||||||||||||||||||||||||||||||||||||
+len ſchaden vnd nachtheil / alles was vber⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010007.gt.txt
+ſich dempfft in das Blutgea◌ͤder / vnd thun
+||||||||||||||||||||||||||||||||||||||||||
+ſich dempfft in das Blutgea◌ͤder / vnd thun
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010008.gt.txt
+die ſchwachheit viel mehr hinweg als die
+||||||||||||||||||||||||||||||||||||||||
+die ſchwachheit viel mehr hinweg als die
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010009.gt.txt
+vorigen im ander~n grad / Seind ſonder⸗
+||||||||||||||||+#|||||||||||||||||||||
+vorigen im andertz grad / Seind ſonder⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/01000a.gt.txt
+lich fu◌ͤrtrefflich zu dem gea◌ͤder vnd Blut /
+||||||||||||||||||||||||||||||||||||||||||||
+lich fu◌ͤrtrefflich zu dem gea◌ͤder vnd Blut /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/01000b.gt.txt
+Als da iſt Engelstranck kraut vnd wurtz /
+|||||||||||||||||||||||||||||||||||||||||
+Als da iſt Engelstranck kraut vnd wurtz /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/01000c.gt.txt
+A~liſina genant / weiſſe Rebarbara / Ru⸗
+|+|||||||||||||||||||||||||||||||||||#||
+A liſina genant / weiſſe Rebarbara / Ku⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/01000d.gt.txt
+mex rotunda genant / todte Neſſeln mit
+||-|||||||||||||||||||||||||||||||||||
+me~ rotunda genant / todte Neſſeln mit
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/01000e.gt.txt
+den ro◌ͤtlichten blumen / Vrtica mortua
+|||||||||||||||||||||||||-|||||||||#|#
+den ro◌ͤtlichten blumen / ~rtica morrus
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/01000f.gt.txt
+rubea genandt / Myrrha, Aaronwurtz /
+|||#||||||||||||#|||||||#|||||||||||
+rubca genandt / hyrrha, Laronwurtz /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010010.gt.txt
+Muſcatenblu◌ͤet / Baldrian / vnd was der⸗
+||||||||||||||||||||||||||||||||||||||||
+Muſcatenblu◌ͤet / Baldrian / vnd was der⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010011.gt.txt
+gleichen iſt / welcher gar viel ſein / Sollen
+|||||||||||||||||||||||||||||||||||||||||||||
+gleichen iſt / welcher gar viel ſein / Sollen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010012.gt.txt
+alle mit einander colligiert werden im
+||||||||||||||||||#|||||||||||||||||||
+alle mit einander eolligiert werden im
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010013.gt.txt
+newen Mond / ſo die Sonne im Zwilling
+|||||||||||||||||||||||||-|||||||||||
+newen Mond / ſo die Sonne~im Zwilling
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010014.gt.txt
+iſt am 3. 4. 5. 6. tage. Alſo colligirt ſeind ſie
+|||-|||--###|#|----||||-||||||#||||||||||||||||||
+iſt~am ~~z,r s.~~~~tage~ Alſo eolligirt ſeind ſie
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010015.gt.txt
+gar ma◌ͤchtig zu allen innerlichen ſchwach⸗
+||||||||||||||||||||||||||||||||||||||||||
+gar ma◌ͤchtig zu allen innerlichen ſchwach⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010016.gt.txt
+heiten in tra◌ͤncken vnd pulver / Dann die
+|||||||||||||||||||||||||||||||||||||||||
+heiten in tra◌ͤncken vnd pulver / Dann die
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0008/010017.gt.txt
+Kra◌ͤuter ſo in dem Zwilling ſtehen / haben
+||-|||||-||||||||||||||||||-||||||||||||||
+Kr~◌ͤuter~ſo in dem Zwilling~ſtehen / haben
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010001.gt.txt
+durchauß keinen Gifft in ſich / wie dann
+||||||||||||||||||||||||||||||||||||||||
+durchauß keinen Gifft in ſich / wie dann
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010002.gt.txt
+in den andern drey Tripliciteten die zwey
+|||||||||||||||||||||||||#|||||||||||||||
+in den andern drey Triplieiteten die zwey
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010003.gt.txt
+letzten allzeit Gifft in ſich habẽ. Die zwey
+|||||||||||||||||||||||||||||||||#|||||-||||
+letzten allzeit Gifft in ſich habe. Die~zwey
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010004.gt.txt
+letzten im Lo◌ͤwen / als der 3. vnd 4. grad /
+||||||||||||||||||||||||||||-#|||#||||||||||
+letzten im Lo◌ͤwen / als der ~z vnß 4. grad /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010005.gt.txt
+haben gifftige Schweffel in ſich. Die
+|||||||||||||||||||||||||||||||||||||
+haben gifftige Schweffel in ſich. Die
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010006.gt.txt
+zwey letzten im Steinbock / als der 3. vnd
+|||||||||||||||||||||||||||||||||||-#|-|||
+zwey letzten im Steinbock / als der~z.~vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010007.gt.txt
+4. grad Erdda◌ͤmpff vnd Rauch. Die zwey
+##|||||||||||||||||||||||||||-||||||||
+nz grad Erdda◌ͤmpff vnd Rauch.~Die zwey
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010008.gt.txt
+letzten im Viſch / als der dritt vnd vierdt
+|||||||||||||||||||||||||||||||||||||||||||
+letzten im Viſch / als der dritt vnd vierdt
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010009.gt.txt
+grad / ein jrrdiſch p~hlegma, welche alle
+|||||||||||||#|||||||+|||||||||||||||||||
+grad / ein jrndiſch p hlegma, welche alle
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/01000a.gt.txt
+corrigiert mu◌ͤſſen werden / ſonſt in den Leib
+|||-#||||||||||||||||||||||-|||||||||||||||||
+cor~ngiert mu◌ͤſſen werden /~ſonſt in den Leib
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/01000b.gt.txt
+du~chauß nicht zugebrauchen. Darumb
+||+||||||||||||||||||||||||||||||||
+durchauß nicht zugebrauchen. Darumb
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/01000c.gt.txt
+mag man dieſe Kra◌ͤuter auß ſeiner eignen
+||||||||||||||||||||||||||||||||||||||||
+mag man dieſe Kra◌ͤuter auß ſeiner eignen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/01000d.gt.txt
+Triplicitet ſta◌ͤrcken / als auß dem 3. vnd
+||||||||||||||||||||||||||||||||||||#|||||
+Triplicitet ſta◌ͤrcken / als auß dem z. vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/01000e.gt.txt
+4. grad der Wage / vnd deß Waſſermans
+-|-|||||||||||||-||||||||||||||||||||
+~.~grad der Wage~/ vnd deß Waſſermans
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/01000f.gt.txt
+auß dem 3. grad / vnd jedes zugleich nem⸗
+||||||||#|-||||||||||||||||||||||||||||||
+auß dem z.~grad / vnd jedes zugleich nem⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010010.gt.txt
+men / ſeind groſſe Kraffttra◌ͤnck / derglei⸗
+|||||||||||||||||||||||||||||||||||||||||||
+men / ſeind groſſe Kraffttra◌ͤnck / derglei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010011.gt.txt
+chen man ſonſt nicht viel mehr machen
+|||||||||||||||||||||||||||||||||||||
+chen man ſonſt nicht viel mehr machen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010012.gt.txt
+kan. Als da nim◌̃ Engelstranck kraut vnd
+||||-|||||||||--||||||#||||||||||||||||
+kan.~Als da ni~~ Engelotranck kraut vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010013.gt.txt
+wurtz / auß dem dritten grad deß Waſſer⸗
+||||||||||||||||||||||||||||||||||||||||
+wurtz / auß dem dritten grad deß Waſſer⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010014.gt.txt
+mans / Ku◌ͤnigundiskraut / oder Roſen⸗
+|||||||||||||||||||||||||||||||||||||
+mans / Ku◌ͤnigundiskraut / oder Roſen⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010015.gt.txt
+wurtz oder Gulden Leberkraut / vnd auß
+||||-|||||||||||||||||||||||||||||||||
+wurt~ oder Gulden Leberkraut / vnd auß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010016.gt.txt
+der Wage Scabioſenkraut / oder kleinen
+||||||||||||||||||||||||||||||||||||||
+der Wage Scabioſenkraut / oder kleinen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010017.gt.txt
+Taurant / welches euch gefellet / jedes zu⸗
+||||||||||||||||||||||||||||||||||#||||||||
+Taurant / welches euch gefellet / ſedes zu⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0009/010018.gt.txt
+gleich ein handvoll / Waſſer vñ Wein / je⸗
+#|||||||||||||||||||||||||||||#||||||--#||
+zleich ein handvoll / Waſſer vn Wein ~~ie⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010001.gt.txt
+ anderthalb Kandel / laß es halb einſieden.
+-|||||-||||||||||||||||||||||||||||||||||||
+~ander~halb Kandel / laß es halb einſieden.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010002.gt.txt
+Dieſes iſt nicht allein ein Wundtranck /
+||||||||||||||||||||||||||||||||||||||||
+Dieſes iſt nicht allein ein Wundtranck /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010003.gt.txt
+ſondern ein Hertzſterckung zu vilen kra◌ͤu⸗
+|||||||||||||||-#|||||||||||||||||||||||||
+ſondern ein Her~yſterckung zu vilen kra◌ͤu⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010004.gt.txt
+tern võ allerley grober feuchtigkeit. Man
+||||||#|||||||||||||||||||||||||||||-||||
+tern vo allerley grober feuchtigkeit~ Man
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010005.gt.txt
+mag auch einen Wundtranck darauß
+||||||||||||||||||||||||||||||||
+mag auch einen Wundtranck darauß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010006.gt.txt
+m~achen / das ſonderlich gut iſt / ſo man
+|+|||||||||||||||||||||||||||||||||||||||
+mnachen / das ſonderlich gut iſt / ſo man
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010007.gt.txt
+nimbt auß dem Geiſt im vierten grad deß
+|||||||||||||||||||||||||||||||||||||||
+nimbt auß dem Geiſt im vierten grad deß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010008.gt.txt
+Krebs / vnd vierdten oder dritten grad deß
+||||||||||||||||||||||||||||||||||||||||||
+Krebs / vnd vierdten oder dritten grad deß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010009.gt.txt
+Schu◌ͤtzens / ſein zuſatz / wie dann das die
+|||||||||||||||||||||||||||||||||||||||||||
+Schu◌ͤtzens / ſein zuſatz / wie dann das die
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/01000a.gt.txt
+Figur außweißt. Als ſo man nimbt klein
+|||||||||||||||||#||||||||||||||||||||
+Figur außweißt. Ais ſo man nimbt klein
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/01000b.gt.txt
+Scho◌ͤlkraut anderthalb handvoll / Roth
+||||||||||||||||||||||||||||||||||||||
+Scho◌ͤlkraut anderthalb handvoll / Roth
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/01000c.gt.txt
+Weiden Laub ein handvoll / Schwalben⸗
+|||||||#|||||||||||||||||||||||||||||
+Weiden laub ein handvoll / Schwalben⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/01000d.gt.txt
+kraut oder Haſelwurtz ein halbe handvoll /
+||||||||||||||||||||||||||||||||||||||||-|
+kraut oder Haſelwurtz ein halbe handvoll~/
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/01000e.gt.txt
+ſo treibts durchauß durch den ſchaden gar
+||||||||||||||||||||||||||||||||||||||||#
+ſo treibts durchauß durch den ſchaden gat
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/01000f.gt.txt
+bald in Waſſer vnd Wein geſotten.
+|||||||||||||||||||||||||||||||||
+bald in Waſſer vnd Wein geſotten.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010010.gt.txt
+Man ſoll auch wiſſen / das man auß
+||||||||||||||||||||||||||||||||||
+Man ſoll auch wiſſen / das man auß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010011.gt.txt
+den graden eins nemmen mag / welches
+||||||||||||||||||||||||||||||||||||
+den graden eins nemmen mag / welches
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010012.gt.txt
+man will / vnd jhm gefellt / vnd nicht auff
+|||||||||||||||||||||||||||||||||||||||||||
+man will / vnd jhm gefellt / vnd nicht auff
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010013.gt.txt
+einem bleiben / Vnnd die Wundtra◌ͤnck
+||||||||||||||||||||||||||||||||||||
+einem bleiben / Vnnd die Wundtra◌ͤnck
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010014.gt.txt
+Kra◌ͤuter ſollen bey wachſendem Monden
+|||||||||||||||||||||||||||||||||||||
+Kra◌ͤuter ſollen bey wachſendem Monden
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010015.gt.txt
+deß Mayens genommen werden zu den
+|||||||||||||||||||||||||||||||||
+deß Mayens genommen werden zu den
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010016.gt.txt
+alten ſcha◌ͤden / Zu den friſchen Wunden
+|||||||||||||||||||||||||||||||||||||||
+alten ſcha◌ͤden / Zu den friſchen Wunden
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010017.gt.txt
+aber im dritten viertel deß Mondes / als
+||||||||||||||||||||||||||||||||||||||||
+aber im dritten viertel deß Mondes / als
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0010/010018.gt.txt
+2. oder 3. Tage nach dem Vollmonden /
+#||-#|||||-||||||||||||||||||||||||||
+z. ~yer 3.~Tage nach dem Vollmonden /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010001.gt.txt
+gegen Nacht wann die Sonn vndergan⸗
+|||||||||||||||||||||||||||||||||||
+gegen Nacht wann die Sonn vndergan⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010002.gt.txt
+gen iſt. So man dieſe dinge aber zur wei⸗
+|||||||||||||||||||||||||||||||||||||||||
+gen iſt. So man dieſe dinge aber zur wei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010003.gt.txt
+chung brauchen wolt / im letzten viertel
+||||||||||||||||||||||||||||||||||||||||
+chung brauchen wolt / im letzten viertel
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010004.gt.txt
+deß Mayens / oder New Brachmonats.
+#|||||||||||||||||||||||||||||||||
+peß Mayens / oder New Brachmonats.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010005.gt.txt
+Dieſe Kra◌ͤuter ſeind auch trefflich gut zu
+||||||||||||||||||||||||||||||||||||||||||
+Dieſe Kra◌ͤuter ſeind auch trefflich gut zu
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010006.gt.txt
+Pulver / doch das ſie im Vollmond col⸗
+||||||||||||||||||||||||||||||||||||||
+Pulver / doch das ſie im Vollmond col⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010007.gt.txt
+ligiert werden deß Brachmonats / oder
+#||||||||||||||||||||||||||||||||||||
+ſigiert werden deß Brachmonats / oder
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010008.gt.txt
+im newen May / geho◌ͤren doch allein zu
+||||||||||||||||||||||||||||||||||||||
+im newen May / geho◌ͤren doch allein zu
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010009.gt.txt
+den Blutſcha◌ͤden. So man aber mit jh⸗
+||||||||||||||||#||||||||||||||||||||
+den Blutſcha◌ͤden, So man aber mit jh⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/01000a.gt.txt
+nen purgieren wollte / muß mans im letz⸗
+|||||||||||||||||-||||||||||||||||||||||
+nen purgieren wol~te / muß mans im letz⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/01000b.gt.txt
+ten viertel des Mayens nemmen / auch
+||||||||||||||#|||||||||||||||||||||
+ten viertel deß Mayens nemmen / auch
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/01000c.gt.txt
+zu~ dem außwaſchen vnnd reinigung der
+||+||||||||||||||||||||||||||||||||||
+zuu dem außwaſchen vnnd reinigung der
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/01000d.gt.txt
+ſcha◌ͤden. Jhr zuſatz ſoll ſein auß dem drit⸗
+||||-||||||||-|||||-||||||||||||||||||||||||
+ſcha~den. Jhr~zuſat~ ſoll ſein auß dem drit⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/01000e.gt.txt
+ten grad deß Scorpions / oder Krebs / auß
+||||||||||||||||||||||||-||||||||||||||||
+ten grad deß Scorpions /~oder Krebs / auß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/01000f.gt.txt
+dem andern grad deß Widers / vnd drit⸗
+||||||||||||||||||||||||||||||||||||||
+dem andern grad deß Widers / vnd drit⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010010.gt.txt
+ten grad / auch auß dem dritten grad deß
+||||||||||||||||||||||||||||||||||||||||
+ten grad / auch auß dem dritten grad deß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010011.gt.txt
+Schu◌ͤtzen.
+||||||||||
+Schu◌ͤtzen.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010012.gt.txt
+Es geho◌ͤren auch viel andere Kra◌ͤuter
+|||||||||||||||||||||||||||||||||||||
+Es geho◌ͤren auch viel andere Kra◌ͤuter
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010013.gt.txt
+hieher / als weiſſer Wegerich / Schaffs⸗
+||||||||||||||||||||||||||||||||||||||||
+hieher / als weiſſer Wegerich / Schaffs⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010014.gt.txt
+zungenkraut / das vnder den ſchattichten
+||||||||||||||||||||||||||||||||||||||||
+zungenkraut / das vnder den ſchattichten
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010015.gt.txt
+ba◌ͤumen wa◌ͤchßt / A~rnogloſſa genant / iſt
+#||||||||||||||||||+|||||||#||||||||||||||
+pa◌ͤumen wa◌ͤchßt / A rnogloſla genant / iſt
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010016.gt.txt
+nicht der Wegerich wie im Mathiolo ſte⸗
+||||||||||||||||||||||-||||||||||||||||
+nicht der Wegerich wie~im Mathiolo ſte⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010017.gt.txt
+het / ſonder wachſet vnder den ſchattich⸗
+|||||||||||||||||||||||||||||||||||||||||
+het / ſonder wachſet vnder den ſchattich⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0011/010018.gt.txt
+ten ba◌ͤumen / bleibt Som~◌̃er vnd Winter /
+-||-||||||||||||||||||||+#|||||||||||||||
+~en~ba◌ͤumen / bleibt Somfier vnd Winter /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010001.gt.txt
+iſt gantz weiß vnd voller Haar / hat Rip⸗
+||||||||-||||||||||||||||||||||||||||||||
+iſt gant~ weiß vnd voller Haar / hat Rip⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010002.gt.txt
+pen wie der Waſſerwegerich / bleibt Som⸗
+|||||||-||||||||||||||||||||-|||||||||||
+pen wie~der Waſſerwegerich /~bleibt Som⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010003.gt.txt
+mer vnd Winter gru◌ͤn / So man jhn im
+||||||||||||||||||||||||||||||||||||
+mer vnd Winter gru◌ͤn / So man jhn im
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010004.gt.txt
+Mund hat / non læditur morſu. Darum◌̃
+||||||||||-|||||#|||||||||||-|||||-#
+Mund hat /~non laditur morſu~ Daru~f
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010005.gt.txt
+ich die Kra◌ͤuter hieher ſetze / geſchicht der⸗
+||||||||||||||||||||||||||||||||||||||||||||||
+ich die Kra◌ͤuter hieher ſetze / geſchicht der⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010006.gt.txt
+~halben / daß ſie in jhrem vollkommenen
++||||||||||||||||||||||||||||||||||||||
+thalben / daß ſie in jhrem vollkommenen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010007.gt.txt
+Zeichen deß Waſſermans zu jhrer blu◌ͤet
+||||||||||||||||||||||||||||||||||||||
+Zeichen deß Waſſermans zu jhrer blu◌ͤet
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010008.gt.txt
+und vollkommenheit nicht kommen ko◌ͤn⸗
+#||||||||||||||||||||||||||||||||||||
+vnd vollkommenheit nicht kommen ko◌ͤn⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010009.gt.txt
+nen / ſondern als bald die Sonne herfu◌ͤr
+||||||||||||||||||||||||||||||||||||||||
+nen / ſondern als bald die Sonne herfu◌ͤr
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/01000a.gt.txt
+blickt / wu◌ͤſchen ſie auff / vnd ſo bald die
+|||||||||||||||||||||||||-||||||||||||||||||
+blickt / wu◌ͤſchen ſie auf~ / vnd ſo bald die
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/01000b.gt.txt
+Sonne auß dem Zwilling kompt / ſo ver⸗
+||||||||||||||||||||||||||||||||||||||
+Sonne auß dem Zwilling kompt / ſo ver⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/01000c.gt.txt
+gehen ſie / vnnd fallen hinweg. Dieſer
+|#||||||||||||||||||||||||||||||||||||
+gchen ſie / vnnd fallen hinweg. Dieſer
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/01000d.gt.txt
+Kra◌ͤuter ſeind ſehr viel / werden im Hew⸗
+||||||||||||||||||||||||-||||||||||||||||
+Kra◌ͤuter ſeind ſehr viel~/ werden im Hew⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/01000e.gt.txt
+monde ſelten mehr gefunden. Solches iſt
+|||||||||||||||||||||||||||-|||||||||||
+monde ſelten mehr gefunden.~Solches iſt
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/01000f.gt.txt
+Aaronwurtz / klein Schelkraut / Mau⸗
+-|||||||||||||||||||||||||||||||||||
+~aronwurtz / klein Schelkraut / Mau⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010010.gt.txt
+rant / vnd was dergleichen iſt / Erdzwibeln
+||||||||||-||||||||||||||||||||||||||||||||
+rant / vnd~was dergleichen iſt / Erdzwibeln
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010011.gt.txt
+thuns auch / Hertzkraut auch / dann ſie ha⸗
+-||||||||||||||||||||||||||||||||||||||||||
+~huns auch / Hertzkraut auch / dann ſie ha⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010012.gt.txt
+ben kein Saltz in jhrer Subſtantz nicht.
+||||||||||||||||||||||||||||||||||||||||
+ben kein Saltz in jhrer Subſtantz nicht.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010013.gt.txt
+Holauſtion iſt auch ein ſolches. Es ſeind
+#||||||||||||||||||||||||||||||||||||||||
+iolauſtion iſt auch ein ſolches. Es ſeind
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010014.gt.txt
+dieſer Kra◌ͤuter gar viel / geho◌ͤren alle vnder
+||||||||||||||||||||||||||||||||||||||||||||||
+dieſer Kra◌ͤuter gar viel / geho◌ͤren alle vnder
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010015.gt.txt
+den zwilling / Vnd ſo ſolcher Kra◌ͤuter et⸗
+||||||||||||||||||||||||||||||||||||||||||
+den zwilling / Vnd ſo ſolcher Kra◌ͤuter et⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010016.gt.txt
+liche funden werden / ſie ſeyen was Ge⸗
+|||||||||||||||||||||||||||||||||||||||
+liche funden werden / ſie ſeyen was Ge⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010017.gt.txt
+ſchlechts ſie wo◌ͤllen / als die Ornitogala,
+||||||||||||||||||||||||||||||||||||-|||||-
+ſchlechts ſie wo◌ͤllen / als die Orni~ogala~
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0012/010018.gt.txt
+geho◌ͤren alle hieher vnder den dritten grad
+|#||||||||||||||||||||||||-||||||||||||||||
+gyho◌ͤren alle hieher vnder~den dritten grad
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010001.gt.txt
+deß Waſſermans / vnd vmb den mangel
+|||||||||||||||||||||||||||||||||||
+deß Waſſermans / vnd vmb den mangel
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010002.gt.txt
+deß Saltz willen / ſeind ſie vnderm dritten
+||||||||-|||||||||-||||||||||||||||||||||||
+deß Salt~ willen /~ſeind ſie vnderm dritten
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010003.gt.txt
+grad deß Zwillings.
+|||||||||||||||||#|
+grad deß Zwillingo.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010004.gt.txt
+Vom vierdten grad deß
+|||||||||||||||||||||
+Vom vierdten grad deß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010005.gt.txt
+Zwillings.
+||||||||||
+Zwillings.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010006.gt.txt
+Nter diſen grad geho◌ͤren alle Kra◌ͤu⸗
+||||||||||||||||||||||||||||||||||||
+Nter diſen grad geho◌ͤren alle Kra◌ͤu⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010007.gt.txt
+ter ſo mit einem ſubtilen Saltz pur⸗
+||||||||||||||||||||||||||||||||||||
+ter ſo mit einem ſubtilen Saltz pur⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010008.gt.txt
+gieren die Leber / vnd das Blut ſubtil ma⸗
+||||||||||||||||||||||||||||||||||||||||||
+gieren die Leber / vnd das Blut ſubtil ma⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010009.gt.txt
+chen / das Hertz ſtercken / durchtringender
+|||||||||||||||||||||||||||||||||||||||||||
+chen / das Hertz ſtercken / durchtringender
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/01000a.gt.txt
+ſubſtantz ſeyn / vnd was Tartariſche Ma⸗
+||||||||||||||||||||||||||||||||||||||||
+ſubſtantz ſeyn / vnd was Tartariſche Ma⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/01000b.gt.txt
+teri purgiert / vnd zu den Arterien treibt.
+||||-||||||||||||||||||||||||||||||||||||||
+teri~purgiert / vnd zu den Arterien treibt.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/01000c.gt.txt
+Als da ſeind Schildkraut / welches vnder
+||||||||||||||||||||||||||||||||||||||||
+Als da ſeind Schildkraut / welches vnder
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/01000d.gt.txt
+den Waſſerman geho◌ͤrt / aber es kompt
+|||||||||||||||||||||||||||||||||||||
+den Waſſerman geho◌ͤrt / aber es kompt
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/01000e.gt.txt
+hieher vnder den Zwilling in 4. grad / iſt
+||||||||||||||||||||||||||||||||||||||||||
+hieher vnder den Zwilling in 4. grad / iſt
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/01000f.gt.txt
+im Mund am erſten anbiß gar ſu◌ͤß / dar⸗
+|||||||||||||||||||||||||||||||||||||||
+im Mund am erſten anbiß gar ſu◌ͤß / dar⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010010.gt.txt
+nach kompt ein bitter vff die Zunge. Sein
+||||||||||||||||||||||||||||||||||||-||||
+nach kompt ein bitter vff die Zunge.~Sein
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010011.gt.txt
+Blatt iſt wie ein Hertz / darumb es zu den
+||||||||||||||||||||||||||||||||||||||||||
+Blatt iſt wie ein Hertz / darumb es zu den
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010012.gt.txt
+Arterien gerechnet wirdt / vnnd wie ein
+|||||||||||||||||||||||||||||||||||||||
+Arterien gerechnet wirdt / vnnd wie ein
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010013.gt.txt
+Weyenfell iſts inwendig / daher es ſeinen
+|||||||||||||||||||||||||||||||||||||||||
+Weyenfell iſts inwendig / daher es ſeinen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010014.gt.txt
+Namen vberkommen hat Signaria, Die
+||||||||||||||||||||||||||||-|||||
+Namen vberkommen hat Signari~, Die
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010015.gt.txt
+Bletter ſeind faſt wie Ampfferbletter / hat
+|||||||-||||||||||-||||||#|||||||||||||||||
+Bletter~ſeind faſt~wie Amyfferbletter / hat
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0013/010016.gt.txt
+rote tippelein an den blettern / mit weiſſen
+#|||-||||||||||||||##|||||||||||-|||||||||||
+wote~tippelein an dgu blettern /~mit weiſſen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010001.gt.txt
+flecken / gleich wie Rebarbara / ſein Wurtz
+||||||||||||||||||||||||||||||||||||||||||-
+flecken / gleich wie Rebarbara / ſein Wurt~
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010002.gt.txt
+iſt ſchneeweiß / an geſchmack ſchier wie
+||||||||||||||||||||||||||||||||||||||||
+iſt ſchneeweiß / an geſchmack ſchier wie
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010003.gt.txt
+Su◌ͤßholtz / aber viel dicker / wechßt Mans⸗
+|||||||||||-|||||||||||||||||||||||||||||||
+Su◌ͤßholtz /~aber viel dicker / wechßt Mans⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010004.gt.txt
+lang in die erden / iſt gar za◌ͤch / gar lieblich
+||||||||||||||||||||||||||||||||||||||||||||||||
+lang in die erden / iſt gar za◌ͤch / gar lieblich
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010005.gt.txt
+ſu◌ͤß / purgiert in den Wein gelegt / gleich
+|||||||||||||||||||||||||||||||||||||||||||
+ſu◌ͤß / purgiert in den Wein gelegt / gleich
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010006.gt.txt
+wie Gamanderlein / wa◌ͤchßt allein an
+||||||||||||||||||||||||||||||||||||
+wie Gamanderlein / wa◌ͤchßt allein an
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010007.gt.txt
+ſchifferigen orten / die Wurtz iſt gar dick
+|||||||||||||||||||||||||||||||||||||||||||
+ſchifferigen orten / die Wurtz iſt gar dick
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010008.gt.txt
+als ein Daum / oder zwen Finger / iſt in
+||||||||||||||||||||||||||||||||||||||||
+als ein Daum / oder zwen Finger / iſt in
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010009.gt.txt
+keinem Kra◌ͤuterbuch beſchriben / wa◌ͤchßt
+||||||||||||||||||||||||||||||||||||||||
+keinem Kra◌ͤuterbuch beſchriben / wa◌ͤchßt
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/01000a.gt.txt
+vmb S. Gewehr am Rheinſtrom in al⸗
+||||||||||||||||||||||||||||||||||
+vmb S. Gewehr am Rheinſtrom in al⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/01000b.gt.txt
+ten Ha◌ͤuſern vnd Mauren / dariñen nicht
+|||||||||||||||||||||||||-|||||||||||||
+ten Ha◌ͤuſern vnd Mauren /~dariñen nicht
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/01000c.gt.txt
+Leut wohnen. Jch hab an mir probiert
+||||||||||||||||||||||||||||||||||||
+Leut wohnen. Jch hab an mir probiert
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/01000d.gt.txt
+ſelbſt / das nichts edlers iſt das Hertz zu⸗
+||||||||||||||||||||||||||||||||||||||||||||
+ſelbſt / das nichts edlers iſt das Hertz zu⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/01000e.gt.txt
+ſta◌ͤrcken / purgiert gar ſenfftiglich ohn al⸗
+|||||||||||||||||||||||||||||||||||||||||||||
+ſta◌ͤrcken / purgiert gar ſenfftiglich ohn al⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/01000f.gt.txt
+len zuſatz / iſt den Podagriſchen zur reini⸗
+#|||||||||||||||||||||||||||||||||||||||||||
+ſen zuſatz / iſt den Podagriſchen zur reini⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010010.gt.txt
+gung trefflich gut / dann es purgiert Tar⸗
+||||||||||||||||||||||||||||||||||||||||||
+gung trefflich gut / dann es purgiert Tar⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010011.gt.txt
+tariſche Weinſteiniſche feuchtigkeit / dar⸗
+|||||||||||||||||||||||-|||||||||||||||||||
+tariſche Weinſteiniſche~feuchtigkeit / dar⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010012.gt.txt
+umb ichs hieher geſetzt habe.
+||||||||||||||||||||||||||||#
+umb ichs hieher geſetzt habe,
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010013.gt.txt
+Gamanderleinkraut mit den blawen
+||||||||||||||||||||||||||||||||
+Gamanderleinkraut mit den blawen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010014.gt.txt
+Blumen / ſo im Mayen blu◌ͤet / hat gleich
+||||||||||||||||||||||||||||||||||||||||
+Blumen / ſo im Mayen blu◌ͤet / hat gleich
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010015.gt.txt
+ſolch ſubtiles Saltz / wie von jhm geſchri⸗
+|||||||||||||||||||||||||||||||||||||||||||
+ſolch ſubtiles Saltz / wie von jhm geſchri⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010016.gt.txt
+~ben ſtehet im Buch von den vier erſten
++||||||||||||||||||||||||||||||||||||||
+ſben ſtehet im Buch von den vier erſten
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010017.gt.txt
+Materien aller ding / damit es durchtrin⸗
+|||||||||||||||||||||||||||||||||||||||||
+Materien aller ding / damit es durchtrin⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0014/010018.gt.txt
+get vnd durchgehet / auch aufflo◌ͤßt vnd er⸗
+||||||||||||||||||||||||||||||||||||#||||||
+get vnd durchgehet / auch aufflo◌ͤßt ynd er⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010001.gt.txt
+~weicht alle Weinſteiniſche grobe ſandige
++#|||||||||||||||||||||||||||||||||||||||
+iveicht alle Weinſteiniſche grobe ſandige
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010002.gt.txt
+feuchtigkeit der Glieder / allein in den
+||||||||||||||||||||||||||||||||||||||||
+feuchtigkeit der Glieder / allein in den
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010003.gt.txt
+Wein gelegt. Dergleichen thun auch
+||||||||||||||||||||||||||||||||||
+Wein gelegt. Dergleichen thun auch
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010004.gt.txt
+Hornungs Veyolin / die da keinen ge⸗
+||||||||||||||||||||||||||||||||||||
+Hornungs Veyolin / die da keinen ge⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010005.gt.txt
+ſchmack haben / Viola ſine odore.
+||||||||||||||||-||||||||||||||||
+ſchmack haben / ~iola ſine odore.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010006.gt.txt
+Dieſe Kra◌ͤuter vnd dergleichen ſollen
+|||||||||||||||||||||||||||||||||||||
+Dieſe Kra◌ͤuter vnd dergleichen ſollen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010007.gt.txt
+colligiert werden deß Morgens fru◌ͤh / ehe
+#||||||||||||||||||||||||||||||||||||||||
+eolligiert werden deß Morgens fru◌ͤh / ehe
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010008.gt.txt
+der Taw abgehet / im anfang deß May⸗
+#|||||||||||||||||||||||||||||||||||
+ber Taw abgehet / im anfang deß May⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010009.gt.txt
+ens / ſo die Sonn noch im Stier iſt / vnd
+|||||||||||||||||||||||||||||||||||||||||
+ens / ſo die Sonn noch im Stier iſt / vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/01000a.gt.txt
+allezeit eine kleine handvoll in den Wein
+|||||||||||||||||||||||||||||||||||||||||
+allezeit eine kleine handvoll in den Wein
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/01000b.gt.txt
+gelegt / a~m dritten oder vierdten tag wider
+||||||||||+#||||||||||||||||||||||||||||||||
+gelegt / ain dritten oder vierdten tag wider
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/01000c.gt.txt
+friſches / diß purgiert natu◌ͤrlich ohne al⸗
+|||||||||||||||||||||||||||||||||||||||||||
+friſches / diß purgiert natu◌ͤrlich ohne al⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/01000d.gt.txt
+len ſchmertzen. Auch ſo man dieſer Kra◌ͤu⸗
+||||||||||||||-||||||||||||||||||||||||||
+len ſchmertzen~ Auch ſo man dieſer Kra◌ͤu⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/01000e.gt.txt
+ter eins nimpt anderthalb handvoll / dar⸗
+|||||||||||||||||||||||||||||||||||||||||
+ter eins nimpt anderthalb handvoll / dar⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/01000f.gt.txt
+zu auß dem 4. grad deß Krebs I. handvoll /
+|#|||||||||#|-|||||||||||||||-|-|||||||-||
+zn auß dem z.~grad deß Krebs ~.~handvol~ /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010010.gt.txt
+vnd auß dem 4. grad deß Schu◌ͤtzens ein
+||||||||||||||||||||||||||||||||||||||
+vnd auß dem 4. grad deß Schu◌ͤtzens ein
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010011.gt.txt
+hand~voll / ſo iſts ein treffenlicher Wund⸗
+||||+||||||-|||||||||||||||||||||||||||||||
+hand voll /~ſo iſts ein treffenlicher Wund⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010012.gt.txt
+tranck / nimbt alle grobheit auß den ſcha◌ͤ⸗
+|||||||||||||||||||||||||||||||||||||||||||
+tranck / nimbt alle grobheit auß den ſcha◌ͤ⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010013.gt.txt
+den / purgiert ſie / vnd machet einen guten
+||||||||||||||-||||||||||||||||||||||||||||
+den / purgiert~ſie / vnd machet einen guten
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010014.gt.txt
+grund darinnen / durchtringet alles / vnd
+|||||||||||||||||||||||||||||||||||||||||
+grund darinnen / durchtringet alles / vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010015.gt.txt
+reiniget wo es hinkompt. Darumb mag
+|||||||||||||||||||||||||||||||-|||
+reiniget wo es hinkompt. Darumb~mag
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010016.gt.txt
+man wol Waſſer darauß ſieden / wie es in
+||||||||||||||||||||||||||||||||||||||||
+man wol Waſſer darauß ſieden / wie es in
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010017.gt.txt
+der Figur verzeichnet iſt / vnd die ſcha◌ͤden
+||||||||||||||||||||||||||||||||||||||||||||
+der Figur verzeichnet iſt / vnd die ſcha◌ͤden
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0015/010018.gt.txt
+darmit waſchen / als dann das kraut law⸗
+#|||||||||||||||||||||||||||||||||||||||
+Garmit waſchen / als dann das kraut law⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010001.gt.txt
+licht darauff geſchlagen / lindert / weichet /
+|||||-|||||||||||||||||||||||||||||||||||||-||
+licht~darauff geſchlagen / lindert / weiche~ /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010002.gt.txt
+vnd zeitiget ſie mit macht / aber die Pulver
+||||||||||||-|||||||||||||||||||||||||||||||
+vnd zeitiget~ſie mit macht / aber die Pulver
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010003.gt.txt
+muß man nicht hierauß machen / ſonder
+|||||||||||||||||||||||||||||||||||||
+muß man nicht hierauß machen / ſonder
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010004.gt.txt
+auß der vollkom◌̃enheit deß Waſſermans /
+|||||||||||||||-|||||||||||||||||||||||
+auß der vollkom~enheit deß Waſſermans /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010005.gt.txt
+mit dem Scorpion vnd Wider / nach art
+|||||||||#||||||||||||||||-||||||||||
+mit dem Seorpion vnd Wider~/ nach art
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010006.gt.txt
+vnd kunſt der Figur.
+||||||||||||||||||||
+vnd kunſt der Figur.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010007.gt.txt
+Hieher hab ich auch geſetzt vnder diß
+|||||||||||||||||||||||||||||||||||||
+Hieher hab ich auch geſetzt vnder diß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010008.gt.txt
+den SchneeKo◌ͤnig / dann er hat ſolche
+|||||||||||||||||||||||||||||||||||||
+den SchneeKo◌ͤnig / dann er hat ſolche
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010009.gt.txt
+Art vnd Natur wie dieſe Kra◌ͤuter / Drum◌̃
+|||-||||||||||||||||||||||||||||||||||##
+Art~vnd Natur wie dieſe Kra◌ͤuter / Druſb
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/01000a.gt.txt
+welcher dieſe Kra◌ͤuter vnd deß Schnee⸗
+||||||||||||||||||||||||||||||||||||||
+welcher dieſe Kra◌ͤuter vnd deß Schnee⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/01000b.gt.txt
+Ko◌ͤnigs eſſentz ohne Fewr vnnd Sonne
+||||||||||||||||||||||||||||||||||||
+Ko◌ͤnigs eſſentz ohne Fewr vnnd Sonne
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/01000c.gt.txt
+mag herauß bringen / der kan jederman
+|||||||||||||||||||||||||||||||||||||
+mag herauß bringen / der kan jederman
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/01000d.gt.txt
+helffen an dem Stein ohne ſchaden vnd
+|||||||||||||||||||||||||||||||||||||
+helffen an dem Stein ohne ſchaden vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/01000e.gt.txt
+nachtheil. So er dieſes gibt ein tropffen
+|||||||||||||||||||||||||||||||||||||||||
+nachtheil. So er dieſes gibt ein tropffen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/01000f.gt.txt
+alle Morgen Nu◌ͤchtern / ſo zerfallet der
+||||||||||||||||||||||||||||||||||||||||
+alle Morgen Nu◌ͤchtern / ſo zerfallet der
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010010.gt.txt
+Stein in drey tagen ohne allen ſchaden
+||||||||||||||||||||||||||||||||||||||
+Stein in drey tagen ohne allen ſchaden
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010011.gt.txt
+vnd gefahr der Blaſen / vnd alle ſchmer⸗
+||||||||||||||||||||||||||||||||||||||||
+vnd gefahr der Blaſen / vnd alle ſchmer⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010012.gt.txt
+tzen vnd nachtheil der Glieder. Sollen
+|-||||||||||||||||||||||||||||||||||||
+t~en vnd nachtheil der Glieder. Sollen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010013.gt.txt
+aber zu ſolcher Kunſt eingeſetzt werden /
+|||||||||||||||||||||||||||||-#||||||||||
+aber zu ſolcher Kunſt eingeſe~ht werden /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010014.gt.txt
+abgethan v~ñ zubereit den erſten tag Maij.
+||||||||||+#||||||||||||||||||||||||||||#|
+abgethan vil zubereit den erſten tag Maif.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010015.gt.txt
+Der Schneeko◌ͤnig iſt ſolcher ſubtilen ſub⸗
+|||-||||||||||||||||||||||||||||#|||||||||
+Der~Schneeko◌ͤnig iſt ſolcher ſubeilen ſub⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010016.gt.txt
+ſtantz / das er einen jeden Stein zermahlet
+|-|||||||||||||||||||||||||||||||||||||||||
+ſ~antz / das er einen jeden Stein zermahlet
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010017.gt.txt
+vnd zerſchmeltzt in fu◌ͤnff viertel ſtunden /
+||||||||||||||||||||||||||||||||||||||||||||
+vnd zerſchmeltzt in fu◌ͤnff viertel ſtunden /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010018.gt.txt
+Sein bereitung iſt mit Eßig / ſein eſſentz
+||||||||||||||||||||||||#||||||||||||||||-
+Sein bereitung iſt mit Efig / ſein eſſent~
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0016/010019.gt.txt
+mit durchtreibenden Kra◌ͤutern.~~
+||||||||||||||||||||||||||||||++
+mit durchtreibenden Kra◌ͤutern...
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010001.gt.txt
+Auch ſetze ich hieher die groſſe Rebar⸗
+|||||||||||||||||||||||||||||||||||||||
+Auch ſetze ich hieher die groſſe Rebar⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010002.gt.txt
+ra / welche ein geſchlecht deß Rum~icis iſt /
+|||||||||||||||||||||||||||||||#||+||||||||||
+ra / welche ein geſchlecht deß Kum icis iſt /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010003.gt.txt
+ſchmeckt vbel ſeiner erſten groben Mate⸗~
+||||||||||||||||||||||||||||||||||||||||+
+ſchmeckt vbel ſeiner erſten groben Mate⸗.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010004.gt.txt
+rien halben / purgirt die Leber / wie ſie ſa⸗
+|||||||||||||||||||||||||||||||||||||||||||||
+rien halben / purgirt die Leber / wie ſie ſa⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010005.gt.txt
+gen / Aber viel mehr die Melancholica,
+|||||||||||||||||||||||||#||||||||||||
+gen / Aber viel mehr die helancholica,
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010006.gt.txt
+dann ſo ſolche zwo Materien zuſammen
+||||||||||||||||||||||||||||||||||||
+dann ſo ſolche zwo Materien zuſammen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010007.gt.txt
+kommen / ſo wird ein Tartarum darauß /
+||||||||||||||||||||||||||||||||||||||
+kommen / ſo wird ein Tartarum darauß /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010008.gt.txt
+das purgiert die Rebarbara / ſo man jhr
+|||||||||||||||||||||||||||||||||||||||
+das purgiert die Rebarbara / ſo man jhr
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010009.gt.txt
+die Tinctur nimbt / aber ohn die Tinctur
+|||||||#||||||||||||||||||||||||||||#|||
+die Tinetur nimbt / aber ohn die Tinetur
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/01000a.gt.txt
+P~urgiert ſie wol / aber ſie beleydiget die
+|+|||||||||||||||||||||||||||||||||||||||||
+P urgiert ſie wol / aber ſie beleydiget die
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/01000b.gt.txt
+vmbligende Glieder viel mehr dann ſie
+|||||||||||||||||||||||||||||||||||||
+vmbligende Glieder viel mehr dann ſie
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/01000c.gt.txt
+nutz bringet. Derhalben hab ich ſie hie⸗
+||||||||||||||||||||||||||||||||||||||||
+nutz bringet. Derhalben hab ich ſie hie⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/01000d.gt.txt
+her geſetzt / jhre Tinctur leget ſich an.
+||||||||||||||||||||||#||||||||||||||||||
+her geſetzt / jhre Tinetur leget ſich an.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/01000e.gt.txt
+Dergleichen thut auch R~oth Ampffer
+|||||||||||||||||||||||+|||||||||||
+Dergleichen thut auch RKoth Ampffer
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/01000f.gt.txt
+kraut vnd wurtzel / welches ein kleine ſu◌ͤſſe
+||||||||||||||||||--|||||||||||||||||||||||||
+kraut vnd wurtzel ~~welches ein kleine ſu◌ͤſſe
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010010.gt.txt
+in ſich hat / die allhieher geho◌ͤrt zu dem
+|||||||||||||||||||||||||||||||||||||#||||
+in ſich hat / die allhieher geho◌ͤrt zn dem
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010011.gt.txt
+Blut / hat aber auch eine Tinctur. Dieſe
+|||||||||||||||||||||||||||||#||||||||||
+Blut / hat aber auch eine Tinetur. Dieſe
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010012.gt.txt
+Wurtz mag man kecklich brauchen / wider
+|||||||||||||||||||||||||||||||||||||||
+Wurtz mag man kecklich brauchen / wider
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010013.gt.txt
+das grob Blut / doch zuvor ſoll man jhr
+|||||||||||||||||||||||||||||||||||||||
+das grob Blut / doch zuvor ſoll man jhr
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010014.gt.txt
+die grobe feuchtigkeit abziehen mit Waſ⸗
+|||-|||||-||||||||||||||||||||||||||||||
+die~grobe~feuchtigkeit abziehen mit Waſ⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010015.gt.txt
+ſer vnd Wein / wie das gelernet wird im
+|||||||||||||||||||||||||||||||||||||||
+ſer vnd Wein / wie das gelernet wird im
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010016.gt.txt
+Buch de Correctionibus.
+|||||||||||||||||||||||
+Buch de Correctionibus.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010017.gt.txt
+Auch hab ich hieher geſetzt das edele
+||#||||||||||||||||||||||||||||||||||
+Aurh hab ich hieher geſetzt das edele
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0017/010018.gt.txt
+wolriechende Camillen kra◌ͤutlein / das
+||||||||||||||||||||||||||||||||||||||
+wolriechende Camillen kra◌ͤutlein / das
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010001.gt.txt
+kleine / Das muß man aber colligeren im
+||||||||||||||||||||||||||||||||||||||#
+kleine / Das muß man aber colligeren in
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010002.gt.txt
+Mayen / ſo die Sonne noch im Stier iſt /
+||||||||||||||||||||||||||||||||||-|||||
+Mayen / ſo die Sonne noch im Stier~iſt /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010003.gt.txt
+deß Morgens fru◌ͤhe / ehe der Tawe ab⸗
+|||||||||||||||||||||||||||||||||||||
+deß Morgens fru◌ͤhe / ehe der Tawe ab⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010004.gt.txt
+kompt / vnder dem ſchatten gedo◌ͤrret / So
+|||||||||||||||||||||||||||||||||||||||||
+kompt / vnder dem ſchatten gedo◌ͤrret / So
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010005.gt.txt
+purgiert es auch Weinſteiniſche Mate⸗
+|||||||||||||||||||||||||||||||||||||
+purgiert es auch Weinſteiniſche Mate⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010006.gt.txt
+rien / in den Wein gelegt / wie vom Ga⸗
+|||||||||||||||||||||||||||||||||||||||
+rien / in den Wein gelegt / wie vom Ga⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010007.gt.txt
+manderle geſagt iſt.
+||||||||||||||||||||
+manderle geſagt iſt.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010008.gt.txt
+Auch hab ich hie geſetzt das edle Kraut
+|||||||||||||||||||||||||||||||||||||||
+Auch hab ich hie geſetzt das edle Kraut
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010009.gt.txt
+Parth~enium, welchs in allen dingen mit
+|||||+|||||||||||||||||||||||||||||||||
+Parthienium, welchs in allen dingen mit
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/01000a.gt.txt
+den Camillen vber ein kompt / auch alſo
+|||||||||||||||||||||||||||||||||||||||
+den Camillen vber ein kompt / auch alſo
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/01000b.gt.txt
+colligiert wie die Camillen.
+#|||||||||||||||||||||||||||
+eolligiert wie die Camillen.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/01000c.gt.txt
+Au~ch hab ich hieher geſetzt Roßmiſt / ſo
+||+||||||||||-||#||||||||-#||||||||||||||
+Auich hab ich~hicher geſe~nt Roßmiſt / ſo
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/01000d.gt.txt
+ſie au~ff dem Graß gehen im anfang deß
+||||||+|||||||||||||||||||||||||||||||
+ſie auiff dem Graß gehen im anfang deß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/01000e.gt.txt
+Mayens / vnd außgang des Aprils / wel⸗
+|||||||||||||||||||||||#||||||||||||||
+Mayens / vnd außgang deß Aprils / wel⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/01000f.gt.txt
+ches mit einem weiſſen Wein der etwas
+|||||||||||||||||||||||||||||||||||||
+ches mit einem weiſſen Wein der etwas
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010010.gt.txt
+ſu◌ͤßlicht iſt / ſo friſch maceriert vber nacht /
+#|||||||||||||||||||||||||||||||||||||||||||||||
+fu◌ͤßlicht iſt / ſo friſch maceriert vber nacht /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010011.gt.txt
+darnach ein Lo◌ͤffel oder zwen außgetrun⸗
+||||||||||||||||||||||||||||||||||||||||
+darnach ein Lo◌ͤffel oder zwen außgetrun⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010012.gt.txt
+cken / vnd den ſchadhafften geben / ſo lauf⸗
+||||||||||||||||||||||||||||||||||||||||||||
+cken / vnd den ſchadhafften geben / ſo lauf⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010013.gt.txt
+fets zum ſchaden hinauß. Auch den Lun⸗
+||||||||||||||||||||||||||||||||||#|||
+fets zum ſchaden hinauß. Auch den Aun⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010014.gt.txt
+genſu◌ͤchtigen gebẽ mit Malvaſier / ſo hilfft
+|||||||||||||||||-#|||||||||||||||-|#||||||#
+genſu◌ͤchtigen geb~emit Malvaſier /~ſs hilffe
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010015.gt.txt
+es ſie / vnd außgebrennt mit einem Mal⸗
+|||||||||||||||||||||||||||||||||||||||
+es ſie / vnd außgebrennt mit einem Mal⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010016.gt.txt
+vaſier oder gutem Wein / ſo thut es alle
+||||||||||||||||||||||||||||||||||||||||
+vaſier oder gutem Wein / ſo thut es alle
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010017.gt.txt
+Hertzkloffen / vnd grobſandige Weinſtei⸗
+||||-|||||||||||||||||||||||||||||||||||
+Hert~kloffen / vnd grobſandige Weinſtei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0018/010018.gt.txt
+nige Materien hinweg / vnd ſtillet alſo
+|||||||||||||||||||||||||||||||||||||||
+nige Materien hinweg / vnd ſtillet alſo
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010001.gt.txt
+alles Hertzklopffen / das grobe Weinſtei⸗
+##|||||||-#|#||||||||||||||||||||||||||||
+idles Her~nkiopffen / das grobe Weinſtei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010002.gt.txt
+nige Blut / vnd was dergleichen iſt.
+||||||||||||||||||||||||||||||||||||
+nige Blut / vnd was dergleichen iſt.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010003.gt.txt
+Dieſer Kra◌ͤuter ſeind gar viel / welche
+|||||||||||||||||||||||||||||-|||||||||
+Dieſer Kra◌ͤuter ſeind gar vie~ / welche
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010004.gt.txt
+nach krafft vnd art dieſer geſetzten Kra◌ͤu⸗
+|||||||||||||||||||||||||||||||||||||||||||
+nach krafft vnd art dieſer geſetzten Kra◌ͤu⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010005.gt.txt
+ter judiciert ſollen werden / ſo ~man ſie
+||||||||#||||||||||||||||||||||||+#||||||
+ter judieiert ſollen werden / ſo fnan ſie
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010006.gt.txt
+vorhanden hat / nach dem Buch der Si⸗
+|||||||||||||||||||||||||||||||||||||
+vorhanden hat / nach dem Buch der Si⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010007.gt.txt
+gnatur / welches an ſeinem ort gelehrnet
+||||||||||||||||||||||||||||||||||||||||
+gnatur / welches an ſeinem ort gelehrnet
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010008.gt.txt
+wird.
+|||||
+wird.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010009.gt.txt
+Von der Andern Triplici⸗
+|||||||||||||||||-|||#||
+Von der Andern Tr~pliei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/01000a.gt.txt
+tet / Choleræ.
+|||-||||||||#|
+tet~/ Cholero.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/01000b.gt.txt
+Von dem erſten grad deß
+|||||||||||#|||||||||||
+Von dem erſien grad deß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/01000c.gt.txt
+Schu◌ͤtzens.
+|||||||||||
+Schu◌ͤtzens.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/01000d.gt.txt
+JN dieſem grad ſeind
+#|||||||||||||||||||
+MN dieſem grad ſeind
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/01000e.gt.txt
+alle die Kra◌ͤuter / welche
+||||||||||||||||||||||||||
+alle die Kra◌ͤuter / welche
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/01000f.gt.txt
+die Materiam zugrob ge⸗
+|||||||||||||||||||||||
+die Materiam zugrob ge⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010010.gt.txt
+habt haben / im auffgang
+||||||||||||||||||||||||
+habt haben / im auffgang
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010011.gt.txt
+deß Schu◌ͤtzen / Dann jhre
+||||||||||||||--||||-||||
+deß Schu◌ͤtzen ~~Dann~jhre
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010012.gt.txt
+Materia iſt im Occuriu vom Schu◌ͤtzen
+|||||||||||||||#||||-||||||||||-||||
+Materia iſt im Dccur~u vom Schu~tzen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010013.gt.txt
+angeno~m◌̃en / aber gar zu Saturniſch ge⸗
+||||||+##|||||||||||||||||||||||||||||||
+angenofflen / aber gar zu Saturniſch ge⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0019/010014.gt.txt
+weſen / darumb ſie der Schu◌ͤtz nicht in die
+||||||||||||||||||||||||||||||||||||-||||||
+weſen / darumb ſie der Schu◌ͤtz nicht~in die
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010001.gt.txt
+Perfection hat bringen ko◌ͤnnen / Son⸗
+|||||#||||||||||||||||||||||||||||||#
+Perfeetion hat bringen ko◌ͤnnen / Sonn
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010002.gt.txt
+dern den Geiſt haben ſie vberflu◌ͤßig / hitzig
+||||||||||||||||||||||||||||||#|||||||||||-||
+dern den Geiſt haben ſie vberfiu◌ͤßig / hit~ig
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010003.gt.txt
+vnd trucken / die Materi aber noch feucht
+|||||||||||||||||||||||||||||||||||||||||
+vnd trucken / die Materi aber noch feucht
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010004.gt.txt
+vnd kalt / darumb ſie trefflich ſeind zu den
+||||||||||||||||||||||||||||||||||||||||||||
+vnd kalt / darumb ſie trefflich ſeind zu den
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010005.gt.txt
+Gliedern / welche da leiden von der Gall /
+||||||||||||||||||||||||||||||||||||||||||
+Gliedern / welche da leiden von der Gall /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010006.gt.txt
+als die Lunge / die Waden auff den Kni⸗
+||||||||||||||||||||||||||||||||||||##|
+als die Lunge / die Waden auff den Kin⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010007.gt.txt
+en / vnd dem Magen / welches ſie gantz
+|||||||||||||||||||||||||||||||||||||#
+en / vnd dem Magen / welches ſie gants
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010008.gt.txt
+flu◌ͤßig macht in jhnen ſelbſt / ziehen ſonſt
+||||||||||||||||||||||||||||||||||||||||||||
+flu◌ͤßig macht in jhnen ſelbſt / ziehen ſonſt
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010009.gt.txt
+nicht flu◌ͤſſe an ſich / ſondern ſeind einer
+|||||||||||||||||||||||||||||||||||||||||||
+nicht flu◌ͤſſe an ſich / ſondern ſeind einer
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/01000a.gt.txt
+aufflo◌ͤſenden arth. Jhr zuſatz iſt auß dem
+||||||-|||||||||||||||||||||#|||||||||||||
+aufflo~ſenden arth. Jhr zuſasz iſt auß dem
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/01000b.gt.txt
+erſten grad der Wage / vnd erſten grad
+||||||||||||||||||||||||||||||||||||||
+erſten grad der Wage / vnd erſten grad
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/01000c.gt.txt
+deß Stiers / nach art vnd außweiſung der
+||||||||||||||||||||||||||||||||||||||||
+deß Stiers / nach art vnd außweiſung der
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/01000d.gt.txt
+Figur. Als wann man nimpt Rettich 9.
+|||||||||||||||||||||||||||||||||-#|
+Figur. Als wann man nimpt Rettich~2.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/01000e.gt.txt
+theil / Maßlieben 6. theil / Veyolen drey
+||||||||||||||||||#||||||||||||||||||||||
+theil / Maßlieben s. theil / Veyolen drey
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/01000f.gt.txt
+theil / temperiert vnd kochets wol mit ein⸗
+|||||||-|||||||||||||||||||||||||||||||||||
+theil /~temperiert vnd kochets wol mit ein⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010010.gt.txt
+ander / es wird eine treffliche weichung /
+||||||||||||||||||||||||||||||||||||||||||
+ander / es wird eine treffliche weichung /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010011.gt.txt
+zeitigung / vnd was die notturfft erfor⸗
+||||||||||||||||||||||||||||||||||||||||
+zeitigung / vnd was die notturfft erfor⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010012.gt.txt
+dert / darauß / mit einem Oel / oder Mey⸗
+|||||||||||||||||||||||||||||||||||||||||
+dert / darauß / mit einem Oel / oder Mey⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010013.gt.txt
+butter / oder Schmaltz / oder Honigwaſ⸗
+|||||||||||||||||||||||||||||||||||||||
+butter / oder Schmaltz / oder Honigwaſ⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010014.gt.txt
+ſer / oder Safft / wie es die noth erfordert /
+||||||||||||||||||-||||||||||-||||||||||||||||
+ſer / oder Safft /~wie es die~noth erfordert /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010015.gt.txt
+Jſt trefflich gut zu den Choleriſchen ſcha◌ͤ⸗
+|||||||||||||||||-||||||||||||||||||||||||||
+Jſt trefflich gut~zu den Choleriſchen ſcha◌ͤ⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010016.gt.txt
+den / zu erweichung / weichet vnd zeitigt
+|||||||||||||||||||||||||||||||||||||||||
+den / zu erweichung / weichet vnd zeitigt
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010017.gt.txt
+auch biß in den dritten grad.
+|||||||||||||||||||||||||||||
+auch biß in den dritten grad.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0020/010018.gt.txt
+Dieſe ding ſollen colligiert werden im
+||||||||||||||||||#|||||||||||||||||||
+Dieſe ding ſollen eolligiert werden im
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010001.gt.txt
+anfang deß Brachmonats fru◌ͤhe / ehe der
+|||||||||||||||||||||||||||||||||||||||
+anfang deß Brachmonats fru◌ͤhe / ehe der
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010002.gt.txt
+Tawe von den Kra◌ͤutern fallt / vnd alſo
+|||||||||||||||||||||||||||||||||||||||
+Tawe von den Kra◌ͤutern fallt / vnd alſo
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010003.gt.txt
+zur noth behalten. Der Wundtranck ſoll
+|||-||||||||||||||||||||#||||||||||||#
+zur~noth behalten. Der Wnndtranck ſolt
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010004.gt.txt
+nicht auß dieſem grad genom◌̃en werden /
+||||||||||||||||||||||||||##|||||||||||
+nicht auß dieſem grad genoffen werden /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010005.gt.txt
+ſondern auß dem dritten grad deß Schu◌ͤ⸗
+||||||||||||||||||||||||||||||||||||#||
+ſondern auß dem dritten grad deß Schů◌ͤ⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010006.gt.txt
+tzens / oder auß dem erſten deß Widers /
+|-||||||||||||||||||||||||||||||||||||||
+t~ens / oder auß dem erſten deß Widers /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010007.gt.txt
+Alſo: Nim~b Schwartz waldwurtzen an⸗
+|#|##||||+||||||||||||||||||||||||||
+Aiſse Nimnb Schwartz waldwurtzen an⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010008.gt.txt
+derthalb handvoll / Lindenblu◌ͤet ein hand⸗
+||||||||||||||||||||-|||||||||||||||||||||
+derthalb handvoll / ~indenblu◌ͤet ein hand⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010009.gt.txt
+voll / Wegerich in der Jungfrawen eine
+||||||||||||||||||||||||||||||||||||||
+voll / Wegerich in der Jungfrawen eine
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/01000a.gt.txt
+halbe handvoll / in Wein vnd Waſſer ge⸗
+|||||||||||||||||||||||||||||||||||||||
+halbe handvoll / in Wein vnd Waſſer ge⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/01000b.gt.txt
+ſotten / oder Bier / wie es die Natur erfor⸗
+||||||||-|||||||||||||||||||||||||||||||||||
+ſotten /~oder Bier / wie es die Natur erfor⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/01000c.gt.txt
+dert. Das Bad aber auß dem erſten oder
+||||||||||||||||||||||||||||||||||||||
+dert. Das Bad aber auß dem erſten oder
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/01000d.gt.txt
+andern grad deß Schu◌ͤtzen / Als: Nimb
+|||||||||||||||||||||||||||||||||||||
+andern grad deß Schu◌ͤtzen / Als: Nimb
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/01000e.gt.txt
+ſchwartz Neſſel 9. theil / gelb Eyſenkraut
+||||||-#||||||#|-##||||-|||||||||||||||||#
+ſchwar~n Neſſet ~p,thei~ / gelb Eyſenkraue
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/01000f.gt.txt
+6. theil / Ephew~bletter 3. guter handvoll /
+#|-|||||-|||||||+|||||||-|-||#||||||||||||||
+o.~theil~/ Ephew bletter~3~ gnter handvoll /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010010.gt.txt
+Wein vnnd Waſſer / oder ein geringes
+||||||||||||||||||||||||||||||||||||
+Wein vnnd Waſſer / oder ein geringes
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010011.gt.txt
+Bier / wie man es ſieden will / auff I. hand⸗
+||||||-||||||||||||||||||||||||-|||||-#||||||
+Bier /~wie man es ſieden will /~auff ~t hand⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010012.gt.txt
+voll allzeit anderthalb kandel / daru◌ͤber
+|||||||||||||||||||||||||||||||||||||||||
+voll allzeit anderthalb kandel / daru◌ͤber
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010013.gt.txt
+Schweißbade er. Das pulver in den ſcha⸗
+|||||||||||||||-|||||||||||||||||||||||
+Schweißbade er.~Das pulver in den ſcha⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010014.gt.txt
+den mach alſo: Nim◌̃ Bu~chholderwurtz /
+|||||||||||||||||--|||+|||||||||||-#||
+den mach alſo: Ni~~ Buichholderwur~n /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010015.gt.txt
+oder wild Liebſto◌ͤckel~wurtz / Scm~irn~ium
+||||||||||-|||||||||||+|||-#|||-||+|||+|||
+oder wild ~iebſto◌ͤckel wur~h / ~cm irn ium
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010016.gt.txt
+g~enant 9. theil / Pappelwurtz / oder Linden
+|+|||||-#|-|||||||||||||||||||||-|||||-|||||
+gzenant~o.~theil / Pappelwurtz /~oder ~inden
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010017.gt.txt
+Miſpel gepu◌ͤlvert 6. theil / Roſenmiſpel
+||||||||||||||||||#|-|||||||||||||||||||
+Miſpel gepu◌ͤlvert s.~theil / Roſenmiſpel
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0021/010018.gt.txt
+drey theil / darauß mach ein Pflaſter oder
+||||-||||-||||||||||||||||||||||||||||||||
+drey~thei~ / darauß mach ein Pflaſter oder
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010001.gt.txt
+Pulver in den ſchaden. Aber diß Pulver
+||||||-||||||||||||||||||||||||||||-||
+Pulver~in den ſchaden. Aber diß Pul~er
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010002.gt.txt
+ſoll er eſſen in der ſpeiß: Braunwurtz 6.
+|||||||||||||||||||||||||||||||#|||||-|#|
+ſoll er eſſen in der ſpeiß: Brannwurt~ s.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010003.gt.txt
+Loth / Reinblumen / Stechas citrina ge⸗
+||||||||||||||||||||-|||||||#||||||||||
+Loth / Reinblumen / ~techas eitrina ge⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010004.gt.txt
+nant / oder Krebsa~ugenſtein 4. Loth / oder
+|||||||||||||-||||+#|||||||||-#||||||||||||
+nant / oder K~ebsanigenſtein ~z Loth / oder
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010005.gt.txt
+4. theil / Achalaiwurtz 2. Loth / oder 2. theil
+||-|||||-|||||||||-||||--|-||||||-|||||--##||||
+4.~theil~/ Achalai~urtz~~.~Loth /~oder ~~urheil
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010006.gt.txt
+alſo fort gefahren.
+||||-||||||||||||||
+alſo~fort gefahren.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010007.gt.txt
+Ein ander weichung / welche auch im
+|||||||||||||||||||||||||||||||||||
+Ein ander weichung / welche auch im
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010008.gt.txt
+dritten grad ſtehet: Nim◌̃ gelb Eiſenkraut
+|||||||||||||||||||||||-#||||||||||||||||
+dritten grad ſtehet: Ni~f gelb Eiſenkraut
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010009.gt.txt
+3. theil / Bocksbart 2. theil / Mertz Veyo⸗
+-|-|||||||||||||||||--|-||||||--|||||||||||
+~.~theil / Bocksbart~~.~theil ~~Mertz Veyo⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/01000a.gt.txt
+len I. theil / mit Rettichſafft vermiſcht / diß
+||||-#||||||-|-||||||||||||||||||||||||||||||||
+len ~t theil~/~mit Rettichſafft vermiſcht / diß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/01000b.gt.txt
+gibt au~ch eine weichung vollkommen im
+|||||||+||||||||||||||||||||||||||||||
+gibt autch eine weichung vollkommen im
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/01000c.gt.txt
+andern grad. Eine weichung im vierdten
+||||||||||||||||||||||||||||||||||||||
+andern grad. Eine weichung im vierdten
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/01000d.gt.txt
+grad: Nimb junge Zwibel drey Pfund /
+||||#||||||||||||||||||-||||||||||||
+grade Nimb junge Zwibel~drey Pfund /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/01000e.gt.txt
+Bocksbart wurtzel vnd kraut / au~ch gru◌ͤn
+||||||||||||||||||||||||||||||||+|||||--|
+Bocksbart wurtzel vnd kraut / auich gr~~n
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/01000f.gt.txt
+2. Pfund / Rockenbrot friſch gebachen ein
+-||||||||||||||||||||||||||||||||||||||||
+~. Pfund / Rockenbrot friſch gebachen ein
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010010.gt.txt
+Pfundt / die broſam von jnnen herauß /
+||||||||||||||||||||||||||||||||||||||
+Pfundt / die broſam von jnnen herauß /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010011.gt.txt
+ru◌ͤhrs alles durcheinander / die weicht biß
+|||||||||||||||||||||||||||||||||||||||||||
+ru◌ͤhrs alles durcheinander / die weicht biß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010012.gt.txt
+in vierdten grad / mit Zwibelſafft. Eine
+||||||||||||||||||||||||||||||||||||||||
+in vierdten grad / mit Zwibelſafft. Eine
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010013.gt.txt
+weichung auß dieſem grad / welchs im er⸗
+||||||#|||||||||||||||||||||||||||||||||
+weichumg auß dieſem grad / welchs im er⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010014.gt.txt
+ſten grad ſtehet: Nim◌̃ M~iſt / Senffkraut
+||||||||||||||||#||---||+||||||||||||||||
+ſten grad ſtehett N~~~ Meiſt / Senffkraut
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010015.gt.txt
+ſo gru◌ͤn Rocula genant 3. theil / Schlu◌ͤſ⸗
+|||#|||||#||||#|||||||-#||||||||||||||||#|
+ſo aru◌ͤn Kocul⸗ genant~z. theil / Schlu◌ͤf⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010016.gt.txt
+ſelb~lumen 2. theil / weiß Roſenbletter ein
+||||+||||||-|-||||-||||||||||||||||||||||||
+ſelb lumen ~.~thei~ / weiß Roſenbletter ein
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010017.gt.txt
+theil / vermiſch es durch einander mit rei⸗
+|||||||||||||||||||||||||||||||||||||||||||
+theil / vermiſch es durch einander mit rei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0022/010018.gt.txt
+nem jungẽ Speck / oder Merrett~ichſafft /
+||||||||#|||||||--||||||||#|||+||||||||||
+nem jungt Speck ~~oder Mernett ichſafft /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010001.gt.txt
+mit Honig bereit / vnd durcheinander ge⸗
+|||||||#||||||||||||||||||||||||||||||||
+mit Honlg bereit / vnd durcheinander ge⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010002.gt.txt
+miſcht.
+|||||||
+miſcht.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010003.gt.txt
+Dieſe weichung lindern vnd zeitigen
+|||||-||||||||||||||||||||-||||||||
+Dieſe~weichung lindern vnd~zeitigen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010004.gt.txt
+die ſcha◌ͤden mit gewalt / ein jedes doch al⸗
+||||||||||||||||||||||||||||||||||||||||||||
+die ſcha◌ͤden mit gewalt / ein jedes doch al⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010005.gt.txt
+lein in ſeinem grad. Man kan auch dieſe
+|||||||||||||||||||||||||||||||||||||||
+lein in ſeinem grad. Man kan auch dieſe
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010006.gt.txt
+weichungen alle noch viel ho◌ͤher machen /
+|||||||||||||||||||||||||||||||||||||||||
+weichungen alle noch viel ho◌ͤher machen /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010007.gt.txt
+ſo man jhnen zuſetzt ſchmaltz oder o◌ͤl / oder
+|||||||||||||||||||||||||||||||||||||-|||||||
+ſo man jhnen zuſetzt ſchmaltz oder o◌ͤ~ / oder
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010008.gt.txt
+jungen Speck / der vngeſchmeltzt iſt / er ſey
+#|||||||||||||-|||||||||||||||||||||||-||||||
+ſungen Speck /~der vngeſchmeltzt iſt /~er ſey
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010009.gt.txt
+geſaltzen oder nicht / auß der ſchwarten al⸗
+||||||||||||||||||||||||||||||-|||||||||||||
+geſaltzen oder nicht / auß der~ſchwarten al⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/01000a.gt.txt
+ſo herauß geſchnitten / das nichts rohtes
+|||||||||||||||||||||||||||||||||||||||||
+ſo herauß geſchnitten / das nichts rohtes
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/01000b.gt.txt
+darbey bleibt / oder weiß Lilien Oel / oder
+|||||||||||||||||||||||||||||||||||||||||||
+darbey bleibt / oder weiß Lilien Oel / oder
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/01000c.gt.txt
+Mam~ortica Oel / vnd was dergleichen
+-||+||||||||||||||||||||||||||||||||
+~am ortica Oel / vnd was dergleichen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/01000d.gt.txt
+iſt. Dann dieſe Oel vnd Feißte ſtercken
+|||||||||||||||||||||||||||||||||||||||
+iſt. Dann dieſe Oel vnd Feißte ſtercken
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/01000e.gt.txt
+die weichungen / ein jedes nach ſeiner art /
+|||||||||||||||||||||||||||||||-||||||||||||
+die weichungen / ein jedes nach~ſeiner art /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/01000f.gt.txt
+doch ſeind etliche Scha◌ͤden / welche kein
+|||||||||||||||||||||||||||||||||||||||||
+doch ſeind etliche Scha◌ͤden / welche kein
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010010.gt.txt
+Feißte leiden.
+||||||||||||||
+Feißte leiden.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010011.gt.txt
+Auch gibts ein gar ko◌ͤſtliche weichung /
+||||||||||||||||||||||||||||||||||||||||
+Auch gibts ein gar ko◌ͤſtliche weichung /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010012.gt.txt
+vnd zeucht vom grund herauß / wa man
+||||||||||||||||||||||||||||||||||||
+vnd zeucht vom grund herauß / wa man
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010013.gt.txt
+nimbt Zeitloſen drey theil / Schlu◌ͤſſelblu⸗
+|||||||||||||||||#||||||||||||||||||||#||||
+nimbt Zeitloſen dney theil / Schlu◌ͤſſetblu⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010014.gt.txt
+men 2. theil / Braunen Geelſu◌ͤß / oder ge⸗
+||||-|-||||-|||||||||||||||||||||-||||||||
+men ~.~thei~ / Braunen Geelſu◌ͤß /~oder ge⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010015.gt.txt
+meine Diſteln / die im Feld wa◌ͤchßt / wel⸗
+||||||||||||||||||||||||||||||||||||||||||
+meine Diſteln / die im Feld wa◌ͤchßt / wel⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010016.gt.txt
+ches man Sawdiſtel heißt / ein theil / zuſa⸗
+||||||||||||||||||||||||||||||||||||||||||||
+ches man Sawdiſtel heißt / ein theil / zuſa⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010017.gt.txt
+men geſtoſſen / iſt ein treffentliche weich⸗
+||||||||||||||||||||||||||||||||||||||||||||
+men geſtoſſen / iſt ein treffentliche weich⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0023/010018.gt.txt
+ung / mit Ma~mortica Oel / ſie zeitigt / rei⸗
+||||||||||#|+||||||#|||||--||||||||||||--||||
+ung / mit daamortics Oel ~~ſie zeitigt ~~rei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010001.gt.txt
+nigt / vnd zeucht von grund herauß / das
+||||||||||||||||||||||||||||||||||||||||
+nigt / vnd zeucht von grund herauß / das
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010002.gt.txt
+lang verborgen gelegen iſt in dem grund
+|||||||||||||||||||||||||||||||||||||||
+lang verborgen gelegen iſt in dem grund
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010003.gt.txt
+der Scha◌ͤden / zeucht auch hefftig Fleich /
+|||||||||||||||||||||||||||||||||||||||||||
+der Scha◌ͤden / zeucht auch hefftig Fleich /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010004.gt.txt
+das man ſich verwundern m~uß der ſchlech
+|||||||||||||||||||||||||+||||||||||||||
+das man ſich verwundern mzuß der ſchlech
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010005.gt.txt
+ten ding. Auch kan man eine weichung
+||||||||||-|||||||||||||||||||||||||
+ten ding. ~uch kan man eine weichung
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010006.gt.txt
+machen / das man auffziehen kan einen
+|||||||||||||||||||||||||||||||||||||
+machen / das man auffziehen kan einen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010007.gt.txt
+ſchaden / der ſonſt nicht auffgieng / ſonder
+||||||||||||||||||||||||||||||||||||||||||||
+ſchaden / der ſonſt nicht auffgieng / ſonder
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010008.gt.txt
+alſo gar ve~heilet / das er ehe vberſich zum
+|||||||||||+||||||||||||||||||||||||||||||||
+alſo gar verheilet / das er ehe vberſich zum
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010009.gt.txt
+Hertzen treibe / dann er auff~breche / Vnd
+||||-||||||||||||||||||||||||+||||||||||||
+Hert~en treibe / dann er auff breche / Vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/01000a.gt.txt
+dieſe ding ſoll man allein brauchen zu den
+||||||||||||||||||||||||||||||||||||||||||
+dieſe ding ſoll man allein brauchen zu den
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/01000b.gt.txt
+geheimen verborgenen ſcha◌ͤden. Darzu
+||||||||||||||||||||||||||||||||||||
+geheimen verborgenen ſcha◌ͤden. Darzu
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/01000c.gt.txt
+nimb Lehnen oder Leinen Blu◌ͤet / welches
+||||||||||||||||||||||||||||||||||||||||
+nimb Lehnen oder Leinen Blu◌ͤet / welches
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/01000d.gt.txt
+Mathiolus Clematis tertia nennet / ehẽ
+|#|||||||||||||||||#||||-||||||||||||#
+Mnthiolus Clematis rerti~ nennet / ehe
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/01000e.gt.txt
+die blu◌ͤet gar hart oder zeitig werden / drey
+|||||||||||||||||||||||||||||||||||||||||||||
+die blu◌ͤet gar hart oder zeitig werden / drey
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/01000f.gt.txt
+theil / Reinblumen alſo genommen vor
+||||||||||||||||||||||||||||||||||||
+theil / Reinblumen alſo genommen vor
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010010.gt.txt
+der zeitigung 2. theil / Stein Lindenblu◌ͤet
+|||||||||#|||-#|-||||||||||||||-|||||||||||
+der zeitiaung~n.~theil / Stein ~indenblu◌ͤet
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010011.gt.txt
+auch fru◌ͤh abgenom◌̃en ein theil / dieſe drey
+||||||||-||||||||##||||||||||||||-||||||||||
+auch fru~h abgenoffen ein theil /~dieſe drey
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010012.gt.txt
+temperiere fein zuſamen mit dem Knob⸗
+|||||||||||||||||||||||||||||||||||||
+temperiere fein zuſamen mit dem Knob⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010013.gt.txt
+lauchſafft oder Lehnenſafft / oder Lehnen⸗
+|||||||||||||||||||||||||||||-|||||#||||||
+lauchſafft oder Lehnenſafft /~oder lehnen⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010014.gt.txt
+blu◌ͤetwaſſer / vnd dergleichen gar vil / Leh⸗
+|||||||||||||||||||||||||||||||||||||||||||||
+blu◌ͤetwaſſer / vnd dergleichen gar vil / Leh⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010015.gt.txt
+nenbletter hat auch die Natur vnd Art /
+|||||||||||||||||||||||||||||||||||||||
+nenbletter hat auch die Natur vnd Art /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010016.gt.txt
+das ſo man ſie nimbt in dem Krebs oder
+||||||||||||||||||||||||||||||||||||||
+das ſo man ſie nimbt in dem Krebs oder
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010017.gt.txt
+Scorpion / auch im September / daß ſie
+|#||||||||||||||||||||||||||||||||||||
+Seorpion / auch im September / daß ſie
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0024/010018.gt.txt
+von natur hefftig an ſich zeucht Gallſu◌ͤch⸗
+|#|||||||||||||||-|||||||-|||||||||||||#|||
+vvn natur hefftig~an ſich~zeucht Gallſuich⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010001.gt.txt
+tige flu◌ͤß / allein im ſchatten gedo◌ͤrret / vnd
+#||||||||||||||||||||||||||||||||||||-#||||||||
+iige flu◌ͤß / allein im ſchatten gedo◌ͤ~net / vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010002.gt.txt
+ein blat auff den ſchaden gelegt / ſo zeucht
+||||||||||||||||||||||||||||||||||||||||||||
+ein blat auff den ſchaden gelegt / ſo zeucht
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010003.gt.txt
+es alle Gallſu◌ͤchtige Flu◌ͤß vnd ding her⸗
+|||||||||||||||||||||||||||||||||||||||#|
+es alle Gallſu◌ͤchtige Flu◌ͤß vnd ding hen⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010004.gt.txt
+auß / laßt auch keinen Fluß nicht ſtecken /
+|||||||||||||||||||||||||||||||||||||||||||
+auß / laßt auch keinen Fluß nicht ſtecken /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010005.gt.txt
+der von der Gallen ein Vrſprung hat /
+|||||||||||||||||||||||||||||||||||||
+der von der Gallen ein Vrſprung hat /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010006.gt.txt
+oder eine einige Hitz in ſich / Abends vnd
+||||||||||||||||||||||||||||||||||||||||||
+oder eine einige Hitz in ſich / Abends vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010007.gt.txt
+Morgens ein blat auff den ſchadẽ gelegt.
+|||||||||||||||||||||||||||||||-||||||||
+Morgens ein blat auff den ſchad~ gelegt.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010008.gt.txt
+Dieſe ding alle / ſo in diſem grad ſtehn /
+||||||||||||||||||||||||||||||||||||||||||
+Dieſe ding alle / ſo in diſem grad ſtehn /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010009.gt.txt
+ſafftig in die Schuh gelegt / zeucht Geel⸗
+||||||||||||||||||||||||||||||||||||||||||
+ſafftig in die Schuh gelegt / zeucht Geel⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/01000a.gt.txt
+ſu◌ͤchtig Waſſer zun Solen herauß / alſo
+|||||||||||||||||||||||||||||||||||||||
+ſu◌ͤchtig Waſſer zun Solen herauß / alſo
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/01000b.gt.txt
+hefftig / das es auch die Waſſerſu◌ͤchtigen
+||||||||||||||||||||||||||||||||||||||||||
+hefftig / das es auch die Waſſerſu◌ͤchtigen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/01000c.gt.txt
+hilfft / vnd erlo◌ͤßt / Allein die Lehnenblet⸗
+||||||||||||||||||||||||||||||||||#||||||||||
+hilfft / vnd erlo◌ͤßt / Allein die lehnenblet⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/01000d.gt.txt
+ter vnd blu◌ͤet / ſolt man etwas zuſetzen von
+|||||||||||-||||-|||||||||||||||||||||||||||
+ter vnd blu~et /~ſolt man etwas zuſetzen von
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/01000e.gt.txt
+Rettichſaf~t / oder Merrettich / ſonſt zeucht
+||||||||||+|||-||||||||#||||||||-||||||||||||
+Rettichſafft /~oder Mernettich /~ſonſt zeucht
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/01000f.gt.txt
+er blatern. Das thut auch Camepitis
+||||||||||||||||||||||||||||||||||#
+er blatern. Das thut auch Camepiti⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010010.gt.txt
+lignola, auch die jungen ſchoß von den
+||||||##||||||||||||||||||||||||||||||
+lignols⸗ auch die jungen ſchoß von den
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010011.gt.txt
+edlen weiſ~ſen Weinreben / Vnd ſo man
+||||||||||+#|||||||||||||||||||||||||
+edlen weiſfEen Weinreben / Vnd ſo man
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010012.gt.txt
+dieſe drey ding / als Weinreben / Lehnen /
+||||||||||||||||||||||||||||||||||||||||||
+dieſe drey ding / als Weinreben / Lehnen /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010013.gt.txt
+Cam~ep~itis, zu a◌ͤſchen brennet / vnd deren
+|||+||+|||-||||||||||||||||||||||||||||||||
+Cam ep iti~, zu a◌ͤſchen brennet / vnd deren
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010014.gt.txt
+a◌ͤſche zweyer Hu◌ͤner eyer dick in Tuch ge⸗
+||||||||||||||||||||||||||||||||||||||||||
+a◌ͤſche zweyer Hu◌ͤner eyer dick in Tuch ge⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010015.gt.txt
+bunden / in Wein gelegt / ſo digerierts ta◌ͤg⸗
+|||||||||||||||||||||||||-|||||||||||||-|||||
+bunden / in Wein gelegt /~ſo digerierts~ta◌ͤg⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010016.gt.txt
+lich / vnd treibt die Waſſerſucht von ei⸗
+|||||||||||||||||||||||||||||||||||||||||
+lich / vnd treibt die Waſſerſucht von ei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010017.gt.txt
+nem Menſchen.
+|||||||||||||
+nem Menſchen.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0025/010018.gt.txt
+Jn dem Zwilling oder in der Wage /
+||||||||||||||||||||||||||-|||||||
+Jn dem Zwilling oder in de~ Wage /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010001.gt.txt
+ſeind auch ding / die es thun im letzten
+||||||||||||||||||||||||||||||||||||||||
+ſeind auch ding / die es thun im letzten
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010002.gt.txt
+grad / ſeind auch viel ding / die die Waſſer⸗
+||||||-|||||||||||||||-||||||-|||||||||||||||
+grad /~ſeind auch viel~ding /~die die Waſſer⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010003.gt.txt
+ſucht alſo hin verzehren / als vnzeitig Ca⸗
+||||||||||||||||||||||||||||||||||||||||#||
+ſucht alſo hin verzehren / als vnzeitig Ea⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010004.gt.txt
+millenkraut zu a◌ͤſchen gebrant / vnd alſo
+|||||||||||||||||||||||||||||||||||||||||
+millenkraut zu a◌ͤſchen gebrant / vnd alſo
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010005.gt.txt
+gebraucht / Auch vnzeitige Reinblumen /
+|||||||||||||||||||||||||||||||||||||||
+gebraucht / Auch vnzeitige Reinblumen /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010006.gt.txt
+Tanacetum genandt / auch der Bocks⸗
+|||||||||||||||||||||||||||||||||||
+Tanacetum genandt / auch der Bocks⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010007.gt.txt
+bart / auch der gemeine Daurant / welcher
+|||||||||||||||||||||||||||||||||||||||||
+bart / auch der gemeine Daurant / welcher
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010008.gt.txt
+in den erſten grad geho◌ͤrt / vnd derglei⸗
+|||||||||||||||||||||||||||||||||||||||||
+in den erſten grad geho◌ͤrt / vnd derglei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010009.gt.txt
+chen viel / allein in Wein gelegt ſo rohe /
+|||||||||-|||||||||||||||||||||||||||||||||
+chen viel~/ allein in Wein gelegt ſo rohe /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/01000a.gt.txt
+thun ſie allgemach die Waſſerſucht hin⸗
+|||||||||||||||||||||||||||||||||||||||
+thun ſie allgemach die Waſſerſucht hin⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/01000b.gt.txt
+weg / welche von einem Hertzklopffen
+||||||||||||||||||||||||||#|||||||||
+weg / welche von einem Hernzklopffen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/01000c.gt.txt
+kompt / das ſeind Blutwaſſerſucht / auch
+||||||||||||||||||||||||||||||||||||||||
+kompt / das ſeind Blutwaſſerſucht / auch
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/01000d.gt.txt
+Roßmiſt zu a◌ͤſchen gebrandt / vnd alſo ge⸗
+||||||||||-|||||||||||||||||||||||||||||||
+Roßmiſt zu~a◌ͤſchen gebrandt / vnd alſo ge⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/01000e.gt.txt
+braucht im Wein / thut die Blut waſſer⸗
+|||||||||||||||||||||||||||||||||||||||
+braucht im Wein / thut die Blut waſſer⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/01000f.gt.txt
+ſucht / welche von der Cholera kompt /
+#||||||||||||||||||||||||#||||||||||||
+fucht / welche von der Chalera kompt /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010010.gt.txt
+hinweg. Alſo werden dieſe ding in den er⸗
+|||||||-|||||||||||||||||||||||||||||||||
+hinweg.~Alſo werden dieſe ding in den er⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010011.gt.txt
+ſten grad geſetzt / in welchem der Geiſt
+||||||||||||||||||||||||||||||||||||||||
+ſten grad geſetzt / in welchem der Geiſt
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010012.gt.txt
+vberflu◌ͤßig iſt / vnd die Materi zugrob /
+|||||||||||||||||||||||||||||||||||||||||
+vberflu◌ͤßig iſt / vnd die Materi zugrob /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010013.gt.txt
+vnd deſſelbenhalben iſt jhr Geiſt durch⸗
+||||||||||||||||||||||||||||||||||||||||
+vnd deſſelbenhalben iſt jhr Geiſt durch⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010014.gt.txt
+tringent / zeucht alle Geſchwulſt / vnnd
+||||||||||||||||||||||||||||||||||||||||
+tringent / zeucht alle Geſchwulſt / vnnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010015.gt.txt
+Gifft hin. Aber die im erſten grad deß
+||||||||||||||||||||||||||||||||||||||
+Gifft hin. Aber die im erſten grad deß
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010016.gt.txt
+Schu◌ͤtzens ſtehn / thun die Waſſerſucht
+|||||||||||||||||||||||||||||||||||||||
+Schu◌ͤtzens ſtehn / thun die Waſſerſucht
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010017.gt.txt
+hin / ſo von einer Geelſucht oder Tertian
+|||||||||||||||||||||||||||||||||||||||||
+hin / ſo von einer Geelſucht oder Tertian
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0026/010018.gt.txt
+Feiber kommen.
+||||||||||||||
+Feiber kommen.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010001.gt.txt
+Es iſt die gro◌ͤſte Tugend die Gótt den
+|||||||||||||||||||||||||||||||#||-|||
+Es iſt die gro◌ͤſte Tugend die Gott~den
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010002.gt.txt
+Menſchen geben hat / in den zweyen er⸗
+||||||||||||||||||||||||||||||||||||||
+Menſchen geben hat / in den zweyen er⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010003.gt.txt
+ſten graden deß Geiſtlichen Zeichens / vnd
+||||||||||||||||||||||||||||||||||||||||||
+ſten graden deß Geiſtlichen Zeichens / vnd
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010004.gt.txt
+in den letzten zweyen graden deß Ant pa⸗
+||||||||||||||||||||||||||||||||||||||||
+in den letzten zweyen graden deß Ant pa⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010005.gt.txt
+tiſchen Zeichens / Dann dieſe ding haben
+||||||||||||||||||||||||||||||||||||||||
+tiſchen Zeichens / Dann dieſe ding haben
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010006.gt.txt
+einen perfecten Geiſt / die in den zweyen
+|||||||||||#|||||||||||||||||||||||||||||
+einen perfeeten Geiſt / die in den zweyen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010007.gt.txt
+erſten graden ſtehen / damit ſie vberflu◌ͤßi~ge
+||||||||||||||||||||||||||||-||||||||||##||+#|
+erſten graden ſtehen / damit~ſie vberfli ßi ze
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010008.gt.txt
+Materi an ſich ziehen / vnd digerieren vn⸗
+||||||||||||||||||||||||||||||||||||||||||
+Materi an ſich ziehen / vnd digerieren vn⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010009.gt.txt
+der ſich / darnach der Gewalt der Materi
+|||-||||||||||||||||||||||||||||||||||||
+der~ſich / darnach der Gewalt der Materi
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/01000a.gt.txt
+iſt / ſo laſſen ſie nichts ſtecken / ſondern
+||||||||||||||||||||||||||||||||||||||||||||
+iſt / ſo laſſen ſie nichts ſtecken / ſondern
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/01000b.gt.txt
+nemmen allen vberfluß Materialiſch mit
+||||||||||||||||||||||||||||||||||||||
+nemmen allen vberfluß Materialiſch mit
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/01000c.gt.txt
+jhrem vollkommenen Geiſt hinweg / rei⸗
+#|||||||||||||||||||||||||-|||||||||||
+ſhrem vollkommenen Geiſt h~nweg / rei⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/01000d.gt.txt
+nigen alſo die ſcha◌ͤden / vnd alles was von
+|||||||||||||||||||||||||||||||||||||||||||
+nigen alſo die ſcha◌ͤden / vnd alles was von
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/01000e.gt.txt
+Seelſu◌ͤchtigen Materialiſchen Flu◌ͤſſen
+#|||||||||||||||||||||||||||||||||||||
+Geelſu◌ͤchtigen Materialiſchen Flu◌ͤſſen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/01000f.gt.txt
+vorhanden iſt / in ſcha◌ͤden vnd am Leib.
+||||||||||||||||||||||||||||||||||||||||
+vorhanden iſt / in ſcha◌ͤden vnd am Leib.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010010.gt.txt
+Darum~◌̃ der rechte grund aller weichung /
+|||||+#||||||||||||||||||||||||||||||||||
+Darumfi der rechte grund aller weichung /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010011.gt.txt
+zeitigung in den zweyen erſten graden ſte⸗
+|||||||||||||||||||||||||||||||||||||||#||
+zeitigung in den zweyen erſten graden ſle⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010012.gt.txt
+het deß Geiſtes / doch ein jedes nach ſeiner
+||||||||||||||||||||||||||||||||||||||||||||
+het deß Geiſtes / doch ein jedes nach ſeiner
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010013.gt.txt
+art der Feuchtigkeit / Aber auß den an⸗
+|||||||||||||||||||||||||||||||||||||||
+art der Feuchtigkeit / Aber auß den an⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010014.gt.txt
+dern zweyen graden deß dritten vnd vier⸗
+||||||||||||||||||||||||||||||||||||||||
+dern zweyen graden deß dritten vnd vier⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010015.gt.txt
+ten deß Harmoniſchen Zeichens ſollen
+||||||||||||||||||||||||||||||||||||
+ten deß Harmoniſchen Zeichens ſollen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010016.gt.txt
+die Wundtra◌ͤncke gemacht werden / wie⸗
+||||||||||||||||||||||||||||||||||||||
+die Wundtra◌ͤncke gemacht werden / wie⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010017.gt.txt
+wol ſie auch groſſe weichung geben / aber
+|||-|||||||||||||||||||||||||||||||||||||
+wol~ſie auch groſſe weichung geben / aber
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0027/010018.gt.txt
+jhr Geiſt viel bequemer durch Tra◌ͤnck /
+#||||||||||||||||#|||||||||||||||||||||
+ſhr Geiſt viel beguemer durch Tra◌ͤnck /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010001.gt.txt
+dann der Geiſt durchtringet vnd ſcheidet
+||||||||||||||||||||||||||||||||||||||||
+dann der Geiſt durchtringet vnd ſcheidet
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010002.gt.txt
+alles ſauber vnd reines von dem vnſau⸗
+||||||||||||||||||||||||||||||||||||||
+alles ſauber vnd reines von dem vnſau⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010003.gt.txt
+bern vnd vnreinen / Aber im vierten grad
+||||||||||||||||||||#|||||||||||||||||||
+bern vnd vnreinen / Lber im vierten grad
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010004.gt.txt
+deß Schu◌ͤtzens purgieren etwas / vnd ſon~⸗
+|||||||||-#|||||||||||||||||||||||||||||+|
+deß Schu◌ͤ~nens purgieren etwas / vnd ſon ⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010005.gt.txt
+derlich all Metall die darinnen erfunden
+||||||||||||||||||||||-|||||||||||||||||
+derlich all Metall die~darinnen erfunden
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010006.gt.txt
+w~erden / wie das ordenlich nach einander
+|+||||||||||||||||#||||||||||||||||||||||
+wwerden / wie das vrdenlich nach einander
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010007.gt.txt
+erzelt wird werden. Dann der vierte grad
+||||||||||||||||||||||||||||||||||||||||
+erzelt wird werden. Dann der vierte grad
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010008.gt.txt
+hat ein Schweffel / welcher allzeit vberſich
+|||-||||||||||||-||-||||||||||||||||||||||||
+hat~ein Schweffe~ /~welcher allzeit vberſich
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010009.gt.txt
+tringet / vnd ein ro◌ͤſche gibt durchs Blut
+||||||||||||||||||||||||||||||||||||||||||
+tringet / vnd ein ro◌ͤſche gibt durchs Blut
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/01000a.gt.txt
+in die Arterien / wie das in ſeinen Exem⸗
+|||||||||||||||||||||||||||||||||||||#|||
+in die Arterien / wie das in ſeinen Erem⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/01000b.gt.txt
+p~eln folgen wird.
+|+||||||||||||||||
+ppeln folgen wird.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/01000c.gt.txt
+Der erſte grad deß Widers ſtehet in
+|||||||||||||||||||||||||||||||||||
+Der erſte grad deß Widers ſtehet in
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/01000d.gt.txt
+der vollkommenheit / wie dann alle Sym⸗
+||||||||||||||||||||||||-||||||||||||||
+der vollkommenheit / wie~dann alle Sym⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/01000e.gt.txt
+patiſche Zeichen / Vnd dieſe Kra◌ͤuter wer⸗
+#||||||||||||||||||||||||||||||||||||-||||
+zatiſche Zeichen / Vnd dieſe Kra◌ͤuter~wer⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/01000f.gt.txt
+den hieher geſetzt / darumb das jhr Saltz
+|||||||||||||||||||||||||||||||||||||||||
+den hieher geſetzt / darumb das jhr Saltz
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010010.gt.txt
+ſchier den Schweffel vbertringet / vnd das
+||||||-|||||||||||||-|||||||||||||||||||||
+ſchier~den Schweffel~vbertringet / vnd das
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010011.gt.txt
+Saltz ſtehet im andern grad / wie das an
+||||-|||||||||||||||||||||||||||||||||||
+Salt~ ſtehet im andern grad / wie das an
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010012.gt.txt
+ſeinem orth gelernet wird werden. Der
+|||||||||||||||||||||||||||||||||||||
+ſeinem orth gelernet wird werden. Der
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010013.gt.txt
+Jungfrawen im andern grad / dahin dieſe
+|||||||||||||||||||||||||||-|||||||||||
+Jungfrawen im andern grad /~dahin dieſe
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010014.gt.txt
+Kra◌ͤuter alle geho◌ͤren / deß Saltz vnd der
+||||||||||||||||||||||||||||||||||||||||||
+Kra◌ͤuter alle geho◌ͤren / deß Saltz vnd der
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010015.gt.txt
+geſaltzenen ſubſtantz halber / aber jhr ge⸗
+|||||||||||||||||||||||||||||||||||||||||||
+geſaltzenen ſubſtantz halber / aber jhr ge⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010016.gt.txt
+ſchmack zeucht den Schweffel an / drumb
+||||||||||||||||||||||||||||-||||||||||
+ſchmack zeucht den Schweffel~an / drumb
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010017.gt.txt
+es hieher geſetzt wird.
+|||||||||||||||-|||||||
+es hieher geſet~t wird.
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0028/010018.gt.txt
+Dieſe Kra◌ͤuter ſeind dem Magen im
+|||||||||||||||||||||||||||||||||
+Dieſe Kra◌ͤuter ſeind dem Magen im
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/010001.gt.txt
+Pulver oder Tran~k trefflich gut / dann
+|||#||||||||||||+||||||||||||||||||||||
+Puloer oder Tranck trefflich gut / dann
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/010002.gt.txt
+die Signatur gibt jhnen zu dem M~agen
+||||||||||||||||||||||||||||||||+||||
+die Signatur gibt jhnen zu dem Mkagen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/010003.gt.txt
+den gro◌ͤſten Preiß / dann die Signatur
+||||||||||||||||||||||||||||||||||||||
+den gro◌ͤſten Preiß / dann die Signatur
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/010004.gt.txt
+vergleicht ſich gantz vnd gar mit einan⸗
+|||||||||||||||||||-#|||||||||||||||||||
+vergleicht ſich gan~n vnd gar mit einan⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/010005.gt.txt
+der / wie ~das an ſeinem orht verzeichnet
+||||||||||+||||||||||||||||||||||||||||||
+der / wie Pdas an ſeinem orht verzeichnet
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/010006.gt.txt
+wird / ſeind der Gall vnd Leber ohne ſcha⸗
+|||||||||||||||||#||||||||||||||||||-|||||
+wird / ſeind der Dall vnd Leber ohne~ſcha⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/010007.gt.txt
+den / doch mit jhrem Natu◌ͤrlichen zuſatz /
+||||||||||||||||||||||||||||||||||||||||||
+den / doch mit jhrem Natu◌ͤrlichen zuſatz /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/010008.gt.txt
+auß dem erſten grad deß Waſſermans vñ
+||||||||||||||||||||||||||||||||||||#
+auß dem erſten grad deß Waſſermans vi
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/010009.gt.txt
+Jungfraw / wie das auff der Figur ſtehet /
+||||||||||||||||||||||||||||||||||||||||||
+Jungfraw / wie das auff der Figur ſtehet /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/01000a.gt.txt
+So ſind ſie dem Miltz fu◌ͤrtrefflich gut /
+|||||||||||||||||||||||||||||||||||||||||
+So ſind ſie dem Miltz fu◌ͤrtrefflich gut /
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/01000b.gt.txt
+lo◌ͤſchen die Gall / geben dem Magen da◌ͤw⸗
+#|||||||||||||||||||||||||||||||||||||-||
+io◌ͤſchen die Gall / geben dem Magen da~w⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/01000c.gt.txt
+ung / jhrer weiſſen ſubſtantz halben / Jhrer
+|||||-||||||||||||||||||||||||||||||||||||||
+ung /~jhrer weiſſen ſubſtantz halben / Jhrer
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/01000d.gt.txt
+Schweffeliſchen ſubſtantz halber reinigen
+|||||||||||||||||||||||||||||||||||||||||
+Schweffeliſchen ſubſtantz halber reinigen
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/01000e.gt.txt
+ſie die Venas ~Melenterij, Jhres ſaltz hal⸗
+|||-||||-|||||+#||||#||-##|||||||||||||||||
+ſie~die ~enas hlelenier~ñ. Jhres ſaltz hal⸗
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/01000f.gt.txt
+ben tru◌ͤcknen ſie das Miltz / vnd das auff
+||||||||||||||||||||||||||-|||||||||||||||
+ben tru◌ͤcknen ſie das Milt~ / vnd das auff
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/010010.gt.txt
+zweyerley art / durch das Saltz vnd zwey
+||#|||||||||||||||||||||||||||-|||||||||
+zwryerley art / durch das Salt~ vnd zwey
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/010011.gt.txt
+theil / vnd ein grad Schweffels / Faule
+|||||||||||||||||||||||||||||||||||||||
+theil / vnd ein grad Schweffels / Faule
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/010012.gt.txt
+da◌ͤmpff / welche vberſich ſteigen / verzehren
+|||||||||-|||||||||||||||||||||||||||||||||||
+da◌ͤmpff /~welche vberſich ſteigen / verzehren
+
+data/adaptive/1609-Kräutterbuch-Carrichter/0029/010013.gt.txt
+ſie / vnd halten ſie vnderſich.
+|||||||||||||||||||||||||||||||
+ſie / vnd halten ſie vnderſich.
+
